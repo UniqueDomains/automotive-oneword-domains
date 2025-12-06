@@ -50,7 +50,7 @@ If you want to search & filters the complete database of [Automotive one word do
 | cars.xyz      | expiring  | 66       | 56%    | 4      | NameSilo, LLC                                             | 30/07/2021 18:48 | 30/07/2025 23:59 |
 | cars.zone     | expiring  | 66       | 56%    | 4      | GoDaddy.com, LLC                                          | 17/07/2015 06:58 | 17/07/2025 06:58 |
 | car.co        | resell    | 94       | 100%   | 3      | Dynadot Inc                                               | 23/04/2010 08:11 | 22/04/2027 23:59 |
-| car.dev       | available | 94       | 100%   | 3      |                                                           |                  |                  |
+| car.dev       | premium   | 94       | 100%   | 3      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Automotive-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
