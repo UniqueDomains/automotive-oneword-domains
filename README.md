@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Automotive one word do
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain        | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| repair.ai     | resell    | 84       | 80%    | 6      | GoDaddy.com, LLC                                          | 16/12/2017 03:50 | 24/05/2026 03:50 |
-| repair.app    | resell    | 84       | 80%    | 6      | Squarespace Domains II LLC.                               | 04/05/2018 16:00 | 04/05/2026 16:00 |
-| repair.at     | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.co     | resell    | 84       | 80%    | 6      | 1API GmbH                                                 | 09/09/2010 15:11 | 08/09/2025 23:59 |
-| repair.com    | expiring  | 84       | 80%    | 6      | CSC Corporate Domains, Inc.                               | 29/07/1995 04:00 | 28/07/2025 04:00 |
-| repair.dev    | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.expert | resell    | 84       | 80%    | 6      | GoDaddy.com, LLC                                          | 04/11/2016 16:09 | 04/11/2025 16:09 |
-| repair.io     | resell    | 84       | 80%    | 6      | Key-Systems GmbH                                          | 24/05/2014 00:30 | 24/05/2026 00:30 |
-| repair.it     | resell    | 84       | 80%    | 6      |                                                           | 12/10/2005 00:00 | 07/10/2025 00:00 |
-| repair.ninja  | resell    | 84       | 80%    | 6      | Global Domains International, Inc. DBA DomainCostClub.com | 28/05/2014 17:00 | 28/05/2026 17:00 |
-| repair.online | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.site   | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.space  | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.store  | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.tech   | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
-| repair.us     | resell    | 84       | 80%    | 6      | Name.com, Inc.                                            | 24/04/2002 14:03 | 23/04/2026 23:59 |
-| repair.xyz    | resell    | 84       | 80%    | 6      | Go Daddy, LLC                                             | 14/08/2021 14:43 | 14/08/2025 23:59 |
-| cars.at       | available | 66       | 56%    | 4      |                                                           |                  |                  |
-| cars.cloud    | resell    | 66       | 56%    | 4      | Name.com, Inc.                                            | 23/02/2016 05:02 | 23/02/2026 05:02 |
-| cars.co       | resell    | 66       | 56%    | 4      | Hello Internet Corp.                                      | 24/02/2010 23:17 | 23/02/2026 23:59 |
-| cars.gg       | resell    | 66       | 56%    | 4      | West263 International Limited (http://www.west263.hk)     |                  |                  |
-| cars.online   | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
-| cars.site     | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
-| cars.space    | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
-| cars.store    | resell    | 66       | 56%    | 4      | Dotserve Inc                                              | 23/12/2016 11:20 | 23/12/2029 23:59 |
-| cars.tech     | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
-| cars.xyz      | expiring  | 66       | 56%    | 4      | NameSilo, LLC                                             | 30/07/2021 18:48 | 30/07/2025 23:59 |
-| cars.zone     | expiring  | 66       | 56%    | 4      | GoDaddy.com, LLC                                          | 17/07/2015 06:58 | 17/07/2025 06:58 |
-| car.co        | resell    | 94       | 100%   | 3      | Dynadot Inc                                               | 23/04/2010 08:11 | 22/04/2027 23:59 |
-| car.dev       | premium   | 94       | 100%   | 3      |                                                           |                  |                  |
+| Domain         | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
+| -------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
+| repair.ai      | resell    | 84       | 80%    | 6      | GoDaddy.com, LLC                                          | 16/12/2017 03:50 | 24/05/2026 03:50 |
+| repair.app     | resell    | 84       | 80%    | 6      | Squarespace Domains II LLC.                               | 04/05/2018 16:00 | 04/05/2026 16:00 |
+| repair.at      | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.co      | resell    | 84       | 80%    | 6      | 1API GmbH                                                 | 09/09/2010 15:11 | 08/09/2025 23:59 |
+| repair.com     | expiring  | 84       | 80%    | 6      | CSC Corporate Domains, Inc.                               | 29/07/1995 04:00 | 28/07/2025 04:00 |
+| repair.dev     | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.expert  | resell    | 84       | 80%    | 6      | GoDaddy.com, LLC                                          | 04/11/2016 16:09 | 04/11/2025 16:09 |
+| repair.io      | resell    | 84       | 80%    | 6      | Key-Systems GmbH                                          | 24/05/2014 00:30 | 24/05/2026 00:30 |
+| repair.it      | resell    | 84       | 80%    | 6      |                                                           | 12/10/2005 00:00 | 07/10/2025 00:00 |
+| repair.ninja   | resell    | 84       | 80%    | 6      | Global Domains International, Inc. DBA DomainCostClub.com | 28/05/2014 17:00 | 28/05/2026 17:00 |
+| repair.online  | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.site    | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.space   | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.store   | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.tech    | premium   | 84       | 80%    | 6      |                                                           |                  |                  |
+| repair.us      | resell    | 84       | 80%    | 6      | Name.com, Inc.                                            | 24/04/2002 14:03 | 23/04/2026 23:59 |
+| repair.xyz     | resell    | 84       | 80%    | 6      | Go Daddy, LLC                                             | 14/08/2021 14:43 | 14/08/2025 23:59 |
+| cars.at        | available | 66       | 56%    | 4      |                                                           |                  |                  |
+| cars.cloud     | resell    | 66       | 56%    | 4      | Name.com, Inc.                                            | 23/02/2016 05:02 | 23/02/2026 05:02 |
+| cars.co        | resell    | 66       | 56%    | 4      | Hello Internet Corp.                                      | 24/02/2010 23:17 | 23/02/2026 23:59 |
+| cars.gg        | resell    | 66       | 56%    | 4      | West263 International Limited (http://www.west263.hk)     |                  |                  |
+| cars.online    | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
+| cars.site      | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
+| cars.space     | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
+| cars.store     | resell    | 66       | 56%    | 4      | Dotserve Inc                                              | 23/12/2016 11:20 | 23/12/2029 23:59 |
+| cars.tech      | premium   | 66       | 56%    | 4      |                                                           |                  |                  |
+| cars.xyz       | expiring  | 66       | 56%    | 4      | NameSilo, LLC                                             | 30/07/2021 18:48 | 30/07/2025 23:59 |
+| cars.zone      | expiring  | 66       | 56%    | 4      | GoDaddy.com, LLC                                          | 17/07/2015 06:58 | 17/07/2025 06:58 |
+| car.accountant | available | 94       | 40%    | 3      |                                                           |                  |                  |
+| car.actor      | resell    | 94       | 40%    | 3      | Spaceship, Inc.                                           | 08/03/2025 22:18 | 08/03/2026 22:18 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Automotive-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Automotive one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
