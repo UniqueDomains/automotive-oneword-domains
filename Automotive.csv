@@ -30,7 +30,7 @@ f0fcdfa9-cc7d-4dfc-84eb-03119ed7acdf,cars.zone,expiring,66,56,4,"GoDaddy.com, LL
 b5245543-ebef-422c-a501-64369dda7f1e,car.accountant,premium,94,40,3,,,
 33d2d091-a484-42d0-a4f5-32d05de66332,car.actor,resell,94,40,3,"Spaceship, Inc.",08/03/2025 22:18,08/03/2026 22:18
 db91e947-3be8-4f18-8178-080aab4f4ecf,car.adult,premium,94,40,3,,,
-48c31234-cdb0-4a3e-8ee5-bd361d60caaf,car.agency,expiring,94,40,3,"Sav.com, LLC - 26",09/12/2023 15:15,09/12/2025 15:15
+48c31234-cdb0-4a3e-8ee5-bd361d60caaf,car.agency,resell,94,40,3,"Sav.com, LLC - 26",09/12/2023 15:15,09/12/2026 15:15
 707cdec8-6660-4f01-8710-60c5006755ac,car.apartments,premium,94,40,3,,,
 499b97fd-931d-4f8e-b398-4d195a3f2609,car.art,premium,94,40,3,,,
 f807ac78-f506-45d7-bc0a-ef573a583a88,car.associates,premium,94,40,3,,,
@@ -54,7 +54,7 @@ ca22a8c8-dbe8-4cce-a391-c314a9046aef,car.bot,premium,94,40,3,,,
 ebb208f9-9760-44af-b45a-37473e510a84,car.business,premium,94,40,3,,,
 448bc280-399b-4e81-bc15-4644e62651cc,car.cam,premium,94,40,3,,,
 78f0246b-3d05-4147-bff9-317bee630250,car.capital,resell,94,40,3,"NameCheap, Inc.",30/09/2024 18:42,30/09/2026 18:42
-7ba62415-f99f-4b8c-8d42-d5dbd7f3e516,car.cards,premium,94,40,3,,,
+7ba62415-f99f-4b8c-8d42-d5dbd7f3e516,car.cards,sold,94,40,3,"NameCheap, Inc.",12/12/2025 14:56,12/12/2026 14:56
 22e403ac-bb4e-4722-a295-beac2eb912c2,car.care,resell,94,40,3,1API GmbH,05/04/2021 21:57,05/04/2026 21:57
 c1719c53-a8a0-4d9c-9ede-0e612a2336d5,car.cars,available,94,40,3,,,
 cc35e12f-9cc4-431f-ac46-c5837142951f,car.cash,expiring,94,40,3,"GoDaddy.com, LLC",28/12/2024 23:23,28/12/2025 23:23
@@ -76,6 +76,7 @@ b1338d53-830d-4378-8761-b8c718cce797,car.church,resell,94,40,3,"Global Domains I
 2c11363b-5b99-4b52-b9f3-6e06457902e5,car.community,expiring,94,40,3,"Sav.com, LLC",09/12/2017 21:05,09/12/2025 21:05
 8992f660-7fd1-4e52-a418-7dba5337bf6e,car.company,resell,94,40,3,"Name.com, Inc.",26/06/2015 15:27,26/06/2030 15:27
 ae5e51ba-94aa-4049-b7d3-2f2783ae2349,car.construction,premium,94,40,3,,,
+ac0b9466-a8aa-46ca-a737-a61e7f97d989,car.contact,resell,94,40,3,"NameCheap, Inc.",07/12/2020 01:25,07/12/2026 01:25
 533d904f-060c-40df-a65f-18b3daf530ef,car.cooking,premium,94,40,3,,,
 5565c296-2bed-4f56-a4e4-66bb4e6d8fbf,car.country,premium,94,40,3,,,
 59496cd4-3ba7-4ca0-8208-8e274dd17827,car.coupons,premium,94,40,3,,,
@@ -83,7 +84,7 @@ e17eddae-2ea1-420b-b150-45b106c18aac,car.courses,premium,94,40,3,,,
 11bca593-4d72-405e-8a8d-6365cf9bec72,car.credit,premium,94,40,3,,,
 32fe8c8b-6eb8-4d3d-b042-52f1e821acc9,car.creditcard,premium,94,40,3,,,
 32446dc0-04de-434c-b9da-8b22cefaa27c,car.cricket,premium,94,40,3,,,
-d47bc58a-fd90-4385-bff9-6f6a49945bd5,car.cruises,resell,94,40,3,"Name.com, Inc.",12/01/2016 02:45,12/01/2026 02:45
+d47bc58a-fd90-4385-bff9-6f6a49945bd5,car.cruises,expiring,94,40,3,"Name.com, Inc.",12/01/2016 02:45,12/01/2026 02:45
 368bb058-704f-41c8-8e0e-d5e9aec460cd,car.cv,premium,94,40,3,,,
 6a99459e-2632-430d-bacd-a6bb6bcbfdc3,car.dad,premium,94,40,3,,,
 b144f911-93f2-4c8e-91a4-9b980bed0d59,car.date,premium,94,40,3,,,
@@ -94,7 +95,7 @@ f08eb524-e28f-4fd1-8b16-b03bbf655ce5,car.deal,premium,94,40,3,,,
 b5c9df2e-0ba7-42b8-9afc-2a708731f8ec,car.democrat,available,94,40,3,,,
 15ed252a-ab8b-40a1-b039-8262f0600702,car.dental,available,94,40,3,,,
 27d95440-4916-4b4e-ba97-0465ed9c2b4c,car.dentist,premium,94,40,3,,,
-b97c99fb-ba14-4a08-bce7-a397297fcc3a,car.design,resell,94,40,3,"Sav.com, LLC - 2",14/01/2025 00:02,14/01/2026 00:02
+b97c99fb-ba14-4a08-bce7-a397297fcc3a,car.design,expiring,94,40,3,"Sav.com, LLC - 2",14/01/2025 00:02,14/01/2026 00:02
 f5104802-913c-471c-a35a-9a28aaf212e7,car.dev,sold,94,40,3,Porkbun LLC,16/11/2025 19:16,16/11/2026 19:16
 f1d2d7ee-5a7f-42d0-9f45-5d4f5492d5bf,car.diamonds,available,94,40,3,,,
 47287aef-0eb1-42ca-9c14-9d66e2ab8d92,car.diet,premium,94,40,3,,,
@@ -104,7 +105,7 @@ a7991c3f-477b-4964-ae31-6ca51a611e0a,car.discount,premium,94,40,3,,,
 bfe6c2aa-b5ee-444f-bee0-a5473b2e56d0,car.dog,resell,94,40,3,Automattic Inc.,14/04/2023 15:15,14/04/2031 15:15
 aef74ef0-5bab-4e6a-9409-7cdfb19dce59,car.domains,premium,94,40,3,,,
 a9df3da6-731a-43e7-b0e7-f2c48408f949,car.download,premium,94,40,3,,,
-d09b1fa1-02f0-448e-b0ce-32983f0e641e,car.earth,expiring,94,40,3,Porkbun,10/12/2019 15:17,10/12/2025 15:17
+d09b1fa1-02f0-448e-b0ce-32983f0e641e,car.earth,resell,94,40,3,Porkbun,10/12/2019 15:17,10/12/2026 15:17
 bd6d23a6-6fbb-45b5-995b-03431c2ffb8b,car.education,resell,94,40,3,"Sav.com, LLC",20/11/2020 08:15,20/11/2026 08:15
 c6789137-94e2-44f9-baa9-1ef90e7113f4,car.email,expired,94,40,3,"Global Domains International, Inc. DBA DomainCostClub.com",03/10/2018 00:03,03/10/2025 00:03
 96753872-d988-4ae1-8120-d73af5c07438,car.engineer,premium,94,40,3,,,
@@ -142,8 +143,8 @@ e0d28100-8dad-4501-b7ec-7ef20bf0c21a,car.gay,premium,94,40,3,,,
 0dd55659-1cc2-47bc-921a-07ab76da6c32,car.gives,premium,94,40,3,,,
 63c31c42-19da-4488-a41a-bd069523bc3d,car.giving,available,94,40,3,,,
 720ae968-cc75-4103-895b-30ea29e49a59,car.global,premium,94,40,3,,,
-47f5116e-3a98-4392-a44a-0186311a1b1c,car.gmbh,resell,94,40,3,Porkbun LLC,12/01/2022 13:15,12/01/2026 13:15
-0aadc02f-bc51-48ab-9f04-253225b8d5ca,car.gold,expiring,94,40,3,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2018 00:10,12/12/2025 00:10
+47f5116e-3a98-4392-a44a-0186311a1b1c,car.gmbh,expiring,94,40,3,Porkbun LLC,12/01/2022 13:15,12/01/2026 13:15
+0aadc02f-bc51-48ab-9f04-253225b8d5ca,car.gold,resell,94,40,3,"DNSPod, Inc.",12/12/2018 00:10,12/12/2026 00:10
 76b2d1c6-cc56-4479-a125-1f906dd9e1de,car.golf,expiring,94,40,3,"GoDaddy.com, LLC",24/12/2023 02:41,24/12/2025 02:41
 2ef9f840-a008-4eea-ab17-9bb30b402f1c,car.gratis,premium,94,40,3,,,
 2dbb9fa3-a006-417d-ad58-bec64e1e8404,car.gripe,premium,94,40,3,,,
@@ -169,7 +170,7 @@ c38e642c-da09-4c71-8bd3-50a50e290605,car.immo,resell,94,40,3,"Sav.com, LLC",27/0
 d9528318-4a5d-43a5-baab-e4d687f427d4,car.industries,premium,94,40,3,,,
 20209852-3491-4a3f-acf5-6474cf4dfd32,car.international,resell,94,40,3,Porkbun LLC,01/07/2015 01:47,01/07/2026 01:47
 c2af337c-aa35-4c95-b79c-845a49f3a954,car.irish,premium,94,40,3,,,
-d899bf4a-2403-4ce6-8f41-2c6e7abf50b1,car.it,expiring,94,40,3,,03/10/1996 00:00,08/12/2025 00:00
+d899bf4a-2403-4ce6-8f41-2c6e7abf50b1,car.it,expired,94,40,3,,03/10/1996 00:00,08/12/2025 00:00
 ae6029a6-a298-47c5-b2c5-ef716ea1b0ae,car.jetzt,resell,94,40,3,united-domains GmbH,21/06/2016 10:00,21/06/2026 10:00
 ac0ae6d5-9dd2-4b22-9093-fb246d3a0437,car.jewelry,available,94,40,3,,,
 bd61e55e-17d6-4af1-97b2-86882b895c90,car.juegos,available,94,40,3,,,
@@ -204,7 +205,7 @@ b8e75da3-88b8-49f4-9c77-d9c61c01d81d,car.menu,premium,94,40,3,,,
 16f657f0-f9c3-47a7-b5b5-63e6aeb3e2a3,car.miami,premium,94,40,3,,,
 8b9ac893-341d-4afe-bb06-db2de15b6442,car.mobi,premium,94,40,3,,,
 d22f6bf0-65c6-4634-a1db-c78dd40ce2c5,car.moe,resell,94,40,3,Dynadot Inc,05/05/2021 13:18,05/05/2026 13:18
-94b9f80b-4a8e-4b24-a288-e4ddfc434fa7,car.mom,expiring,94,40,3,Namecheap,09/12/2020 06:47,09/12/2025 23:59
+94b9f80b-4a8e-4b24-a288-e4ddfc434fa7,car.mom,sold,94,40,3,Namecheap,09/12/2020 06:47,09/12/2026 23:59
 06f30ac5-428b-45f8-8df9-8031089f3457,car.money,premium,94,40,3,,,
 7590c310-5d8e-4456-9263-2a0d42ad28d6,car.mortgage,premium,94,40,3,,,
 bd06196c-061e-4f11-94ef-28923e3cf639,car.motorcycles,premium,94,40,3,,,
@@ -220,7 +221,7 @@ dd48382f-b16e-48b7-8894-64b816f123a1,car.music,premium,94,40,3,,,
 73193c18-44b7-435e-b179-a3b6fca5dfd2,car.osaka,premium,94,40,3,,,
 3df256a8-5429-49f0-a144-f8a52bdf3925,car.partners,premium,94,40,3,,,
 cdfd7525-f739-4ebf-8352-add544fd5be9,car.party,premium,94,40,3,,,
-311a8d7b-c131-468f-9b94-022a9ea31b81,car.pet,premium,92,40,3,,,
+311a8d7b-c131-468f-9b94-022a9ea31b81,car.pet,premium,94,40,3,,,
 08dd6807-8a7b-4ab3-9d71-26ad9161f42a,car.phd,premium,94,40,3,,,
 9fb491fd-e8e4-4e89-80af-466c3f0f1318,car.photo,expiring,94,40,3,"Spaceship, Inc.",30/12/2024 10:16,30/12/2025 10:16
 b07c064e-6fa2-4390-b082-9fc30f6d0d88,car.photos,resell,94,40,3,"NameCheap, Inc.",05/09/2018 18:14,05/09/2026 18:14
@@ -228,8 +229,9 @@ b07c064e-6fa2-4390-b082-9fc30f6d0d88,car.photos,resell,94,40,3,"NameCheap, Inc."
 68753fe0-f401-423b-a06a-81321ecdb7c3,car.pizza,premium,94,40,3,,,
 68593213-ccbd-4eca-b60f-acdf4c57002c,car.place,premium,94,40,3,,,
 2418b313-cfc4-46b4-95ea-746bff08cdd0,car.plumbing,available,94,40,3,,,
-05312936-d902-415a-b036-44344fb6db28,car.poker,premium,94,40,3,,,
+05312936-d902-415a-b036-44344fb6db28,car.poker,resell,94,40,3,"Xiamen ChinaSource Internet Service Co., Ltd",08/12/2025 15:15,08/12/2026 15:15
 03efeee9-0215-482a-8615-4b454b6e4abd,car.press,premium,94,40,3,,,
+c6e3bb2d-b1df-46fc-95b6-e02cd90d3d48,car.pro,expiring,94,40,3,"eNom, LLC",13/01/2011 00:00,13/01/2026 00:00
 ed7a8f6a-5520-4479-afe2-27cdcff3a59d,car.prof,premium,94,40,3,,,
 d7f1bd6e-abe9-44a0-b6f1-e9ddc8de1ed3,car.promo,premium,94,40,3,,,
 af09266d-db42-4c2d-8965-e0daf1466176,car.properties,premium,94,40,3,,,
@@ -266,6 +268,7 @@ cdcb085f-4070-48b2-bd1b-cea8c76a5209,car.sexy,premium,94,40,3,,,
 44494517-c0d4-40ab-b28a-3d245268ef40,car.shiksha,premium,94,40,3,,,
 ff0c92ba-89b1-4626-8152-a40da4ece00b,car.shoes,available,94,40,3,,,
 bde479f0-00da-42d5-8579-a2a80fcd7f2f,car.shopping,premium,94,40,3,,,
+ffde8dab-75e4-459d-82bf-8206cbc2c9c6,car.show,expiring,94,40,3,"Sav.com, LLC",09/01/2025 08:00,09/01/2026 08:00
 61af4a4a-878c-4536-9b37-3c64f15176f9,car.singles,resell,94,40,3,"Global Domains International, Inc. DBA DomainCostClub.com",19/02/2019 15:58,19/02/2026 15:58
 5a405b50-8b64-409d-bcce-b4836d82f22a,car.site,premium,94,40,3,,,
 7aaad84f-f44c-42aa-860b-d84c82723244,car.ski,premium,94,40,3,,,
@@ -285,7 +288,7 @@ f97dd25f-0198-4267-a8ea-d46f89cf699c,car.supplies,premium,94,40,3,,,
 08feede9-7353-4da5-8713-332d3610d31b,car.supply,premium,94,40,3,,,
 d1a6885b-d348-4972-aaec-175a5bc4938f,car.surgery,premium,94,40,3,,,
 35893bfe-cef3-4876-a31a-b1db381ef53a,car.sydney,premium,94,40,3,,,
-35bf470e-ab6f-4636-8b7c-95e9caf874f1,car.systems,expired,94,40,3,"Regional Network Information Center, JSC dba RU-CENTER",01/10/2024 09:18,01/10/2025 09:18
+35bf470e-ab6f-4636-8b7c-95e9caf874f1,car.systems,premium,94,40,3,,,
 26635bfc-e942-4fad-9812-36c3c7f1c86b,car.talk,premium,94,40,3,,,
 35a4c626-87b9-40ec-a033-3a77196f324c,car.tattoo,premium,94,40,3,,,
 d898df56-ba4f-48c1-9933-26714d111598,car.tel,resell,94,40,3,RegistryGate GmbH,23/03/2009 00:01,22/03/2026 23:59
@@ -318,286 +321,290 @@ dd3c4b04-031f-4800-8352-07812a0a757b,car.work,resell,94,40,3,GoDaddy Online Serv
 c528de84-2978-42f4-b9a0-fbe0a5440eed,car.yachts,premium,94,40,3,,,
 c8cf5a63-7e8f-4a1b-b08c-0ce6cfa1a96e,car.yoga,premium,94,40,3,,,
 6d45f0d5-ffc0-43c5-8f21-ff8663438675,car.zip,premium,94,40,3,,,
-321796ad-ba7b-4476-9c80-a2bdaf6ee0b7,auto.ac,expiring,68,43,4,Key-Systems GmbH,09/12/2012 17:10,09/12/2025 17:10
-99db8a90-1476-4cb2-8290-839e826e413e,auto.accountant,premium,68,43,4,,,
-71130aab-ca65-436f-9422-240e48c6dd4d,auto.accountants,resell,68,43,4,Dynadot Inc,14/10/2025 19:16,14/10/2026 19:16
-396660e3-28ef-49db-bc83-198282cca62a,auto.adult,premium,68,43,4,,,
-8aff9ae9-9bfd-4e38-b801-bbcbea16f283,auto.agency,resell,68,43,4,GoDaddy Online Services Cayman Islands Ltd.,25/10/2015 02:52,25/10/2026 02:52
-49130f9c-4da2-4b0f-84de-90ab149fdc52,auto.art,premium,68,43,4,,,
-d072423c-5355-41f9-8951-b2dc5df5444d,auto.associates,premium,68,43,4,,,
-cf6de50f-2b0f-47d1-acd4-eb02542077b5,auto.at,available,68,43,4,,,
-f559a61d-b84f-4d1a-b74f-7ba729335a3e,auto.auction,premium,68,43,4,,,
-7c0e49bb-9db2-4fb2-addc-5f53a427493e,auto.audio,available,68,43,4,,,
-264f57a9-6cf1-403c-9178-f7b8897cad4a,auto.autos,premium,68,43,4,,,
-43788ddb-2283-44a9-9482-a72ed3f7407c,auto.baby,premium,68,43,4,,,
-d5f912d0-01ab-45d7-82f3-51575a303ae4,auto.bar,premium,68,43,4,,,
-de9b8017-8c9c-4390-b46b-a312f370a5ab,auto.bargains,premium,68,43,4,,,
-da1c102b-177c-4f06-8232-44d43f44fc66,auto.bayern,premium,68,43,4,,,
-109eb063-3a40-4db2-bb09-2f2308943f72,auto.beauty,premium,68,43,4,,,
-22f0d442-4383-415e-a8f2-e813a3155d43,auto.berlin,resell,68,43,4,,27/11/2015 20:16,27/11/2026 20:16
-212e698e-e53c-4c6d-bc4f-b843bf9188f6,auto.bingo,premium,68,43,4,,,
-f742a7d2-8549-49e2-95d5-9c9ec7784dc0,auto.blackfriday,available,68,43,4,,,
-b1d129d4-3125-469c-a542-bdbd2d998144,auto.blog,premium,68,43,4,,,
-86927053-ce71-489b-b560-cd6ae66a204d,auto.blue,premium,68,43,4,,,
-095052af-6f05-412e-9791-7ba3e91dd8f4,auto.boats,premium,68,43,4,,,
-adfae8d7-a5ac-4418-bfba-ec2bf37a00f4,auto.bond,resell,68,43,4,Dominet (HK) Limited,15/11/2020 15:35,15/11/2030 23:59
-00aa67e7-c775-48c5-b777-3d29c055be96,auto.boo,premium,68,43,4,,,
-63a8cca2-8e23-4eea-afe0-18e45abc872a,auto.boston,expiring,68,43,4,"GoDaddy.com, LLC",15/12/2017 16:32,15/12/2025 16:32
-deb05f6b-94a2-4f32-b73b-bbe3460029fc,auto.bot,expiring,68,43,4,"NameCheap, Inc",26/12/2024 14:26,26/12/2025 14:26
-1d7d99df-41c7-4ec1-b5b0-a5b34919fb9b,auto.builders,premium,68,43,4,,,
-9f42537f-4039-42f5-82d2-89238f95ed1e,auto.business,premium,68,43,4,,,
-0476fa2c-932b-4482-ac63-19cc5daf5edc,auto.ca,resell,68,43,4,Grape Inc.,27/10/2000 15:50,19/04/2026 04:00
-689f5be3-62ca-4625-adf4-9e926f8ff571,auto.cab,expiring,68,43,4,"Sav.com, LLC - 19",20/12/2023 15:16,20/12/2025 15:16
-a1476bb4-bf2e-45e6-824b-f634b993fdf5,auto.cafe,expiring,68,43,4,"Chengdu West Dimension Digital Technology Co., Ltd.",18/12/2018 08:22,18/12/2025 08:22
-134367b6-48d9-4f46-b415-928e2e577f2f,auto.cam,premium,68,43,4,,,
-2b4b4d11-59dc-4f1a-8b46-6e7bfc5a7c60,auto.capital,resell,68,43,4,Dynadot Inc,03/06/2017 01:07,03/06/2027 01:07
-df2979eb-7fd6-40a9-ac25-842cceac2fdb,auto.car,available,68,43,4,,,
-0cb6ace5-9009-4774-ab39-518dc8cf7adf,auto.care,resell,68,43,4,Dynadot Inc,24/08/2015 20:07,24/08/2026 20:07
-34119d21-7a94-4546-8177-6276051fed82,auto.cars,available,68,43,4,,,
-779b6871-c929-4904-bb2f-cd014eac4133,auto.cash,resell,68,43,4,"Sav.com, LLC",17/08/2014 16:05,17/08/2026 16:05
-cf78480d-8db9-4352-81ee-1594d1cad34e,auto.ceo,premium,68,43,4,,,
-bc628956-c055-4ff2-a2e2-621dac518662,auto.cfd,premium,68,43,4,,,
-c0d2b5ca-b7d7-4f33-961e-cffcbac9a726,auto.church,resell,68,43,4,"Global Domains International, Inc. DBA DomainCostClub.com",28/04/2020 12:13,28/04/2026 12:13
-e9444eee-3035-447a-ae1e-ad1bc3e9b8e5,auto.cleaning,premium,68,43,4,,,
-856094a9-52f0-4205-b6f4-9e2e0773028c,auto.click,resell,68,43,4,Porkbun LLC,13/04/2019 22:12,13/04/2026 22:12
-e080913c-e35d-4787-bf38-8eb9b2e99ba7,auto.clothing,resell,68,43,4,Dynadot Inc,07/09/2025 17:06,07/09/2026 17:06
-abf2cb74-0c9f-48ab-a64a-74e9a61987d8,auto.cloud,resell,68,43,4,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
-993513b2-8270-4777-986a-127a083843aa,auto.club,resell,68,43,4,"GoDaddy.com, LLC",16/08/2017 19:25,16/08/2026 19:25
-5f629a56-7fdd-4024-ad19-2c144b679f5b,auto.college,premium,68,43,4,,,
-753aa1c4-2a7b-4dd4-b5be-646b81bafe0c,auto.company,resell,68,43,4,"Spaceship, Inc.",03/09/2019 00:03,03/09/2026 00:03
-5d36b51d-ecf8-41a7-a6a7-c163bbcf954c,auto.condos,premium,68,43,4,,,
-2b48d53b-9dab-4e0f-9fc9-f9d39c3591c2,auto.contractors,premium,68,43,4,,,
-510f4c9d-2716-4fb0-9d29-a8e49c61670e,auto.cooking,premium,68,43,4,,,
-75e9474e-6856-416c-905d-e6092bcbd8a6,auto.cool,resell,68,43,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/09/2017 21:15,05/09/2026 21:15
-681f5abd-1ce8-498b-9ddc-436b5b8e75d3,auto.country,premium,68,43,4,,,
-b9b100f2-00d0-4bb7-bcf5-37cf73634fa5,auto.coupons,premium,68,43,4,,,
-3e2c92c2-5f75-474f-9cf9-7d97cfc5eeea,auto.creditcard,premium,68,43,4,,,
-4fc05cf3-38f0-4244-b0ec-3b508ed4b17f,auto.cricket,available,68,43,4,,,
-2c785f04-109d-4bee-b64d-09ed08d7cf93,auto.cruises,premium,68,43,4,,,
-dfe5e4f1-eb5a-45e3-9b61-c648a1af4bff,auto.cx,resell,68,43,4,West263 International Limited,01/09/2019 00:00,01/09/2027 13:11
-3014e075-0fbd-4f44-a292-45f1d44c1fb1,auto.cyou,premium,68,43,4,,,
-8c8f70c6-cac4-455b-b5f8-514f2f26d66c,auto.dad,premium,68,43,4,,,
-a0684a1a-0676-42d4-a73b-9d672e2303e6,auto.dating,premium,68,43,4,,,
-c5a5998b-b064-4a4f-b0ed-9b7b69b83c6e,auto.day,premium,68,43,4,,,
-aaf9d753-a5c6-44f0-a4b6-aca420e733db,auto.deal,premium,68,43,4,,,
-6a37d035-639a-415d-a2e8-0ba68f7a2297,auto.degree,available,68,43,4,,,
-e247f43c-9b98-4b38-8058-f286ae0c4313,auto.delivery,premium,68,43,4,,,
-b1f848fa-9982-4f6f-b960-77ae19fc9512,auto.dental,available,68,43,4,,,
-05b4a2bb-51e0-4e9e-8709-0131aeb37c9c,auto.dentist,premium,68,43,4,,,
-da96d5d0-935e-471a-99d7-a4816f82bcf5,auto.dev,sold,68,43,4,Porkbun LLC,24/07/2021 00:08,24/07/2026 00:08
-e658cd43-ed55-4bad-ab1b-9009b826df65,auto.diamonds,available,68,43,4,,,
-fcfca018-ae76-41d5-814d-d17ebf7ce9ba,auto.diet,available,68,43,4,,,
-944695f5-a6d1-4487-b82c-5155c87df56a,auto.direct,premium,68,43,4,,,
-acc31247-95f6-4f8a-9e17-233e6716081a,auto.directory,premium,68,43,4,,,
-3f739f47-c434-45f1-a881-25c162e6c235,auto.discount,premium,68,43,4,,,
-4b533ea9-4b17-4c1c-ace6-ffd426b6194d,auto.diy,premium,68,43,4,,,
-4cbc52ab-ff76-446c-8586-b290e00d1305,auto.doctor,premium,68,43,4,,,
-f62696f3-e341-43c2-b771-8c3484224596,auto.dog,premium,68,43,4,,,
-1d29d81d-f0c3-4ab6-86cc-11f46fac3c81,auto.download,premium,68,43,4,,,
-81ce9675-a883-4f03-9b01-f2bbf8693eb7,auto.education,resell,68,43,4,Porkbun LLC,10/06/2017 04:09,10/06/2026 04:09
-d6d13a0c-e234-4a8c-8302-90b9db416b49,auto.email,resell,68,43,4,Edomains LLC,26/10/2025 15:16,26/10/2026 15:16
-6ca8b252-e2ba-4b1b-8636-df0762fc5451,auto.energy,premium,68,43,4,,,
-3d4ba626-d1fa-4ae2-a3a3-cb9d4157924c,auto.enterprises,resell,68,43,4,"Spaceship, Inc.",19/09/2021 17:01,19/09/2026 17:01
-551ab1b7-b1bc-4941-bfa1-0abcaebc8016,auto.esq,premium,68,43,4,,,
-5648cc75-8506-4acf-bb80-aa2a591d349b,auto.eu,premium,68,43,4,,,
-038f1d16-3c52-4b17-9dc2-acf00e37f163,auto.events,resell,68,43,4,"GoDaddy.com, LLC",07/10/2018 07:23,07/10/2026 07:23
-3d113fe3-6bdf-4656-99e1-7cc7fcba59d1,auto.exchange,premium,68,43,4,,,
-73a164d4-fcf4-431e-b46e-44d95f5c47e8,auto.expert,premium,68,43,4,,,
-797e5985-69f7-478c-b986-9d9636cf2702,auto.exposed,premium,68,43,4,,,
-824de38d-8a8a-4dad-8073-d633ea35ac25,auto.express,resell,68,43,4,"Sav.com, LLC",14/06/2024 10:01,14/06/2026 10:01
-807b5073-8114-447e-a7e9-8db6b06814f4,auto.fail,premium,68,43,4,,,
-e8514ce2-44ab-4ab7-ba5c-d1d7db84985e,auto.faith,premium,68,43,4,,,
-0e0f9ad1-3166-44e0-be85-15b22642724a,auto.family,premium,68,43,4,,,
-d6a386c8-a402-4239-ac2c-89a319e746c0,auto.fan,premium,68,43,4,,,
-ea1bca6e-cae7-4e34-9586-5a71676a14e1,auto.fans,premium,68,43,4,,,
-0b8ad88b-4271-4b0c-921e-cdd7528f5cec,auto.fashion,resell,68,43,4,eDomains LLC,09/12/2024 00:00,09/12/2026 00:00
-8255262c-88f9-49c6-9c6b-d03b0f628c05,auto.fishing,premium,68,43,4,,,
-610d434a-e57c-42c3-b865-34c176f1cceb,auto.fitness,premium,68,43,4,,,
-6af2a57c-f063-49c6-9d2d-1c41c2efdec6,auto.flights,premium,68,43,4,,,
-e69b7fe9-d1f8-492a-8ee8-c6d92d989d3a,auto.foo,premium,68,43,4,,,
-2e883567-74e4-4a9e-b140-7dda7e447fa8,auto.food,premium,68,43,4,,,
-5e8f5d78-025b-4b96-8925-b31d4ea21451,auto.forsale,premium,68,43,4,,,
-0639882a-ab92-4fe4-8508-2e9d8bc97f5e,auto.forum,premium,68,43,4,,,
-9ecb6cb2-5a1c-42fe-97f0-80566022f624,auto.foundation,premium,68,43,4,,,
-36461ed5-207b-4307-941f-00a3434cb27d,auto.free,premium,68,43,4,,,
-872df3e0-8296-41e2-92bb-c95a6d9db755,auto.furniture,available,68,43,4,,,
-7139ffe4-a92f-4ab2-afc4-58d6eadeb39a,auto.games,premium,68,43,4,,,
-89e3837b-e116-4e2a-abe6-8fda9e41871e,auto.garden,expiring,68,43,4,"GoDaddy.com, LLC",27/12/2018 07:30,27/12/2025 07:30
-c0924049-f1d4-451c-a997-e9438fa0809e,auto.gay,premium,68,43,4,,,
-44b7fa29-7a84-4161-8f7e-ad0e7227840c,auto.gg,resell,68,43,4,West263 International Limited (http://www.west263.hk),,
-7269824d-5dfe-4d2e-8d24-97b2190d0a4c,auto.gift,premium,68,43,4,,,
-5dba5c6b-bad2-45cf-8c9e-c260ea27fc31,auto.gives,premium,68,43,4,,,
-86bd153f-b1d5-4026-9ff7-f1dfce689b32,auto.giving,available,68,43,4,,,
-30b489e1-a669-47a1-8c34-5c7e4e20e011,auto.global,premium,68,43,4,,,
-999e0eb6-3732-49fd-979f-dd832aa766da,auto.golf,expiring,68,43,4,"Sav.com, LLC",25/12/2024 17:21,25/12/2025 17:21
-f7a187ff-fcde-45c6-83f3-b50ae3314c2f,auto.gratis,premium,68,43,4,,,
-61b517b0-59f8-4611-bd5c-67e2ee54cedb,auto.green,premium,68,43,4,,,
-f239f916-a367-4e3a-9e20-a402ff75bbfe,auto.group,resell,68,43,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/11/2020 12:11,07/11/2026 12:11
-d8fe33ee-3db4-4d43-af81-2935b070969f,auto.guide,resell,68,43,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/02/2021 17:12,17/02/2026 17:12
-fc857294-90eb-49dc-a645-be3ce3d4755e,auto.guitars,available,68,43,4,,,
-f625ceeb-0cdf-47b4-b1b2-9403612fbb4d,auto.guru,resell,68,43,4,"Spaceship, Inc.",02/07/2024 15:15,02/07/2026 15:15
-88bb74b7-4535-49ad-a7fa-a503348ca8c0,auto.hair,premium,68,43,4,,,
-d2843fe6-ae0e-4d17-91f9-e119e877ef68,auto.health,resell,68,43,4,Dynadot Inc,27/04/2021 20:08,27/04/2027 20:08
-10888bf5-cf42-4a5b-a958-63d33ca461e6,auto.healthcare,resell,68,43,4,"GoDaddy.com, LLC",26/05/2024 23:07,26/05/2026 23:07
-061eca4f-0ba9-4734-9be3-4af5bfb4243d,auto.hiphop,available,68,43,4,,,
-9c22c03c-42e7-44bf-944f-f7fda64bcd38,auto.hiv,premium,68,43,4,,,
-94fde968-e6be-4a52-b79a-6171508b55fe,auto.hockey,available,68,43,4,,,
-e78d2c0a-43d2-4f04-8085-22766ac9ede2,auto.homes,premium,68,43,4,,,
-79620478-22d1-4930-9532-3ccff6a687ed,auto.horse,premium,68,43,4,,,
-7901cfdf-f238-44bf-82b5-6b4c656aaa5a,auto.hospital,premium,68,43,4,,,
-0543ffdb-385d-4448-9483-3121cad18ebf,auto.host,premium,68,43,4,,,
-9e5d1cad-5747-4c55-a446-ba0075d27504,auto.hot,premium,68,43,4,,,
-2db2b2c2-6b5f-4233-af96-6a265ba5835a,auto.house,premium,68,43,4,,,
-de4cadb0-14a8-4049-a8cf-b98269a14bc5,auto.how,resell,68,43,4,Porkbun LLC,01/03/2020 17:32,01/03/2026 17:32
-1766dfcf-0cd6-4826-b16c-4d68a48b3853,auto.icu,premium,68,43,4,,,
-aa99a471-3e44-47e6-9785-c0a818f221c5,auto.im,premium,68,43,4,,,
-1efafad0-83b7-4375-93ed-49526664efde,auto.immo,resell,68,43,4,"Sav.com, LLC - 46",15/09/2025 17:00,15/09/2026 17:00
-e9ea4aa4-e62c-4c83-b155-67e02b96df49,auto.in,resell,68,43,4,"Dynadot, LLC",16/02/2005 06:30,16/02/2035 06:30
-45684069-6d65-420f-949b-bae46f26082a,auto.industries,premium,68,43,4,,,
-7af15a3c-222c-4522-a99a-2bab70a9d8d0,auto.info,resell,68,43,4,IONOS SE,31/07/2001 13:49,31/07/2026 13:49
-15505fe0-4588-46b4-ac6a-bbe51f166388,auto.ing,premium,68,43,4,,,
-1222ca93-69fa-4388-a3af-777c82d35e2c,auto.international,resell,68,43,4,"GoDaddy.com, LLC",14/09/2020 23:13,14/09/2026 23:13
-e23ea257-e65b-4bec-a37f-0f6d81ea2518,auto.io,resell,68,43,4,"Spaceship, Inc.",25/06/2004 21:17,25/06/2026 21:17
-d0c8d4fd-94d1-4f44-a667-cc97a6a18ee2,auto.jewelry,available,68,43,4,,,
-2b27aac8-7b2c-42a0-9501-1a34ee7e8c6b,auto.juegos,available,68,43,4,,,
-5909fd03-a653-4d8a-8ad8-27e727fa9221,auto.kaufen,premium,68,43,4,,,
-eb8e332a-5ee4-4bca-9b91-e12125be494f,auto.kids,premium,68,43,4,,,
-356176b8-3be9-40d9-a4ba-5f7de5f6003f,auto.kim,premium,68,43,4,,,
-c354dbfc-2975-471d-8e8b-6d4d1857a7dc,auto.kitchen,premium,68,43,4,,,
-30d7d974-986e-48a8-8721-00757e98004e,auto.lease,premium,68,43,4,,,
-1649a084-c5be-4b20-8176-23fb25b80f17,auto.lgbt,premium,68,43,4,,,
-b198acef-6898-4607-9a0f-94ae116c41c0,auto.lifestyle,premium,68,43,4,,,
-1390bd97-fde6-4aae-8e8d-7511eb463d81,auto.lighting,resell,68,43,4,Squarespace Domains II LLC,20/07/2017 04:59,20/07/2028 04:59
-0625af18-7fba-4259-af6b-b872c73edadb,auto.living,premium,68,43,4,,,
-85e572b7-5ca8-4b3e-9f34-41227e2b35d5,auto.llc,premium,68,43,4,,,
-21fad589-e4a8-4936-a96f-49d0be78f0d6,auto.locker,premium,68,43,4,,,
-2bdc6144-f24f-4421-9411-6d80e663e013,auto.london,premium,68,43,4,,,
-87d29a8b-ed3b-4f04-a2e8-a703a180cb68,auto.love,premium,68,43,4,,,
-61c28dad-5b9a-4755-b69e-944acdfc1ef9,auto.ltd,resell,68,43,4,"Spaceship, Inc.",19/06/2016 18:45,19/06/2026 18:45
-e05bb7c3-82c3-426a-8c74-96602390cf40,auto.ltda,premium,68,43,4,,,
-901ca5bf-afd2-47b4-98b4-bdff07bdba73,auto.luxe,available,68,43,4,,,
-31d3f655-1ceb-4841-9200-0e30f94d94e6,auto.luxury,premium,68,43,4,,,
-e673ea0c-798e-41ec-89d4-9b89b2f020a8,auto.maison,available,68,43,4,,,
-f5f8a2ac-a5bd-4267-b751-4a9886ed59ab,auto.makeup,premium,68,43,4,,,
-d62e12fd-6598-44a2-8bcc-c0316ce5563c,auto.management,resell,68,43,4,Porkbun LLC,16/02/2023 15:15,16/02/2026 15:15
-760fec2e-00e3-41c4-b862-a2c6d8784eb3,auto.mba,expiring,68,43,4,"Chengdu West Dimension Digital Technology Co., Ltd.",31/12/2020 16:00,31/12/2025 16:00
-84f92b3a-b037-4432-a661-8bbce0142b51,auto.media,resell,68,43,4,"Regional Network Information Center, JSC dba RU-CENTER",06/10/2017 08:16,06/10/2027 08:16
-4d5b03aa-38f9-4f97-918c-bb5e64a8d679,auto.melbourne,premium,68,43,4,,,
-bd640814-59b8-4c74-a2f8-2003cdd7a534,auto.meme,premium,68,43,4,,,
-588ca2df-6820-452d-ac9d-cf33cb215c39,auto.memorial,premium,68,43,4,,,
-b1515c78-5156-4fdc-bf55-d37918090355,auto.men,premium,68,43,4,,,
-2bd5346e-fa81-4ee6-be53-cbbfb219b53d,auto.menu,premium,68,43,4,,,
-e886f31d-e00a-4a7f-b806-fe2996a4a9e1,auto.miami,resell,68,43,4,"GoDaddy.com, LLC",22/01/2021 21:20,22/01/2026 21:20
-bef52259-74d4-47e6-bdad-c0ff00a09e5d,auto.moda,resell,68,43,4,Dynadot Inc,28/10/2015 15:57,28/10/2026 15:57
-a2eb1e75-f376-4219-9f55-2b04dc92e653,auto.mortgage,premium,68,43,4,,,
-58b6d5c1-3d85-4571-bbe2-1cb3918999c1,auto.motorcycles,premium,68,43,4,,,
-378f9d2f-7c23-45bb-8854-fbd927a9ac3c,auto.mov,premium,68,43,4,,,
-1ea20b69-fba5-4683-ba62-5f5f35133ee8,auto.movie,available,68,43,4,,,
-81eff3c8-a956-4346-a46d-04e0f413317a,auto.music,premium,68,43,4,,,
-ccb048cc-acd6-4323-8eb8-5e6299397c48,auto.name,premium,68,43,4,,,
-7ffc16f8-4e25-423a-84ef-0a32973604ff,auto.navy,available,68,43,4,,,
-331079bf-d200-4a10-9bb7-bd2d3981d054,auto.net,resell,68,43,4,"Network Solutions, LLC",02/11/1994 05:00,01/11/2028 04:00
-4285dc24-7d9f-44d0-b555-755ef69470f8,auto.nexus,premium,68,43,4,,,
-b509ca6f-d881-4380-97fe-af848119eaa3,auto.ngo,available,68,43,4,,,
-66818a34-0a42-40c5-ad86-8297655f7916,auto.now,resell,68,43,4,101domain GRS Limited,30/09/2024 13:02,30/09/2026 13:02
-639ca8ed-c3c3-4930-939c-b11f789c2cd5,auto.nyc,premium,68,43,4,,,
-926de15c-626c-48f6-b794-83525a8f7da3,auto.observer,premium,68,43,4,,,
-d3e40f8c-f974-4ee6-84e1-c5c8a12ab873,auto.ong,available,68,43,4,,,
-5fc28f87-7365-42cf-8a35-2812d78852d3,auto.online,premium,68,43,4,,,
-034e748e-6885-444d-a857-d529a8e6857d,auto.ooo,resell,68,43,4,Squarespace Domains II LLC,28/11/2014 00:54,28/11/2031 23:59
-34d7b7e2-43dd-4013-9b5b-89b8796379fc,auto.org,sold,68,43,4,Vautron Rechenzentrum AG,07/07/1997 04:00,06/07/2026 04:00
-60813f08-5985-47ed-b069-700c8e4eb594,auto.osaka,premium,68,43,4,,,
-3e3ad102-0b8f-432e-98e2-92a329e4e756,auto.party,premium,68,43,4,,,
-5d4dabdb-f705-4d52-91c2-ff01f1c17dcc,auto.pet,resell,68,43,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/10/2025 15:16,13/10/2026 15:16
-03382d88-645c-4dc2-a4b8-92c705660332,auto.phd,premium,68,43,4,,,
-a32dc457-c1ae-434b-8d66-6decd80c6ee6,auto.photo,premium,68,43,4,,,
-12c79587-ec24-4120-9a6d-e6e8744a8c8b,auto.pink,premium,68,43,4,,,
-ddd76668-d917-47f3-9a00-7dcb92c4e27a,auto.plumbing,available,68,43,4,,,
-bbf03384-0416-4399-9636-2ba46ac6c33c,auto.plus,resell,68,43,4,"Spaceship, Inc.",11/09/2024 15:15,11/09/2026 15:15
-89531070-645f-4cfa-b02c-753fbcaffa49,auto.press,premium,68,43,4,,,
-c40c3862-96ef-405f-9096-adee72b10719,auto.productions,premium,68,43,4,,,
-8f972910-bb7a-460e-b2d7-7c0587ed2fde,auto.prof,premium,68,43,4,,,
-d77c2c7a-2efc-4f09-9fe5-f3c99c17c55d,auto.promo,premium,68,43,4,,,
-4b41aebb-e2da-44b7-a7a1-1ac64ba993c5,auto.properties,resell,68,43,4,Dynadot Inc,27/10/2025 21:32,27/10/2026 21:32
-2ba0cef8-5ab3-4f45-bfa7-d21a3d4783b2,auto.property,premium,68,43,4,,,
-b8e9d4ce-8cbe-44a9-8744-f7c15d01340d,auto.protection,available,68,43,4,,,
-543d7106-4405-4a3f-8da1-07027645a9b1,auto.pw,premium,68,43,4,,,
-32aca6f0-7361-46d6-b43c-52a03491f3ba,auto.qpon,available,68,43,4,,,
-a4723c45-160f-4571-b215-50d7ad646de2,auto.quest,premium,68,43,4,,,
-3d582905-5bb3-414f-8dc9-8b162fb0c59b,auto.recipes,resell,68,43,4,"Sav.com, LLC - 21",16/05/2025 15:16,16/05/2026 15:16
-685b4789-5255-4625-ae37-fb237619eb72,auto.red,premium,68,43,4,,,
-90810881-7d58-48cd-a84e-47766979a1e9,auto.rehab,premium,68,43,4,,,
-628b340e-afdc-4864-988e-c4e0af645836,auto.reise,available,68,43,4,,,
-c0121cb1-2c6c-461a-97c9-e6af72d2be8d,auto.rest,premium,68,43,4,,,
-06a9fd55-a1f4-482e-a92b-5bd7c3d96e3e,auto.review,premium,68,43,4,,,
-166dcaf4-2b53-4885-9c11-cdf0d34b6182,auto.reviews,premium,68,43,4,,,
-b935872a-3e81-4548-97a7-60e05c435f1c,auto.rich,available,68,43,4,,,
-18b89966-d433-4194-b6f5-855d28359418,auto.rip,resell,68,43,4,"NameSilo, LLC",03/07/2020 09:37,03/07/2026 09:37
-1a700c47-1ec6-4809-a7a4-b0d787f52e13,auto.rocks,expiring,68,43,4,Porkbun LLC,03/01/2022 13:15,03/01/2026 13:15
-b4810a60-1e98-4c3e-9653-b4d5617c1660,auto.rodeo,premium,68,43,4,,,
-03a71491-4d48-41a2-9ae1-109550700fbc,auto.rsvp,premium,68,43,4,,,
-e905f8cb-523f-40cb-8847-5099e6be1a19,auto.sale,premium,68,43,4,,,
-29a160ff-727f-4761-90a7-b665845d855f,auto.salon,resell,68,43,4,Dynadot Inc,23/08/2017 16:05,23/08/2026 16:05
-d9e58b29-a090-4955-9c94-2e00115ad307,auto.sarl,available,68,43,4,,,
-5deba7d7-5bfb-41a7-94e4-24244cb68cf4,auto.sbs,premium,68,43,4,,,
-10b652f2-074b-444f-a5eb-f5e93e4d084c,auto.security,available,68,43,4,,,
-687e5840-f5c6-4563-8ded-b1f1cacda71a,auto.sexy,premium,68,43,4,,,
-33ecd952-cabc-4365-8e40-095ad6345625,auto.shiksha,premium,68,43,4,,,
-da13f07d-9f24-434c-be45-1582dc975c32,auto.shoes,premium,68,43,4,,,
-52d836e0-86f8-43a5-91b2-5a229d0d1476,auto.shopping,premium,68,43,4,,,
-fbc69640-f981-486a-b112-af62de60bb15,auto.show,premium,68,43,4,,,
-e3e45a94-ac10-4572-ae66-fb1943d79294,auto.singles,resell,68,43,4,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2020 18:34,08/06/2026 18:34
-f1788176-12e7-49b8-a715-77ab88173170,auto.site,premium,68,43,4,,,
-d448d666-6bbd-419d-8377-15ba83fffe6e,auto.skin,premium,68,43,4,,,
-4b67cf5f-2c57-4daf-972d-00208f9c0757,auto.so,resell,68,43,4,NameCheap,06/06/2021 05:03,06/06/2026 05:03
-deeca039-9136-4f61-ba7e-ca19b19594c1,auto.soccer,expiring,68,43,4,Tucows Domains Inc.,03/01/2021 05:54,03/01/2026 05:54
-9eb8776f-b217-4ce6-8b67-ab5ab919cf28,auto.software,premium,68,43,4,,,
-d5808525-6bc1-4304-b22b-956e51796122,auto.soy,premium,68,43,4,,,
-b415bcfe-4d1f-492c-81b3-fcad68dcb1e1,auto.space,premium,68,43,4,,,
-199d918c-48cb-43b6-85ee-f0e485a9dd3c,auto.spot,premium,68,43,4,,,
-d9b240a7-2261-405b-8e08-faf571383c62,auto.srl,available,68,43,4,,,
-f7f38a65-883d-4f18-bc71-6ac2c9407785,auto.store,premium,68,43,4,,,
-9994f2f4-8784-457f-8835-2aa1daef1303,auto.stream,premium,68,43,4,,,
-42c86569-1e67-484a-9515-aab54d9ed776,auto.study,expired,68,43,4,Sav.com LLC,04/11/2024 13:26,04/11/2025 13:26
-f7f35064-e7fa-4e0c-92c9-0a263bcf9fc6,auto.style,resell,68,43,4,Dynadot Inc,16/10/2024 15:15,16/10/2026 15:15
-3f523145-689d-4d81-a515-98437bf80737,auto.sucks,premium,68,43,4,,,
-ea8dc3cb-2e79-4b9b-a17e-80acaf6cd919,auto.surgery,premium,68,43,4,,,
-46a8d354-5315-41f6-b9cb-42b287146ce2,auto.sydney,premium,68,43,4,,,
-f852472a-332f-432e-b738-f83d5cc2b09a,auto.talk,premium,68,43,4,,,
-ecbf3271-a3e4-4996-9268-0559ca300d0a,auto.tax,resell,68,43,4,Porkbun LLC,18/04/2023 09:29,18/04/2026 09:29
-e786cb99-6def-4a49-b44c-98262584600a,auto.tech,sold,68,43,4,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
-06f1d025-9bb1-425d-af1a-c6c2a4d6bcda,auto.tennis,available,68,43,4,,,
-3c4631a4-a952-4fbf-aa7d-b9c20f4bdf11,auto.theater,available,68,43,4,,,
-c7ec35c5-61f0-4d8d-8f7f-5db1aeaabeaf,auto.theatre,available,68,43,4,,,
-0287a96e-3e4d-4114-933f-093fe90c77ae,auto.tickets,available,68,43,4,,,
-86102ff5-6f64-4a06-89a6-78e435fb7303,auto.tires,premium,68,43,4,,,
-eefe8a82-ef82-4c11-a295-e7485f40f305,auto.tools,premium,68,43,4,,,
-526512ff-4e70-407f-a47d-6ad9e2886bc3,auto.town,premium,68,43,4,,,
-1874b7ab-5672-44fd-9d50-80d492a432ae,auto.toys,premium,68,43,4,,,
-776a76e5-54d2-42e3-aa43-c5c325771be3,auto.tube,premium,68,43,4,,,
-cd6acb41-7070-44b1-9fee-95bfee8d96cd,auto.uno,premium,68,43,4,,,
-ccabdd1b-c9d8-4903-9a61-218f121e9797,auto.vacations,premium,68,43,4,,,
-f9c8ac6f-2a14-43d7-9247-ff913ae260ea,auto.vana,premium,68,43,4,,,
-4e9283d3-2ec1-4815-a3ec-7e4f5d9081a0,auto.vegas,premium,68,43,4,,,
-012794b7-2c9a-4b81-8db9-ef17385f2ead,auto.vet,resell,68,43,4,Dynadot Inc,16/11/2025 22:36,16/11/2026 22:36
-e1de4043-5113-4ec0-a79a-9db07dec9e06,auto.viajes,available,68,43,4,,,
-48b9f6be-34ef-4c5c-8f51-57eee8a02bf3,auto.video,premium,68,43,4,,,
-f6174411-323c-4f68-9f15-b74a6c2ec885,auto.villas,premium,68,43,4,,,
-b89f58b1-27e8-4306-b098-02ddeac51ddb,auto.vodka,premium,68,43,4,,,
-0bb3dab2-2c17-45c4-ad50-33ae13e6dbdd,auto.vote,resell,68,43,4,"Xiamen ChinaSource Internet Service Co., Ltd",18/02/2025 15:15,18/02/2026 15:15
-2d0223fd-3591-4e18-a3e2-f23dc9a8dc73,auto.voto,expired,68,43,4,"NameCheap, Inc.",02/10/2024 09:26,02/10/2025 09:26
-e64b69d6-cc68-4de7-8758-5164ba6713e3,auto.voyage,resell,68,43,4,"Global Domains International, Inc. DBA DomainCostClub.com",02/06/2025 15:16,02/06/2026 15:16
-860d7e85-e79e-4d16-81ed-258fd63cce21,auto.watch,premium,68,43,4,,,
-107360f4-860a-417c-85d2-740d67f7ebca,auto.webcam,premium,68,43,4,,,
-06a02218-4c6e-4d26-baa0-7f8c07cb914b,auto.website,premium,68,43,4,,,
-22578cec-7b22-4a05-8992-4b87d5863530,auto.wedding,premium,68,43,4,,,
-676aca48-ea8e-4ee3-9b5a-0cf2d60f1cab,auto.wiki,premium,68,43,4,,,
-c7c21de0-0787-47a0-a534-26f6cbd3b95f,auto.wine,resell,68,43,4,"Sav.com, LLC",11/02/2025 17:09,11/02/2026 17:09
-37dde4f9-d2e0-4533-bad3-f80717e8d450,auto.work,resell,68,43,4,"Global Domains International, Inc. DBA DomainCostClub.com",01/11/2023 07:29,01/11/2028 07:29
-bfde48b9-f1f7-47e7-8613-049c3ecb1213,auto.xyz,resell,68,43,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/11/2021 00:54,03/11/2026 23:59
-1319c0e6-23c9-4a0f-b3bd-d5ba4d47481f,auto.yachts,premium,68,43,4,,,
-b4b765e8-ed1b-45ca-a6e6-a858f27c3772,auto.yoga,expiring,68,43,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/01/2020 11:14,03/01/2026 11:14
-76c89624-0575-463a-b901-79857a351de2,auto.zip,premium,68,43,4,,,
+321796ad-ba7b-4476-9c80-a2bdaf6ee0b7,auto.ac,expired,68,42,4,Key-Systems GmbH,09/12/2012 17:10,09/12/2025 17:10
+99db8a90-1476-4cb2-8290-839e826e413e,auto.accountant,premium,68,42,4,,,
+71130aab-ca65-436f-9422-240e48c6dd4d,auto.accountants,resell,68,42,4,Dynadot Inc,14/10/2025 19:16,14/10/2026 19:16
+396660e3-28ef-49db-bc83-198282cca62a,auto.adult,premium,68,42,4,,,
+8aff9ae9-9bfd-4e38-b801-bbcbea16f283,auto.agency,resell,68,42,4,GoDaddy Online Services Cayman Islands Ltd.,25/10/2015 02:52,25/10/2026 02:52
+49130f9c-4da2-4b0f-84de-90ab149fdc52,auto.art,premium,68,42,4,,,
+d072423c-5355-41f9-8951-b2dc5df5444d,auto.associates,premium,68,42,4,,,
+cf6de50f-2b0f-47d1-acd4-eb02542077b5,auto.at,available,68,42,4,,,
+f559a61d-b84f-4d1a-b74f-7ba729335a3e,auto.auction,premium,68,42,4,,,
+7c0e49bb-9db2-4fb2-addc-5f53a427493e,auto.audio,available,68,42,4,,,
+264f57a9-6cf1-403c-9178-f7b8897cad4a,auto.autos,premium,68,42,4,,,
+43788ddb-2283-44a9-9482-a72ed3f7407c,auto.baby,premium,68,42,4,,,
+d5f912d0-01ab-45d7-82f3-51575a303ae4,auto.bar,premium,68,42,4,,,
+de9b8017-8c9c-4390-b46b-a312f370a5ab,auto.bargains,premium,68,42,4,,,
+da1c102b-177c-4f06-8232-44d43f44fc66,auto.bayern,premium,68,42,4,,,
+109eb063-3a40-4db2-bb09-2f2308943f72,auto.beauty,premium,68,42,4,,,
+22f0d442-4383-415e-a8f2-e813a3155d43,auto.berlin,resell,68,42,4,,27/11/2015 20:16,27/11/2026 20:16
+212e698e-e53c-4c6d-bc4f-b843bf9188f6,auto.bingo,sold,68,42,4,"Sav.com, LLC - 7",10/12/2025 15:16,10/12/2026 15:16
+f742a7d2-8549-49e2-95d5-9c9ec7784dc0,auto.blackfriday,available,68,42,4,,,
+b1d129d4-3125-469c-a542-bdbd2d998144,auto.blog,premium,68,42,4,,,
+86927053-ce71-489b-b560-cd6ae66a204d,auto.blue,premium,68,42,4,,,
+095052af-6f05-412e-9791-7ba3e91dd8f4,auto.boats,premium,68,42,4,,,
+adfae8d7-a5ac-4418-bfba-ec2bf37a00f4,auto.bond,resell,68,42,4,Dominet (HK) Limited,15/11/2020 15:35,15/11/2030 23:59
+00aa67e7-c775-48c5-b777-3d29c055be96,auto.boo,premium,68,42,4,,,
+63a8cca2-8e23-4eea-afe0-18e45abc872a,auto.boston,expiring,68,42,4,"GoDaddy.com, LLC",15/12/2017 16:32,15/12/2025 16:32
+deb05f6b-94a2-4f32-b73b-bbe3460029fc,auto.bot,expiring,68,42,4,"NameCheap, Inc",26/12/2024 14:26,26/12/2025 14:26
+1d7d99df-41c7-4ec1-b5b0-a5b34919fb9b,auto.builders,premium,68,42,4,,,
+9f42537f-4039-42f5-82d2-89238f95ed1e,auto.business,premium,68,42,4,,,
+0476fa2c-932b-4482-ac63-19cc5daf5edc,auto.ca,resell,68,42,4,Grape Inc.,27/10/2000 15:50,19/04/2026 04:00
+689f5be3-62ca-4625-adf4-9e926f8ff571,auto.cab,expiring,68,42,4,"Sav.com, LLC - 19",20/12/2023 15:16,20/12/2025 15:16
+a1476bb4-bf2e-45e6-824b-f634b993fdf5,auto.cafe,expiring,68,42,4,"Chengdu West Dimension Digital Technology Co., Ltd.",18/12/2018 08:22,18/12/2025 08:22
+134367b6-48d9-4f46-b415-928e2e577f2f,auto.cam,premium,68,42,4,,,
+2b4b4d11-59dc-4f1a-8b46-6e7bfc5a7c60,auto.capital,resell,68,42,4,Dynadot Inc,03/06/2017 01:07,03/06/2027 01:07
+df2979eb-7fd6-40a9-ac25-842cceac2fdb,auto.car,available,68,42,4,,,
+0cb6ace5-9009-4774-ab39-518dc8cf7adf,auto.care,resell,68,42,4,Dynadot Inc,24/08/2015 20:07,24/08/2026 20:07
+34119d21-7a94-4546-8177-6276051fed82,auto.cars,available,68,42,4,,,
+779b6871-c929-4904-bb2f-cd014eac4133,auto.cash,resell,68,42,4,"Sav.com, LLC",17/08/2014 16:05,17/08/2026 16:05
+cf78480d-8db9-4352-81ee-1594d1cad34e,auto.ceo,premium,68,42,4,,,
+bc628956-c055-4ff2-a2e2-621dac518662,auto.cfd,premium,68,42,4,,,
+c0d2b5ca-b7d7-4f33-961e-cffcbac9a726,auto.church,resell,68,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",28/04/2020 12:13,28/04/2026 12:13
+e9444eee-3035-447a-ae1e-ad1bc3e9b8e5,auto.cleaning,premium,68,42,4,,,
+856094a9-52f0-4205-b6f4-9e2e0773028c,auto.click,resell,68,42,4,Porkbun LLC,13/04/2019 22:12,13/04/2026 22:12
+e080913c-e35d-4787-bf38-8eb9b2e99ba7,auto.clothing,resell,68,42,4,Dynadot Inc,07/09/2025 17:06,07/09/2026 17:06
+abf2cb74-0c9f-48ab-a64a-74e9a61987d8,auto.cloud,resell,68,42,4,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:24
+993513b2-8270-4777-986a-127a083843aa,auto.club,resell,68,42,4,"GoDaddy.com, LLC",16/08/2017 19:25,16/08/2026 19:25
+5f629a56-7fdd-4024-ad19-2c144b679f5b,auto.college,premium,68,42,4,,,
+753aa1c4-2a7b-4dd4-b5be-646b81bafe0c,auto.company,resell,68,42,4,"Spaceship, Inc.",03/09/2019 00:03,03/09/2026 00:03
+5d36b51d-ecf8-41a7-a6a7-c163bbcf954c,auto.condos,premium,68,42,4,,,
+2b48d53b-9dab-4e0f-9fc9-f9d39c3591c2,auto.contractors,premium,68,42,4,,,
+510f4c9d-2716-4fb0-9d29-a8e49c61670e,auto.cooking,premium,68,42,4,,,
+75e9474e-6856-416c-905d-e6092bcbd8a6,auto.cool,resell,68,42,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/09/2017 21:15,05/09/2026 21:15
+681f5abd-1ce8-498b-9ddc-436b5b8e75d3,auto.country,premium,68,42,4,,,
+b9b100f2-00d0-4bb7-bcf5-37cf73634fa5,auto.coupons,premium,68,42,4,,,
+3e2c92c2-5f75-474f-9cf9-7d97cfc5eeea,auto.creditcard,premium,68,42,4,,,
+4fc05cf3-38f0-4244-b0ec-3b508ed4b17f,auto.cricket,available,68,42,4,,,
+2c785f04-109d-4bee-b64d-09ed08d7cf93,auto.cruises,premium,68,42,4,,,
+dfe5e4f1-eb5a-45e3-9b61-c648a1af4bff,auto.cx,resell,68,42,4,West263 International Limited,01/09/2019 00:00,01/09/2027 13:11
+3014e075-0fbd-4f44-a292-45f1d44c1fb1,auto.cyou,premium,68,42,4,,,
+8c8f70c6-cac4-455b-b5f8-514f2f26d66c,auto.dad,premium,68,42,4,,,
+a0684a1a-0676-42d4-a73b-9d672e2303e6,auto.dating,premium,68,42,4,,,
+c5a5998b-b064-4a4f-b0ed-9b7b69b83c6e,auto.day,premium,68,42,4,,,
+aaf9d753-a5c6-44f0-a4b6-aca420e733db,auto.deal,premium,68,42,4,,,
+6a37d035-639a-415d-a2e8-0ba68f7a2297,auto.degree,available,68,42,4,,,
+e247f43c-9b98-4b38-8058-f286ae0c4313,auto.delivery,premium,68,42,4,,,
+b1f848fa-9982-4f6f-b960-77ae19fc9512,auto.dental,available,68,42,4,,,
+05b4a2bb-51e0-4e9e-8709-0131aeb37c9c,auto.dentist,premium,68,42,4,,,
+da96d5d0-935e-471a-99d7-a4816f82bcf5,auto.dev,sold,68,42,4,Porkbun LLC,24/07/2021 00:08,24/07/2026 00:08
+e658cd43-ed55-4bad-ab1b-9009b826df65,auto.diamonds,available,68,42,4,,,
+fcfca018-ae76-41d5-814d-d17ebf7ce9ba,auto.diet,available,68,42,4,,,
+944695f5-a6d1-4487-b82c-5155c87df56a,auto.direct,premium,68,42,4,,,
+acc31247-95f6-4f8a-9e17-233e6716081a,auto.directory,premium,68,42,4,,,
+3f739f47-c434-45f1-a881-25c162e6c235,auto.discount,premium,68,42,4,,,
+4b533ea9-4b17-4c1c-ace6-ffd426b6194d,auto.diy,premium,68,42,4,,,
+4cbc52ab-ff76-446c-8586-b290e00d1305,auto.doctor,premium,68,42,4,,,
+f62696f3-e341-43c2-b771-8c3484224596,auto.dog,premium,68,42,4,,,
+1d29d81d-f0c3-4ab6-86cc-11f46fac3c81,auto.download,premium,68,42,4,,,
+81ce9675-a883-4f03-9b01-f2bbf8693eb7,auto.education,resell,68,42,4,Porkbun LLC,10/06/2017 04:09,10/06/2026 04:09
+d6d13a0c-e234-4a8c-8302-90b9db416b49,auto.email,resell,68,42,4,Edomains LLC,26/10/2025 15:16,26/10/2026 15:16
+6ca8b252-e2ba-4b1b-8636-df0762fc5451,auto.energy,premium,68,42,4,,,
+3d4ba626-d1fa-4ae2-a3a3-cb9d4157924c,auto.enterprises,resell,68,42,4,"Spaceship, Inc.",19/09/2021 17:01,19/09/2026 17:01
+551ab1b7-b1bc-4941-bfa1-0abcaebc8016,auto.esq,premium,68,42,4,,,
+75e67a8f-b55e-4c6e-8f6e-ab08d242f35b,auto.estate,expiring,68,42,4,"NameCheap, Inc.",07/01/2018 20:50,07/01/2026 20:50
+5648cc75-8506-4acf-bb80-aa2a591d349b,auto.eu,sold,68,42,4,"Name: Webglobe, a.s. Website: https://webglobe.sk",,
+038f1d16-3c52-4b17-9dc2-acf00e37f163,auto.events,resell,68,42,4,"GoDaddy.com, LLC",07/10/2018 07:23,07/10/2026 07:23
+3d113fe3-6bdf-4656-99e1-7cc7fcba59d1,auto.exchange,premium,68,42,4,,,
+73a164d4-fcf4-431e-b46e-44d95f5c47e8,auto.expert,premium,68,42,4,,,
+797e5985-69f7-478c-b986-9d9636cf2702,auto.exposed,premium,68,42,4,,,
+824de38d-8a8a-4dad-8073-d633ea35ac25,auto.express,resell,68,42,4,"Sav.com, LLC",14/06/2024 10:01,14/06/2026 10:01
+807b5073-8114-447e-a7e9-8db6b06814f4,auto.fail,premium,68,42,4,,,
+e8514ce2-44ab-4ab7-ba5c-d1d7db84985e,auto.faith,premium,68,42,4,,,
+0e0f9ad1-3166-44e0-be85-15b22642724a,auto.family,premium,68,42,4,,,
+d6a386c8-a402-4239-ac2c-89a319e746c0,auto.fan,premium,68,42,4,,,
+ea1bca6e-cae7-4e34-9586-5a71676a14e1,auto.fans,premium,68,42,4,,,
+0b8ad88b-4271-4b0c-921e-cdd7528f5cec,auto.fashion,resell,68,42,4,eDomains LLC,09/12/2024 00:00,09/12/2026 00:00
+8255262c-88f9-49c6-9c6b-d03b0f628c05,auto.fishing,premium,68,42,4,,,
+610d434a-e57c-42c3-b865-34c176f1cceb,auto.fitness,premium,68,42,4,,,
+6af2a57c-f063-49c6-9d2d-1c41c2efdec6,auto.flights,premium,68,42,4,,,
+e69b7fe9-d1f8-492a-8ee8-c6d92d989d3a,auto.foo,premium,68,42,4,,,
+2e883567-74e4-4a9e-b140-7dda7e447fa8,auto.food,premium,68,42,4,,,
+5e8f5d78-025b-4b96-8925-b31d4ea21451,auto.forsale,premium,68,42,4,,,
+0639882a-ab92-4fe4-8508-2e9d8bc97f5e,auto.forum,premium,68,42,4,,,
+9ecb6cb2-5a1c-42fe-97f0-80566022f624,auto.foundation,premium,68,42,4,,,
+36461ed5-207b-4307-941f-00a3434cb27d,auto.free,premium,68,42,4,,,
+872df3e0-8296-41e2-92bb-c95a6d9db755,auto.furniture,available,68,42,4,,,
+7139ffe4-a92f-4ab2-afc4-58d6eadeb39a,auto.games,premium,68,42,4,,,
+89e3837b-e116-4e2a-abe6-8fda9e41871e,auto.garden,expiring,68,42,4,"GoDaddy.com, LLC",27/12/2018 07:30,27/12/2025 07:30
+c0924049-f1d4-451c-a997-e9438fa0809e,auto.gay,premium,68,42,4,,,
+44b7fa29-7a84-4161-8f7e-ad0e7227840c,auto.gg,resell,68,42,4,West263 International Limited (http://www.west263.hk),,
+7269824d-5dfe-4d2e-8d24-97b2190d0a4c,auto.gift,premium,68,42,4,,,
+5dba5c6b-bad2-45cf-8c9e-c260ea27fc31,auto.gives,premium,68,42,4,,,
+86bd153f-b1d5-4026-9ff7-f1dfce689b32,auto.giving,available,68,42,4,,,
+30b489e1-a669-47a1-8c34-5c7e4e20e011,auto.global,premium,68,42,4,,,
+999e0eb6-3732-49fd-979f-dd832aa766da,auto.golf,expiring,68,42,4,"Sav.com, LLC",25/12/2024 17:21,25/12/2025 17:21
+f7a187ff-fcde-45c6-83f3-b50ae3314c2f,auto.gratis,premium,68,42,4,,,
+61b517b0-59f8-4611-bd5c-67e2ee54cedb,auto.green,premium,68,42,4,,,
+f239f916-a367-4e3a-9e20-a402ff75bbfe,auto.group,resell,68,42,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),07/11/2020 12:11,07/11/2026 12:11
+d8fe33ee-3db4-4d43-af81-2935b070969f,auto.guide,resell,68,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/02/2021 17:12,17/02/2026 17:12
+fc857294-90eb-49dc-a645-be3ce3d4755e,auto.guitars,available,68,42,4,,,
+f625ceeb-0cdf-47b4-b1b2-9403612fbb4d,auto.guru,resell,68,42,4,"Spaceship, Inc.",02/07/2024 15:15,02/07/2026 15:15
+88bb74b7-4535-49ad-a7fa-a503348ca8c0,auto.hair,premium,68,42,4,,,
+d2843fe6-ae0e-4d17-91f9-e119e877ef68,auto.health,resell,68,42,4,Dynadot Inc,27/04/2021 20:08,27/04/2027 20:08
+10888bf5-cf42-4a5b-a958-63d33ca461e6,auto.healthcare,resell,68,42,4,"GoDaddy.com, LLC",26/05/2024 23:07,26/05/2026 23:07
+061eca4f-0ba9-4734-9be3-4af5bfb4243d,auto.hiphop,available,68,42,4,,,
+9c22c03c-42e7-44bf-944f-f7fda64bcd38,auto.hiv,premium,68,42,4,,,
+94fde968-e6be-4a52-b79a-6171508b55fe,auto.hockey,available,68,42,4,,,
+e78d2c0a-43d2-4f04-8085-22766ac9ede2,auto.homes,premium,68,42,4,,,
+79620478-22d1-4930-9532-3ccff6a687ed,auto.horse,premium,68,42,4,,,
+7901cfdf-f238-44bf-82b5-6b4c656aaa5a,auto.hospital,premium,68,42,4,,,
+0543ffdb-385d-4448-9483-3121cad18ebf,auto.host,premium,68,42,4,,,
+54cdc5c7-9478-4d85-b912-5ff526069e30,auto.hosting,resell,68,42,4,"Spaceship, Inc.",26/10/2016 08:52,26/10/2026 23:59
+9e5d1cad-5747-4c55-a446-ba0075d27504,auto.hot,premium,68,42,4,,,
+2db2b2c2-6b5f-4233-af96-6a265ba5835a,auto.house,premium,68,42,4,,,
+de4cadb0-14a8-4049-a8cf-b98269a14bc5,auto.how,resell,68,42,4,Porkbun LLC,01/03/2020 17:32,01/03/2026 17:32
+1766dfcf-0cd6-4826-b16c-4d68a48b3853,auto.icu,premium,68,42,4,,,
+aa99a471-3e44-47e6-9785-c0a818f221c5,auto.im,premium,68,42,4,,,
+1efafad0-83b7-4375-93ed-49526664efde,auto.immo,resell,68,42,4,"Sav.com, LLC - 46",15/09/2025 17:00,15/09/2026 17:00
+e9ea4aa4-e62c-4c83-b155-67e02b96df49,auto.in,resell,68,42,4,"Dynadot, LLC",16/02/2005 06:30,16/02/2035 06:30
+45684069-6d65-420f-949b-bae46f26082a,auto.industries,premium,68,42,4,,,
+7af15a3c-222c-4522-a99a-2bab70a9d8d0,auto.info,resell,68,42,4,IONOS SE,31/07/2001 13:49,31/07/2026 13:49
+15505fe0-4588-46b4-ac6a-bbe51f166388,auto.ing,premium,68,42,4,,,
+1222ca93-69fa-4388-a3af-777c82d35e2c,auto.international,resell,68,42,4,"GoDaddy.com, LLC",14/09/2020 23:13,14/09/2026 23:13
+e23ea257-e65b-4bec-a37f-0f6d81ea2518,auto.io,resell,68,42,4,"Spaceship, Inc.",25/06/2004 21:17,25/06/2026 21:17
+d0c8d4fd-94d1-4f44-a667-cc97a6a18ee2,auto.jewelry,available,68,42,4,,,
+2b27aac8-7b2c-42a0-9501-1a34ee7e8c6b,auto.juegos,available,68,42,4,,,
+5909fd03-a653-4d8a-8ad8-27e727fa9221,auto.kaufen,premium,68,42,4,,,
+eb8e332a-5ee4-4bca-9b91-e12125be494f,auto.kids,premium,68,42,4,,,
+356176b8-3be9-40d9-a4ba-5f7de5f6003f,auto.kim,premium,68,42,4,,,
+c354dbfc-2975-471d-8e8b-6d4d1857a7dc,auto.kitchen,premium,68,42,4,,,
+30d7d974-986e-48a8-8721-00757e98004e,auto.lease,premium,68,42,4,,,
+1649a084-c5be-4b20-8176-23fb25b80f17,auto.lgbt,premium,68,42,4,,,
+20a080d5-7996-4d1f-accb-838f367988ec,auto.life,resell,68,42,4,"Xiamen ChinaSource Internet Service Co., Ltd",12/11/2022 15:15,12/11/2026 15:15
+b198acef-6898-4607-9a0f-94ae116c41c0,auto.lifestyle,premium,68,42,4,,,
+1390bd97-fde6-4aae-8e8d-7511eb463d81,auto.lighting,resell,68,42,4,Squarespace Domains II LLC,20/07/2017 04:59,20/07/2028 04:59
+0625af18-7fba-4259-af6b-b872c73edadb,auto.living,premium,68,42,4,,,
+85e572b7-5ca8-4b3e-9f34-41227e2b35d5,auto.llc,premium,68,42,4,,,
+21fad589-e4a8-4936-a96f-49d0be78f0d6,auto.locker,premium,68,42,4,,,
+2bdc6144-f24f-4421-9411-6d80e663e013,auto.london,premium,68,42,4,,,
+87d29a8b-ed3b-4f04-a2e8-a703a180cb68,auto.love,premium,68,42,4,,,
+61c28dad-5b9a-4755-b69e-944acdfc1ef9,auto.ltd,resell,68,42,4,"Spaceship, Inc.",19/06/2016 18:45,19/06/2026 18:45
+e05bb7c3-82c3-426a-8c74-96602390cf40,auto.ltda,premium,68,42,4,,,
+901ca5bf-afd2-47b4-98b4-bdff07bdba73,auto.luxe,available,68,42,4,,,
+31d3f655-1ceb-4841-9200-0e30f94d94e6,auto.luxury,premium,68,42,4,,,
+e673ea0c-798e-41ec-89d4-9b89b2f020a8,auto.maison,available,68,42,4,,,
+f5f8a2ac-a5bd-4267-b751-4a9886ed59ab,auto.makeup,premium,68,42,4,,,
+d62e12fd-6598-44a2-8bcc-c0316ce5563c,auto.management,resell,68,42,4,Porkbun LLC,16/02/2023 15:15,16/02/2026 15:15
+760fec2e-00e3-41c4-b862-a2c6d8784eb3,auto.mba,expiring,68,42,4,"Chengdu West Dimension Digital Technology Co., Ltd.",31/12/2020 16:00,31/12/2025 16:00
+84f92b3a-b037-4432-a661-8bbce0142b51,auto.media,resell,68,42,4,"Regional Network Information Center, JSC dba RU-CENTER",06/10/2017 08:16,06/10/2027 08:16
+4d5b03aa-38f9-4f97-918c-bb5e64a8d679,auto.melbourne,premium,68,42,4,,,
+bd640814-59b8-4c74-a2f8-2003cdd7a534,auto.meme,premium,68,42,4,,,
+588ca2df-6820-452d-ac9d-cf33cb215c39,auto.memorial,premium,68,42,4,,,
+b1515c78-5156-4fdc-bf55-d37918090355,auto.men,premium,68,42,4,,,
+2bd5346e-fa81-4ee6-be53-cbbfb219b53d,auto.menu,premium,68,42,4,,,
+e886f31d-e00a-4a7f-b806-fe2996a4a9e1,auto.miami,resell,68,42,4,"GoDaddy.com, LLC",22/01/2021 21:20,22/01/2026 21:20
+bef52259-74d4-47e6-bdad-c0ff00a09e5d,auto.moda,resell,68,42,4,Dynadot Inc,28/10/2015 15:57,28/10/2026 15:57
+a2eb1e75-f376-4219-9f55-2b04dc92e653,auto.mortgage,premium,68,42,4,,,
+58b6d5c1-3d85-4571-bbe2-1cb3918999c1,auto.motorcycles,premium,68,42,4,,,
+378f9d2f-7c23-45bb-8854-fbd927a9ac3c,auto.mov,premium,68,42,4,,,
+1ea20b69-fba5-4683-ba62-5f5f35133ee8,auto.movie,available,68,42,4,,,
+81eff3c8-a956-4346-a46d-04e0f413317a,auto.music,premium,68,42,4,,,
+ccb048cc-acd6-4323-8eb8-5e6299397c48,auto.name,premium,68,42,4,,,
+7ffc16f8-4e25-423a-84ef-0a32973604ff,auto.navy,available,68,42,4,,,
+331079bf-d200-4a10-9bb7-bd2d3981d054,auto.net,resell,68,42,4,"Network Solutions, LLC",02/11/1994 05:00,01/11/2028 04:00
+4285dc24-7d9f-44d0-b555-755ef69470f8,auto.nexus,premium,68,42,4,,,
+b509ca6f-d881-4380-97fe-af848119eaa3,auto.ngo,available,68,42,4,,,
+66818a34-0a42-40c5-ad86-8297655f7916,auto.now,resell,68,42,4,101domain GRS Limited,30/09/2024 13:02,30/09/2026 13:02
+639ca8ed-c3c3-4930-939c-b11f789c2cd5,auto.nyc,premium,68,42,4,,,
+926de15c-626c-48f6-b794-83525a8f7da3,auto.observer,premium,68,42,4,,,
+d3e40f8c-f974-4ee6-84e1-c5c8a12ab873,auto.ong,available,68,42,4,,,
+5fc28f87-7365-42cf-8a35-2812d78852d3,auto.online,premium,68,42,4,,,
+034e748e-6885-444d-a857-d529a8e6857d,auto.ooo,resell,68,42,4,Squarespace Domains II LLC,28/11/2014 00:54,28/11/2031 23:59
+34d7b7e2-43dd-4013-9b5b-89b8796379fc,auto.org,sold,68,42,4,Vautron Rechenzentrum AG,07/07/1997 04:00,06/07/2026 04:00
+60813f08-5985-47ed-b069-700c8e4eb594,auto.osaka,premium,68,42,4,,,
+4ea24f56-627c-4de8-b5c2-177e886d834d,auto.partners,expiring,68,42,4,Dynadot Inc,13/01/2022 20:06,13/01/2026 20:06
+3e3ad102-0b8f-432e-98e2-92a329e4e756,auto.party,premium,68,42,4,,,
+5d4dabdb-f705-4d52-91c2-ff01f1c17dcc,auto.pet,resell,68,42,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/10/2025 15:16,13/10/2026 15:16
+03382d88-645c-4dc2-a4b8-92c705660332,auto.phd,premium,68,42,4,,,
+a32dc457-c1ae-434b-8d66-6decd80c6ee6,auto.photo,premium,68,42,4,,,
+12c79587-ec24-4120-9a6d-e6e8744a8c8b,auto.pink,premium,68,42,4,,,
+ddd76668-d917-47f3-9a00-7dcb92c4e27a,auto.plumbing,available,68,42,4,,,
+bbf03384-0416-4399-9636-2ba46ac6c33c,auto.plus,resell,68,42,4,"Spaceship, Inc.",11/09/2024 15:15,11/09/2026 15:15
+89531070-645f-4cfa-b02c-753fbcaffa49,auto.press,premium,68,42,4,,,
+c40c3862-96ef-405f-9096-adee72b10719,auto.productions,premium,68,42,4,,,
+8f972910-bb7a-460e-b2d7-7c0587ed2fde,auto.prof,premium,68,42,4,,,
+d77c2c7a-2efc-4f09-9fe5-f3c99c17c55d,auto.promo,premium,68,42,4,,,
+4b41aebb-e2da-44b7-a7a1-1ac64ba993c5,auto.properties,resell,68,42,4,Dynadot Inc,27/10/2025 21:32,27/10/2026 21:32
+2ba0cef8-5ab3-4f45-bfa7-d21a3d4783b2,auto.property,premium,68,42,4,,,
+b8e9d4ce-8cbe-44a9-8744-f7c15d01340d,auto.protection,available,68,42,4,,,
+543d7106-4405-4a3f-8da1-07027645a9b1,auto.pw,premium,68,42,4,,,
+32aca6f0-7361-46d6-b43c-52a03491f3ba,auto.qpon,available,68,42,4,,,
+a4723c45-160f-4571-b215-50d7ad646de2,auto.quest,premium,68,42,4,,,
+3d582905-5bb3-414f-8dc9-8b162fb0c59b,auto.recipes,resell,68,42,4,"Sav.com, LLC - 21",16/05/2025 15:16,16/05/2026 15:16
+685b4789-5255-4625-ae37-fb237619eb72,auto.red,premium,68,42,4,,,
+90810881-7d58-48cd-a84e-47766979a1e9,auto.rehab,premium,68,42,4,,,
+628b340e-afdc-4864-988e-c4e0af645836,auto.reise,available,68,42,4,,,
+c0121cb1-2c6c-461a-97c9-e6af72d2be8d,auto.rest,premium,68,42,4,,,
+06a9fd55-a1f4-482e-a92b-5bd7c3d96e3e,auto.review,premium,68,42,4,,,
+166dcaf4-2b53-4885-9c11-cdf0d34b6182,auto.reviews,premium,68,42,4,,,
+b935872a-3e81-4548-97a7-60e05c435f1c,auto.rich,available,68,42,4,,,
+18b89966-d433-4194-b6f5-855d28359418,auto.rip,resell,68,42,4,"NameSilo, LLC",03/07/2020 09:37,03/07/2026 09:37
+1a700c47-1ec6-4809-a7a4-b0d787f52e13,auto.rocks,expiring,68,42,4,Porkbun LLC,03/01/2022 13:15,03/01/2026 13:15
+b4810a60-1e98-4c3e-9653-b4d5617c1660,auto.rodeo,premium,68,42,4,,,
+03a71491-4d48-41a2-9ae1-109550700fbc,auto.rsvp,premium,68,42,4,,,
+e905f8cb-523f-40cb-8847-5099e6be1a19,auto.sale,premium,68,42,4,,,
+29a160ff-727f-4761-90a7-b665845d855f,auto.salon,resell,68,42,4,Dynadot Inc,23/08/2017 16:05,23/08/2026 16:05
+d9e58b29-a090-4955-9c94-2e00115ad307,auto.sarl,available,68,42,4,,,
+5deba7d7-5bfb-41a7-94e4-24244cb68cf4,auto.sbs,premium,68,42,4,,,
+10b652f2-074b-444f-a5eb-f5e93e4d084c,auto.security,available,68,42,4,,,
+687e5840-f5c6-4563-8ded-b1f1cacda71a,auto.sexy,premium,68,42,4,,,
+33ecd952-cabc-4365-8e40-095ad6345625,auto.shiksha,premium,68,42,4,,,
+da13f07d-9f24-434c-be45-1582dc975c32,auto.shoes,premium,68,42,4,,,
+52d836e0-86f8-43a5-91b2-5a229d0d1476,auto.shopping,premium,68,42,4,,,
+fbc69640-f981-486a-b112-af62de60bb15,auto.show,premium,68,42,4,,,
+e3e45a94-ac10-4572-ae66-fb1943d79294,auto.singles,resell,68,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2020 18:34,08/06/2026 18:34
+f1788176-12e7-49b8-a715-77ab88173170,auto.site,premium,68,42,4,,,
+d448d666-6bbd-419d-8377-15ba83fffe6e,auto.skin,premium,68,42,4,,,
+4b67cf5f-2c57-4daf-972d-00208f9c0757,auto.so,resell,68,42,4,NameCheap,06/06/2021 05:03,06/06/2026 05:03
+deeca039-9136-4f61-ba7e-ca19b19594c1,auto.soccer,expiring,68,42,4,Tucows Domains Inc.,03/01/2021 05:54,03/01/2026 05:54
+9eb8776f-b217-4ce6-8b67-ab5ab919cf28,auto.software,premium,68,42,4,,,
+d5808525-6bc1-4304-b22b-956e51796122,auto.soy,premium,68,42,4,,,
+b415bcfe-4d1f-492c-81b3-fcad68dcb1e1,auto.space,premium,68,42,4,,,
+199d918c-48cb-43b6-85ee-f0e485a9dd3c,auto.spot,premium,68,42,4,,,
+d9b240a7-2261-405b-8e08-faf571383c62,auto.srl,available,68,42,4,,,
+f7f38a65-883d-4f18-bc71-6ac2c9407785,auto.store,premium,68,42,4,,,
+9994f2f4-8784-457f-8835-2aa1daef1303,auto.stream,premium,68,42,4,,,
+42c86569-1e67-484a-9515-aab54d9ed776,auto.study,expired,68,42,4,Sav.com LLC,04/11/2024 13:26,04/11/2025 13:26
+f7f35064-e7fa-4e0c-92c9-0a263bcf9fc6,auto.style,resell,68,42,4,Dynadot Inc,16/10/2024 15:15,16/10/2026 15:15
+3f523145-689d-4d81-a515-98437bf80737,auto.sucks,premium,68,42,4,,,
+ea8dc3cb-2e79-4b9b-a17e-80acaf6cd919,auto.surgery,premium,68,42,4,,,
+46a8d354-5315-41f6-b9cb-42b287146ce2,auto.sydney,premium,68,42,4,,,
+f852472a-332f-432e-b738-f83d5cc2b09a,auto.talk,premium,68,42,4,,,
+ecbf3271-a3e4-4996-9268-0559ca300d0a,auto.tax,resell,68,42,4,Porkbun LLC,18/04/2023 09:29,18/04/2026 09:29
+e786cb99-6def-4a49-b44c-98262584600a,auto.tech,sold,68,42,4,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
+06f1d025-9bb1-425d-af1a-c6c2a4d6bcda,auto.tennis,available,68,42,4,,,
+3c4631a4-a952-4fbf-aa7d-b9c20f4bdf11,auto.theater,available,68,42,4,,,
+c7ec35c5-61f0-4d8d-8f7f-5db1aeaabeaf,auto.theatre,available,68,42,4,,,
+0287a96e-3e4d-4114-933f-093fe90c77ae,auto.tickets,available,68,42,4,,,
+86102ff5-6f64-4a06-89a6-78e435fb7303,auto.tires,premium,68,42,4,,,
+eefe8a82-ef82-4c11-a295-e7485f40f305,auto.tools,premium,68,42,4,,,
+526512ff-4e70-407f-a47d-6ad9e2886bc3,auto.town,premium,68,42,4,,,
+1874b7ab-5672-44fd-9d50-80d492a432ae,auto.toys,premium,68,42,4,,,
+776a76e5-54d2-42e3-aa43-c5c325771be3,auto.tube,premium,68,42,4,,,
+cd6acb41-7070-44b1-9fee-95bfee8d96cd,auto.uno,premium,68,42,4,,,
+ccabdd1b-c9d8-4903-9a61-218f121e9797,auto.vacations,premium,68,42,4,,,
+f9c8ac6f-2a14-43d7-9247-ff913ae260ea,auto.vana,premium,68,42,4,,,
+4e9283d3-2ec1-4815-a3ec-7e4f5d9081a0,auto.vegas,premium,68,42,4,,,
+012794b7-2c9a-4b81-8db9-ef17385f2ead,auto.vet,resell,68,42,4,Dynadot Inc,16/11/2025 22:36,16/11/2026 22:36
+e1de4043-5113-4ec0-a79a-9db07dec9e06,auto.viajes,available,68,42,4,,,
+48b9f6be-34ef-4c5c-8f51-57eee8a02bf3,auto.video,premium,68,42,4,,,
+f6174411-323c-4f68-9f15-b74a6c2ec885,auto.villas,premium,68,42,4,,,
+b89f58b1-27e8-4306-b098-02ddeac51ddb,auto.vodka,premium,68,42,4,,,
+0bb3dab2-2c17-45c4-ad50-33ae13e6dbdd,auto.vote,resell,68,42,4,"Xiamen ChinaSource Internet Service Co., Ltd",18/02/2025 15:15,18/02/2026 15:15
+2d0223fd-3591-4e18-a3e2-f23dc9a8dc73,auto.voto,expired,68,42,4,"NameCheap, Inc.",02/10/2024 09:26,02/10/2025 09:26
+e64b69d6-cc68-4de7-8758-5164ba6713e3,auto.voyage,resell,68,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",02/06/2025 15:16,02/06/2026 15:16
+860d7e85-e79e-4d16-81ed-258fd63cce21,auto.watch,premium,68,42,4,,,
+107360f4-860a-417c-85d2-740d67f7ebca,auto.webcam,premium,68,42,4,,,
+06a02218-4c6e-4d26-baa0-7f8c07cb914b,auto.website,premium,68,42,4,,,
+22578cec-7b22-4a05-8992-4b87d5863530,auto.wedding,premium,68,42,4,,,
+676aca48-ea8e-4ee3-9b5a-0cf2d60f1cab,auto.wiki,premium,68,42,4,,,
+c7c21de0-0787-47a0-a534-26f6cbd3b95f,auto.wine,resell,68,42,4,"Sav.com, LLC",11/02/2025 17:09,11/02/2026 17:09
+37dde4f9-d2e0-4533-bad3-f80717e8d450,auto.work,resell,68,42,4,"Global Domains International, Inc. DBA DomainCostClub.com",01/11/2023 07:29,01/11/2028 07:29
+bfde48b9-f1f7-47e7-8613-049c3ecb1213,auto.xyz,resell,68,42,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/11/2021 00:54,03/11/2026 23:59
+1319c0e6-23c9-4a0f-b3bd-d5ba4d47481f,auto.yachts,premium,68,42,4,,,
+b4b765e8-ed1b-45ca-a6e6-a858f27c3772,auto.yoga,expiring,68,42,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/01/2020 11:14,03/01/2026 11:14
+76c89624-0575-463a-b901-79857a351de2,auto.zip,premium,68,42,4,,,
 fe78261a-f4f0-47a4-b0ce-9d22c1ef8946,vehicle.ac,available,94,19,7,,,
 7a95e339-35b1-471a-93da-b70a41764a04,vehicle.academy,available,94,19,7,,,
 afbf37d4-83aa-4290-ac6a-62f61b09ad24,vehicle.accountant,premium,94,19,7,,,
@@ -992,10 +999,3 @@ f3fafb19-66c1-400f-a8b1-549b06c55e9a,vehicle.yoga,available,94,19,7,,,
 16493c4f-6ac9-4a0a-b949-2176e60d5cdd,vehicle.you,premium,94,19,7,,,
 bb493d90-79e4-4acd-86bb-2d526cfe72e0,vehicle.zip,premium,94,19,7,,,
 df7d47d4-bb30-4a24-ab77-531565980f5f,vehicle.zone,resell,94,19,7,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2018 16:16,19/09/2026 16:16
-8537bb71-5f83-4b7c-9442-6a5dd3bb6530,Automobiles.app,resell,58,28,11,"GoDaddy.com, LLC",17/05/2025 17:49,17/05/2026 17:49
-62b57d3e-b16c-44e7-8376-dbcddd8f58b2,Automobiles.at,available,58,28,11,,,
-d15f7afd-92a8-408a-86e6-be2fe057e3b6,Automobiles.cloud,premium,58,28,11,,,
-c832cbd9-282c-4966-93c9-0980f0591b75,Automobiles.co,resell,58,28,11,Hello Internet Corp.,24/02/2010 22:58,23/02/2026 23:59
-a2c2e7d0-5a81-4042-8d7b-ea96e5ad4532,Automobiles.dev,premium,58,28,11,,,
-bc67f4b2-a6c3-4f9d-b91e-cfb1c164eb5c,Automobiles.gg,resell,58,28,11,Dynadot Inc. (https://www.dynadot.com),,
-433cac4a-4c6c-43a0-9a5d-7d5a957d91f8,Automobiles.it,resell,58,28,11,,10/09/2011 13:20,13/09/2025 00:00
