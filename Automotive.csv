@@ -221,7 +221,7 @@ dd48382f-b16e-48b7-8894-64b816f123a1,car.music,premium,94,40,3,,,
 73193c18-44b7-435e-b179-a3b6fca5dfd2,car.osaka,premium,94,40,3,,,
 3df256a8-5429-49f0-a144-f8a52bdf3925,car.partners,premium,94,40,3,,,
 cdfd7525-f739-4ebf-8352-add544fd5be9,car.party,premium,94,40,3,,,
-311a8d7b-c131-468f-9b94-022a9ea31b81,car.pet,premium,94,40,3,,,
+311a8d7b-c131-468f-9b94-022a9ea31b81,car.pet,premium,92,40,3,,,
 08dd6807-8a7b-4ab3-9d71-26ad9161f42a,car.phd,premium,94,40,3,,,
 9fb491fd-e8e4-4e89-80af-466c3f0f1318,car.photo,expiring,94,40,3,"Spaceship, Inc.",30/12/2024 10:16,30/12/2025 10:16
 b07c064e-6fa2-4390-b082-9fc30f6d0d88,car.photos,resell,94,40,3,"NameCheap, Inc.",05/09/2018 18:14,05/09/2026 18:14
@@ -661,6 +661,7 @@ bfcbeef5-c27d-4d57-8093-e398443accb9,vehicle.cash,resell,94,19,7,"GoDaddy.com, L
 fb9ac72a-f029-4e77-8bf9-892d7ad5f072,vehicle.casino,available,94,19,7,,,
 836a1f67-1123-4ad7-b75d-85fa57df7fe5,vehicle.catering,available,94,19,7,,,
 34129794-f83c-4ee7-b8bc-72e4ef7b6d2c,vehicle.cc,expiring,94,19,7,Dynadot Inc,29/12/2004 23:24,29/12/2025 23:24
+7381acfc-331d-415f-99da-d6532d6200db,vehicle.center,expiring,94,19,7,Regtime Ltd.,10/01/2018 00:55,10/01/2026 00:55
 b04e07de-6d6f-49a4-b523-40772b3cf213,vehicle.ceo,available,94,19,7,,,
 05be0824-a069-4e08-848e-6edb418cb28e,vehicle.cfd,premium,94,19,7,,,
 078c5bce-eac7-47bd-8f6b-6f2de1d91699,vehicle.charity,available,94,19,7,,,
@@ -789,7 +790,7 @@ c7500b5d-be67-44c8-a8af-884fee1c309f,vehicle.host,premium,94,19,7,,,
 9e6b1de7-eda4-4eec-9795-ea48e8f6621d,vehicle.hot,premium,94,19,7,,,
 98cf56df-52c3-495b-b782-097ace88b462,vehicle.icu,premium,94,19,7,,,
 3b27a9df-2d1d-48af-b90f-0e86fc09a420,vehicle.im,premium,94,19,7,,,
-fa8dea4d-e118-4d1b-a55d-c66f933773fd,vehicle.immo,expiring,94,19,7,IONOS SE,10/12/2014 16:40,10/12/2025 16:40
+fa8dea4d-e118-4d1b-a55d-c66f933773fd,vehicle.immo,sold,94,19,7,IONOS SE,10/12/2014 16:40,10/12/2026 16:40
 f157a085-019b-4876-93bf-578d469a60b4,vehicle.immobilien,available,94,19,7,,,
 a918338e-a78b-481d-a301-136440cdf237,vehicle.inc,premium,94,19,7,,,
 d677b38e-8f44-493e-9779-bf25f83f007f,vehicle.industries,premium,94,19,7,,,
@@ -798,6 +799,7 @@ d677b38e-8f44-493e-9779-bf25f83f007f,vehicle.industries,premium,94,19,7,,,
 f1045d62-2357-4037-8c0f-41631b6f5fd4,vehicle.institute,available,94,19,7,,,
 763864f5-0532-4fe4-98bd-0a1164e35bdb,vehicle.insure,premium,94,19,7,,,
 d63a3337-30d6-4572-abf6-1555abf5c3e0,vehicle.international,available,94,19,7,,,
+ee3a772d-8ebb-4fc2-a2aa-e79d7c205357,vehicle.io,expiring,94,19,7,1API GmbH,08/01/2014 18:19,08/01/2026 18:19
 391a5336-bfc5-42f4-ad6e-e289aefb7e0e,vehicle.irish,available,94,19,7,,,
 70a0eb25-1a21-4b4c-9823-90315f839b1f,vehicle.it,resell,94,19,7,,28/04/2000 00:00,21/10/2026 00:00
 e2dbf5ae-0300-4740-8a92-c8fd7746bd0b,vehicle.jetzt,available,94,19,7,,,
@@ -961,6 +963,7 @@ accc536e-3059-43f0-9b11-29bbc884ac23,vehicle.theater,available,94,19,7,,,
 763b43fd-7974-41ef-ab97-976f619cfb45,vehicle.tickets,available,94,19,7,,,
 8b609707-3428-4bac-8e75-489def888502,vehicle.tienda,available,94,19,7,,,
 4c83d1af-e5fa-4570-a6dd-c36f887d70f8,vehicle.tires,premium,94,19,7,,,
+a7cf5801-0ffb-4bde-a956-71d2d581f9e4,vehicle.to,resell,94,19,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 b43b3deb-164c-4841-86bc-aee0c57a9bc6,vehicle.today,resell,94,19,7,"Xiamen ChinaSource Internet Service Co., Ltd",11/10/2019 12:26,11/10/2026 12:26
 1d4f548e-87af-47b0-aad7-5f62daa36b15,vehicle.tools,available,94,19,7,,,
 893b3140-5e16-4c05-9ab6-751248e5c0e6,vehicle.top,resell,94,19,7,厦门市中资源网络服务有限公司,05/02/2017 06:49,05/02/2032 06:49
@@ -993,9 +996,6 @@ c0174163-28ab-4c2f-8d7e-9ca33038f819,vehicle.vote,available,94,19,7,,,
 2c68af9e-fac5-466a-bdf8-86960f366cbd,vehicle.work,premium,94,19,7,,,
 cba5c766-ccad-45cf-b96d-40fc202053bc,vehicle.world,resell,94,19,7,IONOS SE,05/04/2016 21:51,05/04/2026 21:51
 a333c7d1-3336-4312-a852-bd8367dcb589,vehicle.wtf,resell,94,19,7,"Sav.com, LLC - 47",14/11/2025 15:15,14/11/2026 15:15
-023cd1e7-f3d4-44bc-9e45-b1c6f66829cc,vehicle.xyz,resell,94,19,7,"Sav.com, LLC",13/11/2021 10:11,13/11/2026 23:59
+023cd1e7-f3d4-44bc-9e45-b1c6f66829cc,vehicle.xyz,sold,94,19,7,"Sav.com, LLC",13/11/2021 10:11,13/11/2026 23:59
 a063ecde-d1d9-4aff-a7c7-5b8aea091b76,vehicle.yachts,premium,94,19,7,,,
 f3fafb19-66c1-400f-a8b1-549b06c55e9a,vehicle.yoga,available,94,19,7,,,
-16493c4f-6ac9-4a0a-b949-2176e60d5cdd,vehicle.you,premium,94,19,7,,,
-bb493d90-79e4-4acd-86bb-2d526cfe72e0,vehicle.zip,premium,94,19,7,,,
-df7d47d4-bb30-4a24-ab77-531565980f5f,vehicle.zone,resell,94,19,7,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2018 16:16,19/09/2026 16:16
