@@ -605,6 +605,31 @@ bfde48b9-f1f7-47e7-8613-049c3ecb1213,auto.xyz,resell,68,42,4,Alibaba Cloud Compu
 1319c0e6-23c9-4a0f-b3bd-d5ba4d47481f,auto.yachts,premium,68,42,4,,,
 b4b765e8-ed1b-45ca-a6e6-a858f27c3772,auto.yoga,expiring,68,42,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/01/2020 11:14,03/01/2026 11:14
 76c89624-0575-463a-b901-79857a351de2,auto.zip,premium,68,42,4,,,
+c5d58de9-fe37-4e48-b276-87a000c99247,vehicle.vana,available,94,19,7,,,
+c9668d07-624c-43a2-bde6-2d68367bde55,vehicle.vegas,available,94,19,7,,,
+443f4e5f-d34d-4cfb-bba1-dea26ea42855,vehicle.vet,available,94,19,7,,,
+84db734e-8037-4ce3-a9de-47e2ca2fd4fa,vehicle.viajes,available,94,19,7,,,
+5363d4da-6ee4-4d9e-b5ed-d745ef02fd3e,vehicle.video,premium,94,19,7,,,
+58e7af30-56bc-483b-91fa-abde509b6f1a,vehicle.villas,available,94,19,7,,,
+0c768474-de7e-4561-ad03-cdfa76fb2a2b,vehicle.vip,resell,94,19,7,"Chengdu West Dimension Digital Technology Co., Ltd.",26/05/2016 17:42,26/05/2026 17:42
+88f7164c-f51c-4d85-a3ca-e516384cbfd6,vehicle.vodka,available,94,19,7,,,
+c0174163-28ab-4c2f-8d7e-9ca33038f819,vehicle.vote,available,94,19,7,,,
+2f75ffc3-491e-4f79-88ae-49521065b4d2,vehicle.voting,available,94,19,7,,,
+72c06eab-bf36-4b70-b372-26edbbedd051,vehicle.voto,available,94,19,7,,,
+3ae2b291-408b-4e11-bd10-a46509c70531,vehicle.voyage,available,94,19,7,,,
+9445153f-f3cf-4d5e-a146-c04f05e10cb0,vehicle.webcam,available,94,19,7,,,
+3afdf75a-b28f-4e80-8499-e196a1419bf2,vehicle.website,premium,94,19,7,,,
+080def14-1c1e-493d-ae8d-070820dd6ab2,vehicle.win,premium,94,19,7,,,
+043f7a06-98f9-424a-9f12-219de042378c,vehicle.wine,available,94,19,7,,,
+2c68af9e-fac5-466a-bdf8-86960f366cbd,vehicle.work,premium,94,19,7,,,
+cba5c766-ccad-45cf-b96d-40fc202053bc,vehicle.world,resell,94,19,7,IONOS SE,05/04/2016 21:51,05/04/2026 21:51
+a333c7d1-3336-4312-a852-bd8367dcb589,vehicle.wtf,resell,94,19,7,"Sav.com, LLC - 47",14/11/2025 15:15,14/11/2026 15:15
+023cd1e7-f3d4-44bc-9e45-b1c6f66829cc,vehicle.xyz,sold,94,19,7,"Sav.com, LLC",13/11/2021 10:11,13/11/2026 23:59
+a063ecde-d1d9-4aff-a7c7-5b8aea091b76,vehicle.yachts,premium,94,19,7,,,
+f3fafb19-66c1-400f-a8b1-549b06c55e9a,vehicle.yoga,available,94,19,7,,,
+16493c4f-6ac9-4a0a-b949-2176e60d5cdd,vehicle.you,premium,94,19,7,,,
+bb493d90-79e4-4acd-86bb-2d526cfe72e0,vehicle.zip,premium,94,19,7,,,
+df7d47d4-bb30-4a24-ab77-531565980f5f,vehicle.zone,resell,94,19,7,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2018 16:16,19/09/2026 16:16
 fe78261a-f4f0-47a4-b0ce-9d22c1ef8946,vehicle.ac,available,94,19,7,,,
 7a95e339-35b1-471a-93da-b70a41764a04,vehicle.academy,available,94,19,7,,,
 afbf37d4-83aa-4290-ac6a-62f61b09ad24,vehicle.accountant,premium,94,19,7,,,
@@ -974,28 +999,3 @@ b43b3deb-164c-4841-86bc-aee0c57a9bc6,vehicle.today,resell,94,19,7,"Xiamen ChinaS
 b65b8d0d-b11f-48f5-aa5d-274357427a13,vehicle.training,available,94,19,7,,,
 15ecbfb6-8c5b-4533-9829-59c353ffadda,vehicle.travel,available,94,19,7,,,
 fe7ff735-33a5-4dd6-96dc-3daf4a4bda77,vehicle.tube,available,94,19,7,,,
-096ac57d-4a30-42e9-b5a8-bfdbe1441f81,vehicle.uno,premium,94,19,7,,,
-8cccbf16-94ea-45cf-8bee-0e8bce621cd9,vehicle.us,resell,94,19,7,"GoDaddy.com, LLC",24/04/2002 14:06,23/04/2026 23:59
-c41f3398-e240-442f-ab68-41f30ceba871,vehicle.vacations,available,94,19,7,,,
-c5d58de9-fe37-4e48-b276-87a000c99247,vehicle.vana,available,94,19,7,,,
-c9668d07-624c-43a2-bde6-2d68367bde55,vehicle.vegas,available,94,19,7,,,
-443f4e5f-d34d-4cfb-bba1-dea26ea42855,vehicle.vet,available,94,19,7,,,
-84db734e-8037-4ce3-a9de-47e2ca2fd4fa,vehicle.viajes,available,94,19,7,,,
-5363d4da-6ee4-4d9e-b5ed-d745ef02fd3e,vehicle.video,premium,94,19,7,,,
-58e7af30-56bc-483b-91fa-abde509b6f1a,vehicle.villas,available,94,19,7,,,
-0c768474-de7e-4561-ad03-cdfa76fb2a2b,vehicle.vip,resell,94,19,7,"Chengdu West Dimension Digital Technology Co., Ltd.",26/05/2016 17:42,26/05/2026 17:42
-88f7164c-f51c-4d85-a3ca-e516384cbfd6,vehicle.vodka,available,94,19,7,,,
-c0174163-28ab-4c2f-8d7e-9ca33038f819,vehicle.vote,available,94,19,7,,,
-2f75ffc3-491e-4f79-88ae-49521065b4d2,vehicle.voting,available,94,19,7,,,
-72c06eab-bf36-4b70-b372-26edbbedd051,vehicle.voto,available,94,19,7,,,
-3ae2b291-408b-4e11-bd10-a46509c70531,vehicle.voyage,available,94,19,7,,,
-9445153f-f3cf-4d5e-a146-c04f05e10cb0,vehicle.webcam,available,94,19,7,,,
-3afdf75a-b28f-4e80-8499-e196a1419bf2,vehicle.website,premium,94,19,7,,,
-080def14-1c1e-493d-ae8d-070820dd6ab2,vehicle.win,premium,94,19,7,,,
-043f7a06-98f9-424a-9f12-219de042378c,vehicle.wine,available,94,19,7,,,
-2c68af9e-fac5-466a-bdf8-86960f366cbd,vehicle.work,premium,94,19,7,,,
-cba5c766-ccad-45cf-b96d-40fc202053bc,vehicle.world,resell,94,19,7,IONOS SE,05/04/2016 21:51,05/04/2026 21:51
-a333c7d1-3336-4312-a852-bd8367dcb589,vehicle.wtf,resell,94,19,7,"Sav.com, LLC - 47",14/11/2025 15:15,14/11/2026 15:15
-023cd1e7-f3d4-44bc-9e45-b1c6f66829cc,vehicle.xyz,sold,94,19,7,"Sav.com, LLC",13/11/2021 10:11,13/11/2026 23:59
-a063ecde-d1d9-4aff-a7c7-5b8aea091b76,vehicle.yachts,premium,94,19,7,,,
-f3fafb19-66c1-400f-a8b1-549b06c55e9a,vehicle.yoga,available,94,19,7,,,
