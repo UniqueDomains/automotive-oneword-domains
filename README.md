@@ -1,10 +1,10 @@
-# One-Word Automotive Domains Across 506 TLDs (187,367)
+# One-Word Automotive Domains Across 506 TLDs (189,662)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-187%2C367%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-189%2C662%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word automotive domain names spanning 506 different TLDs, with a median asking price near $610. It includes short, brandable words tied to cars, transport, and mobility themes, refreshed and updated daily for pricing accuracy.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **187,367 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **189,662 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 187,367 domains · **Median ask:** $595.74 · **High-demand under $2,500:** 562
+**Public extract:** 1,000 rows · **Live catalog:** 189,662 domains · **Median ask:** $591.60 · **High-demand under $2,500:** 562
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/automotive`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| bus.auto        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                     |
-| out.autos       | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC                                  |
-| bus.dealer      | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap                                    |
-| bus.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                     |
-| out.asia        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
-| car.autos       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                    |
-| bus.cars        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                     |
-| out.homes       | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| car.motorcycles | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                    |
-| bus.hamburg     | available | $59.99    | —             | high           | low    | 3      | name.com                                     |
-| out.rent        | resell    | —         | —             | high           | low    | 3      | Go Daddy, LLC                                |
-| out.builders    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| bus.motorcycles | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| out.shopping    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| out.business    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| car.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo                                     |
-| van.autos       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                              |
-| out.cab         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| car.ryukyu      | available | $22.98    | —             | high           | medium | 3      | namecheap                                    |
-| auto.football   | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC                                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bus.auto        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| out.autos       | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC     |
+| bus.dealer      | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap       |
+| bus.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| auto.car        | resell    | $2,400    | —             | medium         | medium | 4      | Namecheap       |
+| car.autos       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
+| bus.cars        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| axle.autos      | resell    | $1.99     | —             | high           | high   | 4      | Dynadot LLC     |
+| car.motorcycles | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
+| bus.hamburg     | available | $59.99    | —             | high           | low    | 3      | name.com        |
+| car.trading     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| oil.dealer      | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap       |
+| bus.motorcycles | available | $1.99     | $15.75        | high           | low    | 3      | namesilo        |
+| out.asia        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc. |
+| out.academy     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| car.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo        |
+| out.baby        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| out.accountant  | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| car.ryukyu      | available | $22.98    | —             | high           | medium | 3      | namecheap       |
+| out.beauty      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 187,367 live domains                       |
+| 1,000-row public sample | 189,662 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 562 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
