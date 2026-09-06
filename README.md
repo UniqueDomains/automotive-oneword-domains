@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| out.auto        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
-| out.autos       | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC                                               |
-| out.dealer      | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap                                                 |
-| out.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
-| car.furniture   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| out.fun         | premium   | $156.25   | —             | high           | low    | 3      | name.com                                                  |
-| out.cars        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
-| auto.win        | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                           |
-| cars.bargains   | premium   | $123.75   | —             | medium         | medium | 4      | name.com                                                  |
-| out.motorcycles | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
-| cars.berlin     | resell    | —         | —             | medium         | medium | 4      | —                                                         |
-| cars.beauty     | premium   | $2,500    | —             | medium         | medium | 4      | name.com                                                  |
-| cars.barcelona  | available | $38.98    | —             | medium         | medium | 4      | namecheap                                                 |
-| cars.bet        | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                           |
-| cars.boats      | premium   | $812.50   | —             | medium         | medium | 4      | name.com                                                  |
-| cars.bingo      | available | $14.99    | —             | medium         | medium | 4      | name.com                                                  |
-| cars.bike       | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                               |
-| cars.boutique   | premium   | $82.50    | —             | medium         | medium | 4      | name.com                                                  |
-| cars.car        | available | $2,400    | —             | medium         | medium | 4      | namecheap                                                 |
-| cars.clinic     | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC                                          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bus.auto        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| out.autos       | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC     |
+| bus.dealer      | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap       |
+| bus.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| auto.car        | resell    | $2,400    | —             | medium         | medium | 4      | Namecheap       |
+| bus.parts       | premium   | $500      | —             | high           | low    | 3      | name.com        |
+| bus.cars        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo        |
+| axle.autos      | resell    | $1.99     | —             | high           | high   | 4      | Dynadot LLC     |
+| car.autos       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
+| bus.hamburg     | available | $59.99    | —             | high           | low    | 3      | name.com        |
+| highway.autos   | resell    | $1.99     | —             | medium         | low    | 7      | Dynadot LLC     |
+| car.motorcycles | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
+| bus.motorcycles | available | $1.99     | $15.75        | high           | low    | 3      | namesilo        |
+| car.trading     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
+| fix.dealer      | premium   | $2,170    | $2,800        | medium         | low    | 3      | namecheap       |
+| bus.tires       | available | $5.99     | $78.99        | high           | low    | 3      | namesilo        |
+| fix.autos       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC    |
+| gas.dealer      | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap       |
+| car.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo        |
+| out.asia        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
