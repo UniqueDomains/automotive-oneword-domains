@@ -16,7 +16,7 @@ This is a curated set of one-word automotive domain names spanning 506 different
 
 **Public extract:** 1,000 rows · **Live catalog:** 223,623 domains · **Median ask:** $521.53 · **High-demand under $2,500:** 539
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/sector/automotive`
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | car.autos          | premium   | $2,600        | $2,600        | high           | medium | 3      | namecheap            |
 | bus.supplies       | available | $24.99        | $24.99        | high           | low    | 3      | namesilo             |
 | bicycle.com        | resell    | $1,149,999.99 | $17.99        | high           | low    | 7      | Atom.com Domains LLC |
-| car.meme           | premium   | $812.50       | —             | high           | medium | 3      | name.com             |
+| car.motorcycles    | premium   | $2,600        | $2,600        | high           | medium | 3      | namecheap            |
 | bus.supply         | available | $25.99        | $25.99        | high           | low    | 3      | namesilo             |
 | highway.autos      | resell    | $1.99         | —             | medium         | low    | 7      | Dynadot LLC          |
-| car.motorcycles    | premium   | $2,600        | $2,600        | high           | medium | 3      | namecheap            |
+| car.supplies       | premium   | $1,040        | $1,040        | high           | medium | 3      | namecheap            |
 | bus.tires          | available | $5.99         | $78.99        | high           | low    | 3      | namesilo             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
