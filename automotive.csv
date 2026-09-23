@@ -1,14 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-3cce4298-34ed-41b0-b6a6-44b12a6061de,vehicle.ryukyu,available,22.98,,high,low,7,namecheap,,,
-dc5c33de-cd3c-49e9-a7a0-e486bce65b8f,car.ryukyu,available,22.98,,high,medium,3,namecheap,,,
-00c2b6c3-9f33-45cd-9947-b022479352fe,engine.shop,premium,1250,,high,low,6,name.com,,,
-1001b924-6087-4993-a21f-6163b38a2111,car.trading,resell,,,high,medium,3,Porkbun LLC,01/05/2017 16:06,01/05/2027 23:59,
-683cfdec-cc33-4e52-9177-448f594a635c,car.meme,premium,845,845,high,medium,3,namecheap,,,19/09/2026 03:29
 bd06196c-061e-4f11-94ef-28923e3cf639,car.motorcycles,premium,2600,2600,high,medium,3,namecheap,,,
 43311de4-10c7-4b88-bcfb-c8dc8e599632,car.autos,premium,2600,2600,high,medium,3,namecheap,,,
 c1719c53-a8a0-4d9c-9ede-0e612a2336d5,car.cars,available,1999.99,2199,high,medium,3,namesilo,,,
-67a454cb-d6d1-4eff-a170-05154815a566,engine.games,premium,64.35,128.7,medium,low,6,namecheap,,,08/09/2026 12:18
-7b32de94-fbb1-49ce-b64b-60798e3f25d5,vehicle.car,available,1999.99,2199,high,low,7,namesilo,,,
+7b32de94-fbb1-49ce-b64b-60798e3f25d5,vehicle.car,available,2070,2400,high,low,7,namecheap,,,22/09/2026 07:31
 ad170435-8d2e-402c-96a3-8b82d60bc59e,vehicle.auto,available,1999.99,2199,high,low,7,namesilo,,,
 08feede9-7353-4da5-8713-332d3610d31b,car.supply,premium,520,520,high,medium,3,namecheap,,,
 f97dd25f-0198-4267-a8ea-d46f89cf699c,car.supplies,premium,1040,1040,high,medium,3,namecheap,,,
@@ -51,7 +45,6 @@ edf7db87-3247-4908-ae06-acaccf58f788,vehicle.dealer,premium,2015,2600,high,low,7
 7863250c-3622-4624-b967-6daf978a4615,vehicle.cars,available,1999.99,2199,high,low,7,namesilo,,,
 2f62f395-f244-4690-831a-5a7d41dbd3c7,car.solutions,resell,,,high,medium,3,Porkbun LLC,31/08/2023 19:23,31/08/2026 19:23,
 35bf470e-ab6f-4636-8b7c-95e9caf874f1,car.systems,available,,,high,medium,3,,,,
-c20a73a6-bf70-4671-9259-5bde8b75fd0f,car.tienda,resell,,,high,medium,3,Dynadot Inc,30/08/2025 16:40,30/08/2026 16:40,
 bde479f0-00da-42d5-8579-a2a80fcd7f2f,car.shopping,available,,,high,medium,3,,,,
 1b5c698d-bbdc-4f21-b5b6-96a71ea0bbba,car.locker,premium,13000,58.5,high,medium,3,namecheap,,,
 46e39e6e-4491-4696-a84a-fc80f62f259a,car.mba,resell,,,high,medium,3,"Chengdu West Dimension Digital Technology Co., Ltd.",19/04/2018 00:12,19/04/2027 00:12,
@@ -159,7 +152,7 @@ e17eddae-2ea1-420b-b150-45b106c18aac,car.courses,premium,650,650,high,medium,3,n
 499b97fd-931d-4f8e-b398-4d195a3f2609,car.art,available,,,high,medium,3,,,,
 1017dcf1-e4e8-4ee9-930c-b00c14e7401f,car.center,available,,,high,medium,3,,,,
 44494517-c0d4-40ab-b28a-3d245268ef40,car.shiksha,premium,2600,2600,high,medium,3,namecheap,,,
-ecbc035e-f2d5-4324-93cd-32a95bd1075e,car.school,resell,,,high,medium,3,"Chengdu West Dimension Digital Technology Co., Ltd.",22/08/2016 13:46,22/08/2026 13:46,
+ecbc035e-f2d5-4324-93cd-32a95bd1075e,car.school,resell,,,high,medium,3,"Spaceship, Inc.",22/08/2016 13:46,22/08/2027 13:46,22/09/2026 07:57
 bd6d23a6-6fbb-45b5-995b-03431c2ffb8b,car.education,premium,38.94,38.94,high,medium,3,namesilo,,,
 d5040f08-4f25-4efe-a976-f24805b38958,car.schule,premium,42.9,42.9,high,medium,3,namecheap,,,
 2aa73a5e-f155-4413-8075-cde90eaed924,car.study,premium,650,650,high,medium,3,namecheap,,,
@@ -181,7 +174,6 @@ ced1f1dc-8108-4c1c-9bfb-c9f8c86fd199,car.town,premium,260,260,high,medium,3,name
 47287aef-0eb1-42ca-9c14-9d66e2ab8d92,car.diet,premium,2600,2600,high,medium,3,namecheap,,,
 cc4497d4-c9ff-4a46-bac1-b199c5aa5f7a,car.spot,premium,3250,3250,high,medium,3,namecheap,,,
 68753fe0-f401-423b-a06a-81321ecdb7c3,car.pizza,premium,128.7,128.7,high,medium,3,namecheap,,,
-315d15c0-1686-444f-a08f-73011dbb84b5,car.coach,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",26/08/2025 15:15,26/08/2026 15:15,
 a9df3da6-731a-43e7-b0e7-f2c48408f949,car.download,available,,,high,medium,3,,,,
 bc21e8d4-adc3-4515-87c2-62232c751367,car.flowers,premium,845,845,high,medium,3,namecheap,,,
 2a95ab0b-2f25-49e0-b547-2304018aa232,car.florist,available,14.99,,high,medium,3,name.com,,,
@@ -282,8 +274,6 @@ bc2272da-79c5-4161-a6f4-0baab912d5d9,car.theatre,available,509.99,529.99,high,me
 34624748-5ebe-4a37-85b3-65a90f779535,car.family,premium,520,520,high,medium,3,namecheap,,,
 32fe8c8b-6eb8-4d3d-b042-52f1e821acc9,car.creditcard,premium,260,260,high,medium,3,namecheap,,,
 311a8d7b-c131-468f-9b94-022a9ea31b81,car.pet,premium,1300,1300,high,low,3,namecheap,,,
-546460a2-0cd1-4ec5-8260-4185d623085d,wheels.car,available,1999.99,2199,medium,low,6,namesilo,,,17/09/2026 12:21
-3ef214bd-c28f-46b4-9b03-969a749d9028,automobile.shop,premium,1107,1107,high,low,10,namesilo,,,
 a97d0a63-f4f4-4c0f-896c-21da7d9886af,vehicle.shop,premium,1250,,high,low,7,name.com,,,
 0d60f33c-ca98-462a-a156-1ab73a910971,car.holiday,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",05/02/2026 15:15,05/02/2027 15:15,
 f2b24b26-7b74-4439-a650-88cf561e83d9,car.paris,premium,1466.1,,high,medium,3,name.com,,,
@@ -301,68 +291,20 @@ c8118384-084c-4f6f-ac78-b4108159f1bd,car.fitness,premium,42.9,42.9,high,medium,3
 6d7425cb-2765-4196-bc5e-122da9c6ae63,car.cafe,resell,,,high,medium,3,"Spaceship, Inc.",15/07/2015 16:00,15/07/2027 16:00,19/09/2026 06:45
 f06e31c7-032d-420e-9d8c-40a5dcbaf7eb,car.kiwi,premium,184.63,,high,medium,3,name.com,,,
 b253e1cd-67bb-42ce-976b-0d9487ae1b47,car.desi,available,22.98,,high,medium,3,namecheap,,,
-4c83d1af-e5fa-4570-a6dd-c36f887d70f8,vehicle.tires,premium,1040,1040,high,low,7,namecheap,,,
-4353dc9c-6700-424d-8c16-f7897dae3bbf,cars.healthcare,available,88.99,88.99,low,low,4,namesilo,,,17/09/2026 14:10
-dc129703-c091-4b7b-8943-56f92f35fc98,cars.website,premium,6500,13000,low,low,4,namecheap,,,17/09/2026 14:10
-0c9772fa-186e-45b3-9723-6e83a57fca78,cars.express,resell,,,low,low,4,"Sav.com, LLC - 22",13/01/2026 15:15,13/01/2027 15:15,17/09/2026 14:10
-c5829593-0527-4b46-afbf-9d0a09bf77c6,cars.click,resell,,,low,low,4,,,,17/09/2026 14:10
-58b4bbea-4c04-4524-9b42-729d90fd564c,cars.diy,premium,1107,1107,low,low,4,namesilo,,,17/09/2026 14:10
-673c29c1-7e80-4df9-a2ae-1ab0ed9e5215,cars.dealer,premium,4278,2660,medium,low,4,namesilo,,,17/09/2026 14:10
-863967b7-27e9-43c8-bb9d-640945cd70ef,wheels.cab,available,32.99,32.99,medium,low,6,namesilo,,,17/09/2026 12:21
+4c83d1af-e5fa-4570-a6dd-c36f887d70f8,vehicle.tires,premium,854,854,high,low,7,namesilo,,,22/09/2026 22:30
 12e66d87-7c7d-48dd-80eb-f6b8361da26d,vehicle.parts,available,,,high,low,7,,,,
-b55f056b-4129-46d4-8826-b5ad6ad679ff,wheels.organic,available,17.99,85.99,medium,low,6,namesilo,,,17/09/2026 12:21
-64a2003e-096c-475e-965b-397ff7fe23b8,wheels.forsale,premium,512,512,medium,low,6,namesilo,,,17/09/2026 12:21
-289a44c3-38c8-42a0-870c-961ef1fe40a5,cars.press,premium,6900,6900,low,low,4,namesilo,,,17/09/2026 14:10
 71446f49-308d-4920-962e-95d72b5059b0,vehicle.supply,available,25.99,25.99,high,low,7,namesilo,,,
 6d11c315-9948-4da6-a905-da9dbe1d18ad,vehicle.equipment,available,19.99,,high,low,7,name.com,,,
 beaacb0b-b24e-40c7-a89f-00481281021b,vehicle.supplies,available,24.99,24.99,high,low,7,namesilo,,,
-3326bead-19d2-4d67-9a06-28367fbea470,pilot.ryukyu,available,22.98,,high,low,5,namecheap,,,
-3d7c50d5-a81c-49c9-a8e3-b9a8cdf649f2,wheels.baby,available,17.99,54.99,medium,low,6,namesilo,,,17/09/2026 12:21
-a8cfa352-8750-4952-b31b-52441e2b0166,cars.tax,resell,,,low,low,4,"GoDaddy.com, LLC",02/02/2015 05:21,02/02/2027 05:21,17/09/2026 14:10
-70e5be39-b9ca-4844-8376-842e58ef24e8,cars.blackfriday,available,114.99,114.99,low,low,4,namesilo,,,17/09/2026 14:10
-d90df8b4-3a5d-4eef-b6fd-3959dcdb23ec,cars.dating,premium,242,242,low,low,4,namesilo,,,17/09/2026 14:10
-29c52248-cc6f-4f09-a5c9-e7b65f7c148b,leasing.new,available,549.99,,high,low,7,name.com,,,
-59383bcc-1a08-41ac-9345-042d187ef08d,cars.camp,premium,512,512,low,low,4,namesilo,,,17/09/2026 14:10
-c9502023-e37b-43e8-9ed2-fe7517a65cc3,wheels.esq,premium,427.7,427.7,medium,low,6,namecheap,,,17/09/2026 12:21
-463b7f8b-8936-40d2-9fca-36d4bdbe2982,wheels.auto,available,1999.99,2199,medium,low,6,namesilo,,,17/09/2026 12:21
-a274bbaa-2cd7-4c54-8ee1-cf079603a39c,cars.club,resell,,,low,low,4,"GoDaddy.com, LLC",03/11/2023 21:02,03/01/2027 17:11,17/09/2026 14:10
-a8e229a6-ea31-4029-8dfd-94dff8895da8,cars.agency,resell,,,low,low,4,101domain GRS Limited,27/04/2014 16:00,27/04/2027 16:00,17/09/2026 14:10
-30721842-682a-4f60-b42e-708fb81c2ce1,cars.hamburg,resell,,,low,low,4,,20/04/2016 14:43,20/04/2027 14:43,17/09/2026 14:10
 b7d1822a-c55c-4900-a534-a91d4710277a,vehicle.bike,available,14.99,,high,low,7,name.com,,,
 d1ce5902-a691-448e-b2b2-bb2452a7d71e,vehicle.limo,available,19.99,,high,low,7,name.com,,,
-2d764101-1be1-40e0-a2ee-d1de736339c7,cars.haus,resell,,,low,low,4,Porkbun LLC,12/07/2023 09:56,12/07/2027 09:56,17/09/2026 14:10
-6ae5b28b-2c25-461e-abf6-ee7b9662f17d,cars.science,resell,,,low,low,4,Porkbun,31/01/2025 16:08,31/01/2027 16:08,17/09/2026 14:10
-6c46f0f3-579c-44dc-993e-4c64ced542f4,cars.town,premium,512,512,low,low,4,namesilo,,,17/09/2026 14:10
-74edef23-eff1-42d7-ace8-108a94d6919a,wheels.investments,available,12.99,129.99,medium,low,6,namesilo,,,17/09/2026 12:21
-1a8e2969-9fd0-44cb-a812-0855d443adf8,cars.voto,resell,,,low,low,4,"Spaceship, Inc.",19/01/2026 04:52,19/01/2027 04:52,17/09/2026 14:10
-8a2cb81c-1290-4628-a96e-f8c6dd421c5a,cars.democrat,available,7.25,32.99,low,low,4,namesilo,,,17/09/2026 14:10
-ddaccc49-1eaa-4ef1-94eb-7e5afddc91f3,wheels.channel,premium,323.7,323.7,medium,low,6,namecheap,,,17/09/2026 12:21
-1f7daaee-56e7-475e-ac30-86c3c94d1c4a,cars.jewelry,available,64.99,64.99,low,low,4,namesilo,,,17/09/2026 14:10
-912f7ad7-ba31-4d97-8553-1916728eeb14,wheels.ltd,premium,78.54,78.54,medium,low,6,namesilo,,,17/09/2026 12:21
-29e676f3-a2bf-47ca-a538-f8ac2627c4e9,circle.training,resell,,,medium,medium,6,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 17:45,
-2fdc2fb2-4893-4288-86c7-0927bc854165,wheels.gold,available,9.99,99.99,medium,low,6,namesilo,,,17/09/2026 12:21
-bf8bb3d1-5dc1-4fa6-813d-574a065fbc85,wheels.moi,available,25.99,25.99,medium,low,6,namesilo,,,17/09/2026 12:21
-3cad499b-ac18-48d8-b1ae-d5b5aaa1bae0,wheels.paris,available,66.98,66.98,medium,low,6,namecheap,,,17/09/2026 12:21
-0ff03537-0ba9-4bc5-95f4-b34b5d29fc02,leasing.construction,resell,,,high,low,7,"Name.com, Inc.",30/11/2025 07:12,30/11/2026 07:12,
-3ea4d894-94ac-4187-a8cb-d3021755500b,wheels.realty,available,109.99,299,medium,low,6,namesilo,,,17/09/2026 12:21
-da62acf7-c587-4e15-abe3-b4f77e5e3bfd,cars.pw,premium,3450,3450,low,low,4,namesilo,,,17/09/2026 14:10
-918a9944-774e-434c-aede-e0b88ac72089,wheels.diet,available,104.99,114.99,medium,low,6,namesilo,,,17/09/2026 12:21
-9d6ecee2-bb59-4ec7-8fc9-76432c563956,wheels.community,available,45.99,45.99,medium,low,6,namesilo,,,17/09/2026 12:21
-2cb52bb2-4a45-4f41-ad0a-ca593c75511e,cars.charity,available,14.99,23.99,low,low,4,namesilo,,,17/09/2026 14:10
-a8cadfad-1fd5-40aa-b492-b89ce11a1957,cars.top,resell,,,low,low,4,阿里云计算有限公司,29/09/2017 06:26,29/09/2028 06:26,17/09/2026 14:10
 04f35e8f-71c1-4beb-95db-b5e9049cebee,vehicle.racing,premium,130,130,high,low,7,namecheap,,,
 c27d0f1f-c860-44ff-b507-eaf556f4679a,vehicle.lease,premium,260,260,high,low,7,namecheap,,,
-9a7877ac-9b24-4657-8572-dc4d5f6a49a8,cars.watch,premium,242,242,low,low,4,namesilo,,,17/09/2026 14:10
-e5fe042f-012b-4cf3-81ad-ef48de812e86,wheels.desi,available,19.98,22.98,medium,low,6,namecheap,,,17/09/2026 12:21
 421cbf90-d2e6-4f95-be99-3dc8662d9a5c,vehicle.rent,premium,3250,3250,high,low,7,namecheap,,,
-b210e32f-8c4f-4f5b-88ff-a865d349acee,wheels.solar,available,67.98,81.98,medium,low,6,namecheap,,,17/09/2026 12:21
-e7530d62-44ef-4a5b-a250-85b9dfc3c9d6,wheels.onl,premium,65,130,medium,low,6,namecheap,,,17/09/2026 12:21
 1d4f548e-87af-47b0-aad7-5f62daa36b15,vehicle.tools,available,17.99,,high,low,7,name.com,,,
-0d68ffca-0f9e-4bd8-8c4b-faa60ee743c2,gasstation.mobile,premium,375,,high,low,11,name.com,,,
 e43bfb4f-b985-4cc0-b8f5-f95770818bee,vehicle.plumbing,available,14.99,,high,low,7,name.com,,,
 9960751a-02c6-4abf-b035-d087e68dcfc8,vehicle.cab,available,19.99,,high,low,7,name.com,,,
 eb1941bb-2f08-4893-8d81-ba4102fe6772,vehicle.taxi,available,10.99,,high,low,7,name.com,,,
-4155b3f5-1058-40d7-829c-a8e0f6bac799,wheels.top,premium,49.14,49.14,medium,low,6,namesilo,,,17/09/2026 12:21
 e50f7b94-39c6-4a34-a47e-88d609478f12,vehicle.maison,available,19.99,,high,low,7,name.com,,,
 a3904d8d-e914-472f-9008-70fe441dca40,vehicle.properties,available,10.99,,high,low,7,name.com,,,
 9ad75afb-75d6-44f3-bb45-882de0d5ff80,vehicle.homes,premium,845,15.73,high,low,7,namecheap,,,
@@ -375,7 +317,6 @@ af23f5c2-1fb6-4851-b367-deb30980896d,vehicle.casa,resell,17.98,,high,low,7,Sav.c
 a2b03980-d8d4-4973-86ba-948a72853e01,vehicle.apartments,available,19.99,,high,low,7,name.com,,,
 619e69ef-5a8c-43d3-b654-ee29153eb4a9,vehicle.place,available,22.49,22.49,high,low,7,namesilo,,,
 3456761a-0a72-4a48-a915-518d0b19ffe9,vehicle.realty,available,109.99,299,high,low,7,namesilo,,,
-f143ead1-8835-47cf-90db-97b83ba19d6c,cars.christmas,available,34.99,34.99,low,low,4,namesilo,,,17/09/2026 14:10
 14d51411-8d2c-424e-9b6a-167947f97559,vehicle.tech,premium,3250,13000,high,low,7,namecheap,,,17/09/2026 06:28
 624af409-eac3-4662-8e13-4adf20fff9fe,vehicle.co,resell,172500,48.99,high,low,7,"GoDaddy.com, LLC",31/08/2010 18:23,30/08/2026 23:59,
 f43a6878-6af7-4b72-a659-ede4828f40d2,vehicle.enterprises,available,5.99,,high,low,7,name.com,,,
@@ -387,7 +328,6 @@ ee2888fa-c953-4e5f-8c0b-f9976103ff28,vehicle.sarl,available,6.99,6.99,high,low,7
 27259212-a05f-4e4c-8943-20f7fbb914f7,vehicle.limited,available,14.99,,high,low,7,name.com,,,
 a918338e-a78b-481d-a301-136440cdf237,vehicle.inc,premium,2015,2600,high,low,7,namecheap,,,
 77d1b326-6da7-4c69-9390-defef9f9f2d1,vehicle.net,resell,,,high,low,7,Tucows Domains Inc.,03/12/1998 05:00,02/12/2026 05:00,
-710efff1-2b5a-41cc-ae7e-3e758c746635,registration.loans,available,19.99,,high,low,12,name.com,,,
 1b11af6c-1c20-4c53-8acf-770ea869963f,vehicle.construction,available,15.99,,high,low,7,name.com,,,
 532e4285-ac35-44a7-8d3b-3b8695b8f874,vehicle.contractors,available,9.99,,high,low,7,name.com,,,
 abecaf18-12a7-4f9d-89b7-a0e4ff1669cb,vehicle.build,premium,325,325,high,low,7,namecheap,,,
@@ -396,24 +336,16 @@ abecaf18-12a7-4f9d-89b7-a0e4ff1669cb,vehicle.build,premium,325,325,high,low,7,na
 d677b38e-8f44-493e-9779-bf25f83f007f,vehicle.industries,premium,128.7,128.7,high,low,7,namecheap,,,
 743739de-a6d6-4386-9706-769ea405018c,vehicle.business,resell,,,high,low,7,Dynadot Inc,30/06/2023 17:00,30/06/2030 17:00,
 8a749f5d-750c-491d-a962-bc3306d5fa98,vehicle.company,resell,,,high,low,7,"Name.com, Inc.",04/06/2021 08:20,04/06/2028 08:20,
-7dfdfd27-b38a-43f5-aaed-cd6b64c4b29f,registration.plumbing,available,14.99,,high,low,12,name.com,,,
 fc0dc9dd-60d0-4d06-9b1a-e28dc8414b95,vehicle.express,available,16.99,,high,low,7,name.com,,,
 43bfae08-5282-4e50-8e05-2dcf3a3a7964,vehicle.fast,premium,65,65,high,low,7,namecheap,,,
 d88fa225-dcdf-47e8-9000-79a2754f66c4,vehicle.engineer,premium,1300,1300,high,low,7,namecheap,,,
-4fe8ac70-8b71-4a80-9021-9df7cea71959,leasing.tax,resell,,,high,low,7,"Name.com, Inc.",30/11/2025 07:12,30/11/2026 07:12,
-6f524525-432b-47e1-91ea-f9c42a804f2c,cars.deals,premium,854,854,low,low,4,namesilo,,,17/09/2026 14:10
-1357257c-2884-4daf-b071-7ceebd4e9050,wheels.sarl,available,6.99,6.99,medium,low,6,namesilo,,,17/09/2026 12:21
-4dd69e34-5e56-490e-82a0-d38534caa353,registration.black,available,29.99,,high,low,12,name.com,,,
 6cada12a-a069-46f9-98ef-4065d5ac60e1,vehicle.computer,available,29.99,,high,low,7,name.com,,,
 62da2636-a441-4446-b568-7bf5116708fc,vehicle.diy,premium,650,1300,high,low,7,namecheap,,,
-f88f1e3b-607b-4c16-8fa1-d2abe75e583c,leasing.shop,premium,3125,,high,low,7,name.com,,,
-0ed792c4-1ce0-4295-a96f-720320e03350,wheels.hot,premium,116,116,medium,low,6,namesilo,,,17/09/2026 12:21
 8431d11e-bb87-478b-b6dd-12e5afeae1c1,vehicle.store,premium,312.5,1250,high,low,7,name.com,,,
 8cccbf16-94ea-45cf-8bee-0e8bce621cd9,vehicle.us,resell,,,high,low,7,"GoDaddy.com, LLC",24/04/2002 14:06,23/04/2028 23:59,
 d5370b33-f9e6-4b70-b56b-3fc9a1c6e05e,vehicle.glass,premium,85.8,85.8,high,low,7,namecheap,,,
 9e6f2d07-83f0-4e5b-ac0f-6d7db7849688,vehicle.services,resell,,,high,low,7,"Sav.com, LLC - 29",04/09/2025 15:15,04/09/2026 15:15,
 df7d47d4-bb30-4a24-ab77-531565980f5f,vehicle.zone,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2018 16:16,19/09/2026 16:16,
-7ed35a47-f7e1-4dcc-96e2-352172b09e34,cars.nexus,premium,648.7,648.7,low,low,4,namecheap,,,17/09/2026 14:10
 d7147ad5-b79d-4efb-82a8-4613acf94dca,vehicle.cleaning,premium,128.7,128.7,high,low,7,namecheap,,,
 ddd8a98c-6afd-48c6-83c5-a17fd9322528,vehicle.space,premium,812.5,3250,high,low,7,namecheap,,,
 bc8b6ff5-d062-4990-9449-304dff9b52b0,vehicle.biz,resell,,,high,low,7,PDR Ltd. d/b/a PublicDomainRegistry.com,27/03/2002 05:53,26/03/2027 23:59,
@@ -423,8 +355,6 @@ bc8b6ff5-d062-4990-9449-304dff9b52b0,vehicle.biz,resell,,,high,low,7,PDR Ltd. d/
 8b609707-3428-4bac-8e75-489def888502,vehicle.tienda,available,9.99,,high,low,7,name.com,,,
 f7ff3f3a-f5d5-40a9-a1d6-d73232f1cca6,vehicle.boutique,available,6.99,,high,low,7,name.com,,,
 5192e278-02f6-4d4f-a40b-18081b5364d5,vehicle.shopping,available,14.99,,high,low,7,name.com,,,
-95dc31eb-affd-4941-bd9a-97d52fe941ae,cars.party,premium,1107,116,low,low,4,namesilo,,,17/09/2026 14:10
-a7787415-8bac-475e-ab0e-8f9eecedfe90,wheels.pictures,available,16.48,20.98,medium,low,6,namecheap,,,17/09/2026 12:21
 44c1d748-b59f-4852-a074-2cc1d5ade174,vehicle.solar,premium,85.8,85.8,high,low,7,namecheap,,,
 1cbc1b07-1f99-48b9-afca-841d7f7bd13c,vehicle.direct,resell,,,high,low,7,"GoDaddy.com, LLC",29/11/2024 00:00,29/11/2026 00:00,
 d2188e10-1636-4c1c-9417-3ba2216eba81,vehicle.locker,premium,6500,58.5,high,low,7,namecheap,,,
@@ -450,12 +380,10 @@ ba94b675-086b-42fa-9472-e1725a6a8de2,vehicle.airforce,available,103.99,103.99,hi
 a8ab999e-422f-4e75-a8e8-30e7ea7ba2ca,vehicle.holiday,available,9.99,,high,low,7,name.com,,,
 c41f3398-e240-442f-ab68-41f30ceba871,vehicle.vacations,available,9.99,,high,low,7,name.com,,,
 058ce676-c88c-461b-9192-e354a1f11b05,vehicle.reisen,available,3.99,20.99,high,low,7,namesilo,,,
-63f537df-a2e1-4bbd-b18c-c6bb18990223,insurance.services,resell,,,high,medium,9,Porkbun LLC,27/08/2017 11:16,27/08/2026 11:16,
 72e7479f-15aa-4e32-8836-571bb393641b,vehicle.click,resell,,,high,low,7,"NameSilo, LLC",25/11/2014 17:16,25/11/2026 17:16,
 dfc7aa03-4aed-45d5-9e75-07f1c0da3002,vehicle.furniture,available,39.99,,high,low,7,name.com,,,
 3afdf75a-b28f-4e80-8499-e196a1419bf2,vehicle.website,premium,650,1300,high,low,7,namecheap,,,
 bfadad28-a3c9-493f-98c8-45c4839ab708,vehicle.careers,available,49.99,,high,low,7,name.com,,,
-66554e61-0c28-464e-91e9-e8aa219f3064,cars.buzz,premium,512,116,low,low,4,namesilo,,,17/09/2026 14:10
 8fbd7e1b-e8c5-4552-a50a-fb8fc9941bff,vehicle.my,premium,973.51,1390.71,high,low,7,namecheap,,,
 c7a8966f-f192-4d1e-a06a-60aea5b87408,vehicle.cv,premium,1301.53,9.75,high,low,7,namecheap,,,
 3bb2868d-5ec2-483b-8b51-927ae5dc7dd8,vehicle.la,resell,,,high,low,7,.LA Premium Names Program,10/11/2015 00:27,10/11/2026 23:59,
@@ -478,7 +406,6 @@ c9668d07-624c-43a2-bde6-2d68367bde55,vehicle.vegas,available,12.99,43.99,high,lo
 cac43cd8-b75b-4c4d-a7ef-9e4803ce3d49,vehicle.sydney,available,54.98,,high,low,7,namecheap,,,
 e8a12bc0-7dce-416d-bf0a-cd38f0f05fcf,vehicle.miami,premium,260,19.5,high,low,7,namecheap,,,
 0957dc55-1d6d-4533-91c4-4e2c4f041059,vehicle.osaka,available,39.99,,high,low,7,name.com,,,
-db5aa8f7-ff58-4aa5-aff9-4cb8bd1e2e3b,wheels.green,available,14.99,79.99,medium,low,6,namesilo,,,17/09/2026 12:21
 bdf99a01-b98b-4e01-820a-1fee78e92ffe,vehicle.army,available,19.99,,high,low,7,name.com,,,
 9d8e9710-8ae5-49c2-8325-c5c443d8ad35,vehicle.promo,premium,1300,1300,high,low,7,namecheap,,,
 d0c11edd-955c-436f-9504-9e31be1dcbae,vehicle.cheap,available,9.99,,high,low,7,name.com,,,
@@ -499,11 +426,7 @@ b04e07de-6d6f-49a4-b523-40772b3cf213,vehicle.ceo,available,10.19,109.99,high,low
 e0bc06cb-784e-4f9f-b58f-6adb5d87c5f4,vehicle.codes,premium,128.7,128.7,high,low,7,namecheap,,,
 763864f5-0532-4fe4-98bd-0a1164e35bdb,vehicle.insure,premium,260,260,high,low,7,namecheap,,,
 e5cb2b70-a35d-4439-af2d-92e87fe18d0c,vehicle.nexus,premium,648.7,648.7,high,low,7,namecheap,,,
-e7c580ea-0438-4a32-885a-3d358762657b,engine.health,resell,,,medium,low,6,"Sav.com, LLC - 37",13/07/2026 00:00,13/07/2027 00:00,08/09/2026 12:18
 f2751d59-81f0-48cd-80db-ef4cb53cbd73,vehicle.media,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",25/01/2023 17:00,25/01/2027 17:00,
-8addc62d-019c-4966-9334-b8571d15e286,cars.esq,premium,843.7,843.7,low,low,4,namecheap,,,17/09/2026 14:10
-51668008-796d-4ec6-bab7-4a58b5b1ae82,cars.dad,premium,648.7,648.7,low,low,4,namecheap,,,17/09/2026 14:10
-19438477-be96-44b8-bd88-0118084b142d,registration.republican,available,5.99,,high,low,12,name.com,,,
 6f343933-53d6-42ca-a315-0276c7a9fa47,vehicle.poker,available,14.99,,high,low,7,name.com,,,
 fb9ac72a-f029-4e77-8bf9-892d7ad5f072,vehicle.casino,available,12.79,159.99,high,low,7,namesilo,,,
 173b38e3-1017-493c-a0e0-a52da39a4da0,vehicle.bingo,available,14.99,,high,low,7,name.com,,,
@@ -534,7 +457,6 @@ a9c653f8-d681-40bf-8361-121b1e33820c,vehicle.rodeo,available,12.99,12.99,high,lo
 ea7c83f8-d2b9-43c5-b5b3-cba6dc85dc32,vehicle.food,premium,650,1300,high,low,7,namecheap,,,
 a063ecde-d1d9-4aff-a7c7-5b8aea091b76,vehicle.yachts,premium,845,15.73,high,low,7,namecheap,,,
 2c68af9e-fac5-466a-bdf8-86960f366cbd,vehicle.work,premium,1300,10.4,high,low,7,namecheap,,,
-3c0f35ab-ce10-4913-95c8-219fb0613c43,cars.finance,premium,1040,1040,low,low,4,namecheap,,,17/09/2026 14:10
 cc878c80-b579-4f54-9286-b9e7faca6a7d,vehicle.stream,premium,650,84.5,high,low,7,namecheap,,,
 fe7ff735-33a5-4dd6-96dc-3daf4a4bda77,vehicle.tube,available,23.99,23.99,high,low,7,namesilo,,,
 9445153f-f3cf-4d5e-a146-c04f05e10cb0,vehicle.webcam,available,11.99,11.99,high,low,7,namesilo,,,
@@ -599,7 +521,6 @@ aa0d2992-d710-45ec-bc98-d54684e8756a,vehicle.soy,premium,53.3,53.3,high,low,7,na
 16493c4f-6ac9-4a0a-b949-2176e60d5cdd,vehicle.you,premium,65,65,high,low,7,namecheap,,,
 52d9e475-ddb4-49fe-9258-9fa7fbbb4277,vehicle.one,premium,650,650,high,low,7,namecheap,,,
 24d2fd9b-cbb6-48a1-b45d-ad2bd2881063,vehicle.name,available,9.98,,high,low,7,namecheap,,,
-af74c92b-1c24-430f-bb41-abf36d3a3a7b,registration.mba,available,19.99,,high,low,12,name.com,,,
 98cf56df-52c3-495b-b782-097ace88b462,vehicle.icu,premium,18.85,75.4,high,low,7,namecheap,,,
 c5d58de9-fe37-4e48-b276-87a000c99247,vehicle.vana,available,2498,,high,low,7,namecheap,,,
 19c8263f-4b97-4cb6-a4d6-18163bb80418,vehicle.country,available,2450,,high,low,7,namecheap,,,
@@ -648,7 +569,6 @@ a333c7d1-3336-4312-a852-bd8367dcb589,vehicle.wtf,resell,,,high,low,7,"Sav.com, L
 4007098f-8496-4d52-af67-0357706f78cc,vehicle.mortgage,available,14.99,,high,low,7,name.com,,,
 bf1c167f-af82-4c72-b742-64248c815f6d,vehicle.buzz,premium,130,65,high,low,7,namecheap,,,
 a780f298-a8a3-42ae-ac97-bb92e5f32e6b,vehicle.group,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",02/02/2018 19:42,02/02/2027 19:42,
-06923205-78c8-4fb8-9b8d-baa086c6cdde,wheels.melbourne,available,58,58,medium,low,6,namesilo,,,17/09/2026 12:21
 a783d099-da8c-42a7-b144-daebf888a5fd,vehicle.college,premium,260,260,high,low,7,namecheap,,,
 a28c23e1-cae0-4736-afc4-972d413ce886,vehicle.plus,premium,260,260,high,low,7,namecheap,,,
 5539875f-2432-4979-82d5-e72e19f0b304,vehicle.fishing,available,32.49,32.49,high,low,7,namesilo,,,
@@ -749,253 +669,333 @@ adb729f5-4038-4e1a-a085-c15e3f6e6fb1,vehicle.hiv,available,184.99,,high,low,7,na
 db9ae9f5-f439-4174-9afb-7ce090050e68,vehicle.meme,premium,845,845,high,low,7,namecheap,,,
 1c90d3f9-f750-499a-8f84-15d3937af80e,vehicle.credit,premium,260,260,high,low,7,namecheap,,,
 f49999d2-5cf3-4865-bf08-8f1ef4e88bb4,vehicle.security,available,1999.99,2049.99,high,low,7,namesilo,,,
-7dcc33d9-7b14-4fe3-baea-72e5b38ecfc9,wheels.bar,premium,230.4,230.4,medium,low,6,namesilo,,,17/09/2026 12:21
-0f165ca6-825a-44b0-bcfb-786d888e7da8,wheels.loan,premium,1300,130,medium,low,6,namecheap,,,17/09/2026 12:21
-cd87b60f-17cf-492f-b14d-fb17be6dd0c1,registration.zip,premium,73.75,,high,low,12,name.com,,,
-aa228789-75f5-4870-952d-4d213755cde7,cars.london,resell,,,low,low,4,"GoDaddy.com, LLC",07/08/2015 16:10,07/08/2027 23:59,17/09/2026 14:10
-58dbb750-c22b-40f8-8176-7dc4697432e7,registration.engineering,available,11.99,,high,low,12,name.com,,,
-e2e4a5be-d2e3-40de-8d32-eb3e490291fd,registration.inc,premium,2170,2800,high,low,12,namecheap,,,
-f5d0ed93-07e2-4a86-b9a8-95929f35a71d,wheels.ink,available,2.99,32.49,medium,low,6,namesilo,,,17/09/2026 12:21
-9cc0aa13-91ea-49df-901a-8b5e426f8374,registration.bargains,available,21.99,,high,low,12,name.com,,,
-9a282492-2e0e-4d2b-b69e-fde00c9064be,wheels.lifestyle,premium,640,640,medium,low,6,namesilo,,,17/09/2026 12:21
-711f12f0-1f7a-4ce1-88f2-fb309b9af683,registration.restaurant,available,29.99,,high,low,12,name.com,,,
-5da4d3d6-d7da-40fe-b05e-66561b5edad4,registration.exchange,available,10.99,,high,low,12,name.com,,,
-0c2aff03-67a4-4b0a-bc72-0bfa18745db4,registration.tickets,available,359.99,389.99,high,low,12,namesilo,,,
-31c62e9c-8683-4bdf-bdd6-ae9a5d4419ea,engines.motorcycles,available,1.8,21.98,low,low,7,namecheap,,,19/09/2026 19:59
-7a057cd1-8137-4579-b4b1-ee8c7c60c406,cars.garden,premium,47.2,29.5,low,low,4,namesilo,,,17/09/2026 14:10
-5433de66-34f9-4acb-9a3c-9362dcd30f73,wheels.pizza,available,5.98,83.98,medium,low,6,namecheap,,,17/09/2026 12:21
-47a7fe16-cfce-4fc2-8630-ff37c019290a,registration.esq,premium,198.75,,high,low,12,name.com,,,
-98b16eb1-f22e-49c0-85ad-35feda1053ae,traffic.design,resell,,,high,low,7,"GoDaddy.com, LLC",16/11/2025 07:32,16/11/2026 07:32,
-edbb346f-2b5f-46a5-a795-2d5f0ca09b9d,detailing.boats,available,1.99,15.75,high,low,9,namesilo,,,
-b92888b2-f025-43e4-bef0-6dc6d4a3278e,registration.car,available,1999.99,2199,high,low,12,namesilo,,,
-0936a68b-cbb1-4d56-a5c3-6d8a8204c1cd,registration.sex,available,154.98,,high,low,12,namecheap,,,
-ed3b7d78-33ba-450f-88bd-708d317b755c,wheels.voyage,available,58.99,58.99,medium,low,6,namesilo,,,17/09/2026 12:21
-47caf32d-d0af-4281-893c-cba9c0f90efc,wheels.guide,available,41.49,41.49,medium,low,6,namesilo,,,17/09/2026 12:21
-b2b8914b-3b45-4104-83dd-a7f40de6c387,registration.irish,available,9.99,,high,low,12,name.com,,,
-4af118df-2612-450f-966c-494829313e7a,registration.gripe,available,6.99,6.99,high,low,12,namesilo,,,
-766056f1-7ed2-4b4f-b632-59c85ce94cb1,registration.pink,available,14.99,,high,low,12,name.com,,,
-3109733e-053d-4db1-84ff-34dcce113969,registration.forsale,available,19.99,,high,low,12,name.com,,,
-81549a57-9c94-4926-ac8a-8902c1a2ff3b,wheels.blog,premium,160,640,medium,low,6,namesilo,,,17/09/2026 12:21
-6a9ab043-c41d-41da-a163-2b63f49bbb3d,registration.mom,available,1.99,,high,low,12,name.com,,,
-39b88e7b-a804-4793-a398-f493664f8610,wheels.page,premium,318.72,318.72,medium,low,6,namesilo,,,17/09/2026 12:21
-a19e21e4-878c-45dc-8483-844e0aa26fc7,wheels.tools,premium,78.54,78.54,medium,low,6,namesilo,,,17/09/2026 12:21
-b88fbf5f-c391-4c8d-b640-15c1cc8a5ba2,cars.apartments,available,57.99,57.99,low,low,4,namesilo,,,17/09/2026 14:10
-840e279f-1e5d-4852-8a8a-c122cb6e4c44,maintain.mobile,premium,750,,high,low,8,name.com,,,
-4e447ecb-55b5-468e-8c06-04ab9bbe7888,registration.photo,available,29.99,29.99,high,low,12,namesilo,,,
-2760c0f7-bba8-4283-a141-e4846f5c395f,leasing.kiwi,available,35.68,,high,low,7,namecheap,,,
-6eeecde2-b56b-4121-ac04-765b07f4a699,coverage.cfd,available,1.49,,high,low,8,name.com,,,
-13d756b6-154b-4b47-a54d-74f001336e72,registration.pet,resell,,,high,low,12,IONOS SE,13/09/2024 10:08,13/09/2026 10:08,
-2d86995d-7e60-4ed9-90ef-590b6cfe045b,insurance.shop,premium,12500,,high,medium,9,name.com,,,
-9587fdb6-b98d-47e7-b9f0-ad374ded7a09,cars.works,premium,512,512,low,low,4,namesilo,,,17/09/2026 14:10
-2da2772e-3de2-447b-a219-530f1147d1c3,cars.ink,premium,116,116,low,low,4,namesilo,,,17/09/2026 14:10
 248bc60b-4520-4d2a-b7d6-73c821173ce4,automobile.car,available,1999.99,2199,high,low,10,namesilo,,,
-82b20299-d0a0-4c75-bcbf-91c727f555e2,registration.icu,premium,68.43,147.2,high,low,12,namesilo,,,
 bd8bc8b5-2010-4eec-8737-caf1516378e7,automobile.auto,available,1999.99,2199,high,low,10,namesilo,,,
-f761197f-1514-4c0c-ada9-9f61b4ae1e9c,registration.apartments,available,19.99,,high,low,12,name.com,,,
-277ba5a4-6d82-4129-862f-fb71d07ba849,wheels.maison,available,57.99,57.99,medium,low,6,namesilo,,,17/09/2026 12:21
-c7042c42-ac93-4ab3-8e02-38cc75da855d,cars.prof,premium,843.7,843.7,low,low,4,namecheap,,,17/09/2026 14:10
-b6739e4d-d0c5-453c-ba53-3f53ba47fae2,wheels.computer,available,23.99,38.99,medium,low,6,namesilo,,,17/09/2026 12:21
-9735cf37-8e25-4d7e-a380-9264ded64dbb,engines.enterprises,available,9.48,47.98,low,low,7,namecheap,,,19/09/2026 19:59
-2e2ce7b5-9936-4a05-ae2f-452ea8c93d08,shop.channel,premium,1248.75,,high,medium,4,name.com,,,
-d8f9fa7f-1556-4869-b586-3f45264ef702,cars.solar,resell,,,low,low,4,Porkbun LLC,16/09/2025 18:33,16/09/2027 18:33,17/09/2026 14:10
-94e49921-16db-4626-acbb-a37ccb19786b,wheels.osaka,available,32.98,41.98,medium,low,6,namecheap,,,17/09/2026 12:21
-a7b9a0d3-06c5-4e44-971d-ec3e7106f756,rental.boats,resell,,,medium,low,6,"GoDaddy.com, LLC",14/06/2021 21:16,14/06/2027 23:59,09/09/2026 14:17
-62f49fe4-b0c5-460f-87c1-6624aba13334,wheels.recipes,available,8.99,77.99,medium,low,6,namesilo,,,17/09/2026 12:21
-5c8cfa4d-298e-42d8-9578-a802aa3d6fb2,suspension.ryukyu,available,22.98,,high,low,10,namecheap,,,
-2c856b9c-3565-4eec-b305-44983cc9866c,cars.shop,premium,13000,13000,low,low,4,namecheap,,,17/09/2026 14:10
-c395bb5a-8e2b-4e07-95d2-8232b71c7c9b,wheels.gallery,available,29.98,36.98,medium,low,6,namecheap,,,17/09/2026 12:21
-7713a9c0-9f4c-48c2-b042-c227bd842c28,registration.giving,available,5.99,,high,low,12,name.com,,,
-9fcdd226-3f0d-4e8e-9fe9-1aed40772adb,registration.beauty,available,1.65,15.75,high,low,12,namesilo,,,
-b0eba341-fb48-4715-9c30-b517225ede58,registration.cn,resell,,,high,low,12,Dynadot Inc,,,
-c554af6b-7215-4f82-bf89-7af6caf56469,fuel.cloud,resell,,,high,low,4,"Spaceship, Inc.",05/05/2026 17:06,05/05/2027 17:06,
-9421fdbc-574a-4a61-b8b9-ea07dc5c8407,engines.theater,available,67.98,80.98,low,low,7,namecheap,,,19/09/2026 19:59
-7f0891d7-53ff-480e-b20e-461f92610aff,wheels.engineering,available,16.99,64.99,medium,low,6,namesilo,,,17/09/2026 12:21
-1cbd47b6-ce75-4984-901c-d8b1f1623e82,engines.university,available,65.98,77.98,low,low,7,namecheap,,,19/09/2026 19:59
-3ebee967-0653-4e08-be4c-72c4819a59ce,cars.bot,resell,1250,,low,low,4,name.com,,,17/09/2026 14:10
-74be33d6-a3ee-4249-8fe1-6b67ac9ef92e,engines.works,available,3.98,51.98,low,low,7,namecheap,,,19/09/2026 19:59
-b80a28f9-e151-42da-877d-47ca38bcf506,engines.hockey,available,62.98,72.98,low,low,7,namecheap,,,19/09/2026 19:59
-68891a31-cfaa-4c40-91bd-4c50f6e240d8,wheels.forex,available,11.98,133.98,medium,low,6,namecheap,,,17/09/2026 12:21
-81feac17-2a10-4f33-a3e9-cc9dcd2fe584,wheels.consulting,available,8.48,67.98,medium,low,6,namecheap,,,17/09/2026 12:21
-afbb0ee3-d2d0-4078-87b6-171290d5a14d,driven.motorcycles,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 19:34
-44e99571-9c0b-44ba-917f-9413995b0569,wheels.gratis,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 12:21
-bff232bc-1904-419a-9ac4-99c41b347812,wheels.immobilien,available,37.99,37.99,medium,low,6,namesilo,,,17/09/2026 12:21
-166c49fc-8bda-4fde-9053-647605b6f73b,engines.show,available,15.98,47.98,low,low,7,namecheap,,,19/09/2026 19:59
-62919189-f3ee-4469-8798-7cda7177ca3d,engines.you,premium,65,65,low,low,7,namecheap,,,19/09/2026 19:59
-88297a9d-3a11-4942-807e-ed6b8414092a,wheels.ac,available,34.99,47.99,medium,low,6,namesilo,,,17/09/2026 12:21
-d25648b3-c8fe-43ba-a804-0756ccb9f806,wheels.help,premium,83.3,116,medium,low,6,namesilo,,,17/09/2026 12:21
-8fb5ab67-5dba-4882-897a-a7fece15ff73,wheels.archi,available,19.99,103.99,medium,low,6,namesilo,,,17/09/2026 12:21
-9b0a6d66-e5ac-4ec5-92c3-a5ab3646460b,wheels.team,resell,,,medium,low,6,"Sav.com, LLC - 29",18/11/2025 15:15,18/11/2026 15:15,17/09/2026 12:21
-20ae3ff4-0025-41a9-9077-91fd569b42c7,wheels.bot,available,64.99,64.99,medium,low,6,namesilo,,,17/09/2026 12:21
-06147ee8-6f73-43ee-90b6-8a48389fbf97,registration.market,available,44.49,44.49,high,low,12,namesilo,,,
-e0a4e666-070c-4d15-8ede-c56c3d09c6e1,engines.services,available,5.48,51.98,low,low,7,namecheap,,,19/09/2026 19:59
-97c2233c-a14a-4681-98b5-e102958e34ca,registration.lawyer,premium,3125,,high,low,12,name.com,,,
-4ea946e1-9f59-441c-99c8-f6f80b87dabc,motorist.auto,available,1999.99,2199,medium,low,8,namesilo,,,21/09/2026 07:26
-eda17e74-86f2-4392-8835-e9d47abccff1,registration.pictures,available,9.99,,high,low,12,name.com,,,
 35c309f3-1b2c-44fe-87c3-119459ebb63a,vehicle.repair,resell,,,high,low,7,"GoDaddy.com, LLC",31/03/2014 21:27,31/03/2027 21:27,
-e8cc1d19-6270-4600-91db-1be7da15291d,engines.courses,available,1.98,50.98,low,low,7,namecheap,,,19/09/2026 19:59
-16f274e4-7283-4480-b76f-1ee3015c2225,cars.hockey,available,59.99,59.99,low,low,4,namesilo,,,17/09/2026 14:10
-400cc0af-b4a0-4f91-b959-b4a587251f18,engines.free,premium,130,130,low,low,7,namecheap,,,19/09/2026 19:59
-2b89d89e-750f-4f17-b6e9-9d813e7e169f,engines.trading,available,21.98,27.98,low,low,7,namecheap,,,19/09/2026 19:59
-f0b20e78-b96f-4c76-bb2d-93ac45b273fb,registration.taxi,available,10.99,,high,low,12,name.com,,,
-3193975a-7c21-4a31-a5fb-1dde78c9bc89,engines.supply,available,27.48,33.48,low,low,7,namecheap,,,19/09/2026 19:59
-2c172cfe-f277-4a27-bcd8-389b0cd93e4c,wheels.markets,available,5.98,26.98,medium,low,6,namecheap,,,17/09/2026 12:21
-c4c5eb47-e6e0-4941-8688-f7f8ef3009c3,engines.bot,available,64.98,78.98,low,low,7,namecheap,,,19/09/2026 19:59
 57a1396c-947e-4926-9abf-d2e2b89b47a9,automobile.motorcycles,available,1.99,15.75,high,low,10,namesilo,,,
-c30bc6fa-a00d-4673-b5c0-b2bc872c8bc2,engineering.network,resell,,,medium,low,11,Dynadot Inc,16/02/2021 08:40,16/02/2027 08:40,19/09/2026 11:00
-4d81744e-1edf-4d15-a7df-21059f5d6e8f,replacement.forex,available,19.99,,high,low,11,name.com,,,
-a64093d7-f7c1-40f1-8954-1ad5e77139e5,registration.stream,available,5.25,6.25,high,low,12,namesilo,,,
-5ae4a153-37c5-4691-8fff-789b9e7dbdb5,cars.srl,premium,54.28,30.68,low,low,4,namesilo,,,17/09/2026 14:10
-d383a682-e241-497c-8984-cd11fe8724ab,roof.software,resell,,,medium,low,4,"Key-Systems, LLC",21/11/2019 10:54,21/11/2026 10:54,
-e373d51e-42f9-4ff7-b3ba-365abefb25a5,engines.degree,available,54.98,66.98,low,low,7,namecheap,,,19/09/2026 19:59
-fcd4bd03-3bce-443a-b918-a92819900c29,controlling.mobile,available,26.98,,medium,low,11,namecheap,,,
-68dc7f4f-316a-4403-b254-10e682f18918,cars.coupons,resell,3.99,,low,low,4,name.com,,,17/09/2026 14:10
-1a7baa3a-d8fa-4110-9c7a-f3a08381fd3c,registration.attorney,premium,3125,,high,low,12,name.com,,,
-63d2aeae-9813-40d2-b9c0-e07b7a1d89e3,wheels.life,resell,,,medium,low,6,Xin Net Technology Corporation,04/12/2020 07:04,04/12/2027 07:04,17/09/2026 12:21
-8d56ac76-46f5-4322-b865-ff39551f96e9,machinery.shop,premium,625,,high,low,9,name.com,,,
-f57657e4-36af-43b3-bd1b-a55c7134dea0,wheels.holiday,available,64.99,64.99,medium,low,6,namesilo,,,17/09/2026 12:21
 174d1afd-e357-4dba-91d4-1f7308cc10bd,automobile.dealer,premium,2170,2800,high,low,10,namecheap,,,
-c6ff31b7-5ea4-4593-b0ae-52779001eee9,engines.moda,available,43.98,45.98,low,low,7,namecheap,,,19/09/2026 19:59
-3ca18de4-c061-4643-a1aa-293a0e4ce02c,cars.solutions,resell,,,low,low,4,,,,17/09/2026 14:10
-2e7a538f-e635-45d1-8bca-341806cc9561,motors.accountant,available,23.59,23.59,low,low,6,namesilo,,,21/09/2026 01:16
-dac87bc7-9e15-451b-b5ee-e07eec31d14a,supplier.pro,resell,,,high,low,8,Dynadot Inc,12/03/2018 10:08,12/03/2027 10:08,
 cab12017-6d4c-4c63-8cb7-1ac176f4da8a,automobile.cars,available,1999.99,2199,high,low,10,namesilo,,,
-5f7e99a3-4ff7-4c07-8dcf-f01d230235b1,wheels.racing,premium,116,116,medium,low,6,namesilo,,,17/09/2026 12:21
-88335e0d-ded2-4780-af75-a101f435c0d9,bike.farm,resell,,,medium,low,4,"GoDaddy.com, LLC",20/04/2014 16:33,20/04/2029 16:33,08/09/2026 12:23
-80e01c29-e16f-4f23-a57e-b400a3cb6a56,bike.apartments,available,57.99,57.99,medium,low,4,namesilo,,,08/09/2026 12:23
-e16f63b8-21f1-41ad-8bda-18e8437355c4,wheels.beauty,available,1.8,21.98,medium,low,6,namecheap,,,17/09/2026 12:21
-7c499411-cf9c-4aec-ad7a-30000564c6ba,engines.website,premium,325,650,low,low,7,namecheap,,,19/09/2026 19:59
-cee7d723-3d7d-4bd9-af6d-97480b2e99c1,motorist.security,available,1999.99,2049.99,low,low,8,namesilo,,,21/09/2026 07:26
-316360c2-1014-437c-b2cb-4f3ae134bd42,wheels.gifts,available,38.48,47.48,medium,low,6,namecheap,,,17/09/2026 12:21
-35805203-810f-4925-b925-ecad59645fd3,engines.porn,available,69.98,154.98,low,low,7,namecheap,,,19/09/2026 19:59
-6c671125-38c9-418a-9a63-b71dcf5166b7,engineering.army,available,19.99,50.99,medium,low,11,name.com,,,19/09/2026 11:00
-6fa8b3c7-8071-4b47-9ef9-c19b11587f12,carriage.ryukyu,available,22.98,,high,low,8,namecheap,,,
-44aad4be-f06c-4a9e-bc0d-dc964bee8367,motors.blog,premium,640,2660,low,low,6,namesilo,,,21/09/2026 01:16
-24dedd0c-a1e4-46fd-bca6-c1427296f153,cars.promo,premium,3250,3250,low,low,4,namecheap,,,17/09/2026 14:10
-418b5a8b-cbbf-46d1-8915-9f662f55fe7d,wheels.click,premium,116,116,medium,low,6,namesilo,,,17/09/2026 12:21
-63b95450-c34e-4261-ba97-3e8a30ba81a2,wheels.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,17/09/2026 12:21
-c7531849-9d46-4f20-a5e4-daba82e4e972,motorist.broker,available,11.98,47.98,low,low,8,namecheap,,,21/09/2026 07:26
-4c7a4618-36d6-41a6-bc38-d2ee4f00508d,motors.taxi,available,10.99,62.99,low,low,6,namesilo,,,21/09/2026 01:16
-26933dae-feed-468b-9239-dbbc4450e7a9,describe.eu,premium,20873.26,,high,low,8,Name: NETIM Website: https://www.netim.com/,,,
-f766b627-e5e3-4a1d-a390-1ffbb0bdfe85,rental.theatre,available,509.99,529.99,medium,low,6,namesilo,,,09/09/2026 14:17
-d99d08a6-beb8-423d-b65f-848bb13a1f56,driven.careers,available,28.98,89.98,medium,low,6,namecheap,,,14/08/2026 19:34
-7b6417f3-93c1-4555-80c2-8dc52438bd81,controlling.channel,premium,36.25,,medium,low,11,name.com,,,
-d81d4dd1-0a38-4ac4-978e-242a57ba96ee,motors.team,resell,,,low,low,6,Squarespace Domains II LLC,23/05/2023 15:15,23/05/2027 15:15,21/09/2026 01:16
-50ed3014-4a2c-4b2b-96a8-b11babe5821c,motors.coach,available,11.98,95.98,low,low,6,namecheap,,,21/09/2026 01:16
-c1315efa-796f-4740-94a5-97201785d954,piston.xyz,resell,,,medium,low,6,Dynadot LLC,14/12/2017 17:01,14/12/2027 23:59,
-75a272bb-a09a-4471-9297-d750a317c0ee,wheels.gripe,available,6.99,6.99,medium,low,6,namesilo,,,17/09/2026 12:21
-f7db6051-fe5a-4032-bd11-971c24054107,rental.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,09/09/2026 14:17
-369fab0d-8f0f-4055-a825-380cc96ce7e1,part.dev,premium,843.7,843.7,medium,low,4,namecheap,,,15/09/2026 19:03
-e30a4630-5743-4fe5-ba34-bb4b72f97cd0,driven.capital,resell,,,medium,low,6,Dynadot Inc,08/02/2022 18:54,08/02/2027 18:54,14/08/2026 19:34
-9ab6f0fe-161c-4642-b6b8-bf412fbde1f1,wheels.style,available,16.99,38.99,medium,low,6,namesilo,,,17/09/2026 12:21
-f28ed2c1-61f6-4947-8a23-dbea52539d8c,cars.rsvp,premium,648.7,648.7,low,low,4,namecheap,,,17/09/2026 14:10
-4d518c19-81ff-44d6-a145-1ab2f6d19877,rental.sexy,available,2749.99,2749.99,medium,low,6,namesilo,,,09/09/2026 14:17
-cd8b4e1e-523a-440c-89bf-8a5ad02b86b7,registration.diamonds,available,54.99,54.99,high,low,12,namesilo,,,
-6bb9d4fe-b235-4f14-ab6d-e722a362fa32,bike.luxe,premium,854,17.7,medium,low,4,namesilo,,,08/09/2026 12:23
-98454df5-e3d0-434a-9696-32b9d52e8554,bike.film,premium,242,242,medium,low,4,namesilo,,,08/09/2026 12:23
-aebaa7aa-67db-40c7-898c-6d78aa7b216c,rental.properties,resell,,,medium,low,6,Porkbun LLC,24/10/2021 21:31,24/10/2026 21:31,09/09/2026 14:17
-ec7703ae-d08a-46ad-a0cf-c454e4debc49,company.express,resell,,,medium,low,7,,,,19/09/2026 10:25
-9659c801-3e4b-40c1-970c-aada16a35e72,engines.news,available,8.98,41.48,low,low,7,namecheap,,,19/09/2026 19:59
-4b0c34f5-de7d-440d-83c3-08d9d45e5972,bike.contact,resell,,,medium,low,4,"Go Australia Domains, LLC",09/12/2020 16:00,09/12/2026 16:00,08/09/2026 12:23
-5dd0626c-7764-4b9f-aefd-eadfdf4acf27,wheels.sucks,premium,2658.67,2658.67,medium,low,6,namesilo,,,17/09/2026 12:21
-45a38378-2d3c-4bca-a691-1dd96a2950dc,motorist.foundation,available,14.99,23.99,low,low,8,namesilo,,,21/09/2026 07:26
-98596a4d-2dd0-4e89-ac15-2ae7e2f17ac0,motors.beer,available,2.19,32.49,low,low,6,namesilo,,,21/09/2026 01:16
-0ac141fe-c162-4617-922a-d3ce1e5713b3,engines.adult,available,69.98,166.98,low,low,7,namecheap,,,19/09/2026 19:59
-97879342-0773-4155-b941-15c8c303439a,wheels.horse,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 12:21
-3f43106d-ea08-4f40-b2f1-078a26bc6a14,motorist.icu,premium,46.61,94.8,low,low,8,namesilo,,,21/09/2026 07:26
-b2096d4f-ce68-4473-9683-0eb6f9d577ef,bike.black,premium,2600,2600,medium,low,4,namecheap,,,08/09/2026 12:23
-33be9ae8-6a5b-470f-a984-f92a0eba08b7,engines.ong,available,18.98,24.98,low,low,7,namecheap,,,19/09/2026 19:59
-b14a1e2c-3663-468e-8c31-0ea819713402,motorcar.cx,available,18.99,18.99,low,low,8,namesilo,,,21/09/2026 05:29
-11216bb9-947c-4705-af91-f1f04a436509,motors.download,available,5.25,6.25,low,low,6,namesilo,,,21/09/2026 01:16
-9cce2bee-19b8-4472-b47c-a29d1acff3e1,bike.memorial,available,52.99,52.99,medium,low,4,namesilo,,,08/09/2026 12:23
-075ef328-68ec-4e62-a203-d9f6fae17cef,motors.fish,available,44.49,44.49,low,low,6,namesilo,,,21/09/2026 01:16
-3f95730f-a4ca-46cd-b96f-f05537d97757,motorist.ing,available,12.98,16.98,low,low,8,namecheap,,,21/09/2026 07:26
-2710335b-4c9f-43ba-a9ea-1ed4e802546d,driven.fan,available,11.99,71.99,medium,low,6,name.com,,,14/08/2026 19:34
-f5f7df07-f1cf-4342-83aa-281da95d6063,energy.live,resell,,,medium,medium,6,"GoDaddy.com, LLC",22/04/2016 03:35,22/04/2027 03:35,04/09/2026 13:30
 d9bcdf2f-d47f-4155-872d-d3321ba976fd,vehicle.barcelona,available,38.98,,high,low,7,namecheap,,,
 5736cd1b-f166-4177-a54d-7f98e42d9cf7,vehicle.paris,available,51.98,,high,low,7,namecheap,,,
 c145a991-bd6f-4aa9-ac9d-7e36128dafa7,vehicle.hamburg,available,59.99,,high,low,7,name.com,,,
-e6ded1d3-0df0-4fe7-b5c3-d1afcdfafed4,motorist.baby,available,17.99,54.99,low,low,8,namesilo,,,21/09/2026 07:26
-e9f3d832-9747-4cc2-b03b-3884413b0c13,engines.hair,available,1.8,21.98,low,low,7,namecheap,,,19/09/2026 19:59
-372591d1-53c3-4ec8-917d-5df7b16ac64e,motors.fit,resell,2.99,,low,low,6,name.com,,,21/09/2026 01:16
-6599e602-fefe-4a24-98e9-0941a83a11e9,registration.tax,available,14.99,,high,low,12,name.com,,,
 3762e3eb-7ae9-4bd2-ba4e-f5ce51d244fa,vehicle.forex,available,19.99,,high,low,7,name.com,,,
 20a234b6-1d0b-47f7-a51e-9213fc4f5dbe,vehicle.channel,premium,311.25,,high,low,7,name.com,,,
-04fdeaef-fce9-4cbf-82e0-6bff27d5355a,wheels.motorcycles,available,1.99,17.29,medium,low,6,namesilo,,,17/09/2026 12:21
-422f1ccf-f24a-4104-9229-6e9d40fc08b9,motorcar.hiphop,available,23.99,23.99,low,low,8,namesilo,,,21/09/2026 05:29
 62717810-f555-45de-a441-a8ad0dd16c85,vehicle.eco,premium,9375,,high,low,7,name.com,,,
 efaa017e-d3ce-4c0a-8ae6-373737a2d1fb,vehicle.earth,premium,71.4,71.4,high,low,7,namesilo,,,
 dbd2ee7b-a491-4768-91de-7dfffe68d813,vehicle.bio,available,9.99,,high,low,7,name.com,,,
 e713ad73-9e44-447a-ae09-6321ca8eb746,vehicle.new,available,549.99,,high,low,7,name.com,,,
-def6bdef-2e52-4810-91d9-19b4cc3260db,wheels.deal,premium,130,130,medium,low,6,namecheap,,,17/09/2026 12:21
 f57ceed1-12c6-4a56-a74b-ca4a7f319a45,vehicle.moi,available,25.99,25.99,high,low,7,namesilo,,,
-0120dc38-d1a6-4e71-9971-b268171addf4,wheels.la,resell,,,medium,low,6,LA Domain Names,04/01/2007 01:00,04/01/2027 23:59,17/09/2026 12:21
-29121aed-5065-4f5f-af36-fddf76f7973e,motorist.nexus,available,12.98,15.98,low,low,8,namecheap,,,21/09/2026 07:26
-c74cdd11-af3c-4e07-95c9-b50915f77fbd,cars.voyage,resell,,,low,low,4,Porkbun LLC,16/09/2025 18:33,16/09/2027 18:33,17/09/2026 14:10
-7f60f9ee-54c9-4211-8bb2-06273b599496,motorist.beauty,available,1.99,17.29,low,low,8,namesilo,,,21/09/2026 07:26
 4a6c1f62-e98c-45e6-bc8e-af60f6c00e2d,vehicle.markets,available,9.99,,high,low,7,name.com,,,
-b788b62e-65fa-4fbd-8a54-36eab3f3d1de,rental.pw,premium,3250,3250,medium,low,6,namecheap,,,09/09/2026 14:17
-b14d7e33-25e4-43db-8262-3285b833f665,cars.supply,resell,,,low,low,4,"GoDaddy.com, LLC",11/11/2020 08:16,11/11/2028 08:16,17/09/2026 14:10
-f8159651-bd15-4ddc-8f32-8134d050db0a,registration.fans,premium,70,140,high,low,12,namecheap,,,
-ba599d3d-ac40-4033-adfe-4da545f68457,motors.foo,premium,323.7,323.7,low,low,6,namecheap,,,21/09/2026 01:16
 07cb8736-1ddc-44e4-b9bb-fb93919db643,vehicle.xxx,available,154.98,,high,low,7,namecheap,,,
 69864459-e942-42d6-9740-00c5abd941c2,vehicle.desi,available,22.98,,high,low,7,namecheap,,,
 a3359c31-3c59-4cec-8f32-785c1426bda6,vehicle.kiwi,available,35.68,,high,low,7,namecheap,,,
 16ef13d0-3e1f-4be5-b3b8-b67323febc36,vehicle.vision,available,9.99,,high,low,7,name.com,,,
 ea6cc789-1c1a-4d72-86f2-028cf4a91893,vehicle.sex,available,154.98,,high,low,7,namecheap,,,
 9c55f868-1e11-4f6e-9ac5-253a871564a8,vehicle.mobile,premium,375,,high,low,7,name.com,,,
-15000a37-019e-4495-b6f2-83f001db9536,bike.finance,resell,,,medium,low,4,Dynadot Inc,26/11/2017 08:06,26/11/2026 08:06,08/09/2026 12:23
-e90bedfe-a1c3-4c3a-9bb6-475dc0da5381,motorist.press,available,4.99,86.99,low,low,8,namesilo,,,21/09/2026 07:26
-e5c3f61c-5e98-4498-bfdb-bcccd4fe66f9,registration.rest,available,2.19,28.99,high,low,12,namesilo,,,
-fc0245c7-a935-4973-a913-f96e1412ec93,rental.cruises,available,54.98,68.98,medium,low,6,namecheap,,,09/09/2026 14:17
-bc5829c9-2c3a-4bf0-a930-2555ac08f254,driven.apartments,available,19.99,83.99,medium,low,6,name.com,,,14/08/2026 19:34
-1bfcb372-e402-478a-8cfa-380234e036e1,rental.marketing,available,6.98,53.98,medium,low,6,namecheap,,,09/09/2026 14:17
-c38bc56c-51b4-4d55-92fb-19a8d75c153a,rental.kim,premium,1107,1107,medium,low,6,namesilo,,,09/09/2026 14:17
-9ad71d87-317e-47dd-a52f-e41872701afc,motorist.study,premium,53.92,53.92,low,low,8,namesilo,,,21/09/2026 07:26
-94236eb1-d801-4536-8f99-5c689927ee52,motorcar.toys,available,14.98,82.48,low,low,8,namecheap,,,21/09/2026 05:29
-905f5875-27f2-4d85-b646-8178c1d92734,registration.skin,available,1.65,15.75,high,low,12,namesilo,,,
-651f2514-154c-4bca-9cc5-f3b27b010117,driven.loan,premium,116,29.5,medium,low,6,namesilo,,,14/08/2026 19:34
-90a528eb-2a8a-4256-9a19-fe9b02a8a02e,motorcar.global,available,46.99,95.99,low,low,8,namesilo,,,21/09/2026 05:29
-e5ecdee6-3d7a-464f-922c-83fe30e33e7a,engines.condos,available,61.98,72.98,low,low,7,namecheap,,,19/09/2026 19:59
-6d1f4c8f-b9bc-41d1-bb08-86f4c28c5455,bike.theatre,available,509.99,529.99,medium,low,4,namesilo,,,08/09/2026 12:23
-0b481933-bfee-4249-9dde-230084cac328,extras.exchange,available,10.99,,medium,low,6,name.com,,,
-5566ddfd-fb90-44ce-9b16-d4d175b37066,bike.network,resell,,,medium,low,4,Porkbun LLC,10/03/2025 01:18,10/03/2027 01:18,08/09/2026 12:23
-bcb77ec6-0251-4ba5-97d9-9be49c03207d,registration.blackfriday,available,114.99,114.99,high,low,12,namesilo,,,
-73f50fcd-ae50-4df1-b6ed-574058355986,motorcar.haus,available,14.99,33.99,low,low,8,namesilo,,,21/09/2026 05:29
-6301a8f6-774c-4d05-a0a4-decdb0322ed6,engines.cat,available,26.98,38.98,low,low,7,namecheap,,,19/09/2026 19:59
-8b410623-da6c-4c4f-971e-f03562e640ac,engineering.paris,available,65.99,65.99,medium,low,11,name.com,,,19/09/2026 11:00
-7e16ab88-0e89-4b49-a33e-224bd665836a,motors.band,available,20.99,31.49,low,low,6,namesilo,,,21/09/2026 01:16
-4949edc3-8bc9-48df-8b7d-4447dfd54483,agency.world,resell,,,low,low,6,,,,17/09/2026 16:59
-29a71d59-0f34-487a-86f1-9b0782222b28,agency.viajes,available,43.98,57.98,low,low,6,namecheap,,,17/09/2026 16:59
-f87dac60-229a-49d7-9fef-aeb684c98366,wheels.vana,available,2298,2498,medium,low,6,namecheap,,,17/09/2026 12:21
-cbecac40-e0f6-43b6-9022-9d72a076718b,engines.blue,available,13.98,32.98,low,low,7,namecheap,,,19/09/2026 19:59
-b07e3b91-f38b-4872-834e-0ce928c924ea,registration.farm,available,13.99,,high,low,12,name.com,,,
-249c4408-cace-4115-a295-5f856d488c41,wheels.photography,available,14.49,36.49,medium,low,6,namesilo,,,17/09/2026 12:21
-bebac8c4-b701-41ab-aa9c-cc820525dd91,motorist.town,available,8.99,36.49,low,low,8,namesilo,,,21/09/2026 07:26
-7c6e9e99-9292-4f58-8a0d-c8d4646c7015,driven.click,premium,87.5,125,medium,low,6,name.com,,,14/08/2026 19:34
-e3ccea09-8461-447d-a701-bbf5a6fe9fae,motors.limo,available,54.99,54.99,low,low,6,namesilo,,,21/09/2026 01:16
-b0ff8ab0-cb4d-4fe1-b201-fe11aa9960b6,wheels.flights,available,23.98,75.98,medium,low,6,namecheap,,,17/09/2026 12:21
-8fa05379-6f4a-4628-9c60-6cfed5a4a614,motors.dental,available,78.99,78.99,low,low,6,namesilo,,,21/09/2026 01:16
-08d927cb-0b3f-4a01-9377-17a340b7a943,wheel.shop,premium,625,,high,low,5,name.com,,,
-9c87785b-4da6-4902-9a62-f4066450eb7f,driven.exchange,available,5.98,49.98,medium,low,6,namecheap,,,14/08/2026 19:34
-8e36a6dc-9a51-4d67-95de-83e376c2aca1,rental.maison,available,57.99,57.99,medium,low,6,namesilo,,,09/09/2026 14:17
-e04f16a4-42e1-4601-a67a-1985ecb8546a,registration.sydney,available,54.98,,high,low,12,namecheap,,,
-9705737b-1708-4150-9699-6dc56abbe90f,motorist.holiday,available,67.98,81.98,low,low,8,namecheap,,,21/09/2026 07:26
-0325da72-8877-4318-8cf6-2ab00d13ef60,registration.cricket,available,23.59,23.59,high,low,12,namesilo,,,
-1f2ebfba-a4d0-47d4-8a83-dcbbbbd54bc0,wheels.viajes,available,37.99,37.99,medium,low,6,namesilo,,,17/09/2026 12:21
-ad238a77-4e69-4545-8568-b3e57c05d2bc,extras.email,available,9.99,,medium,low,6,name.com,,,
-2e1e4c32-8959-4d7a-8ed1-12d2347d6764,wheels.ong,available,18.98,24.98,medium,low,6,namecheap,,,17/09/2026 12:21
-caf31a23-68ed-4f1c-a9c3-79e23f8713cd,motorist.mom,available,1.99,27.99,low,low,8,namesilo,,,21/09/2026 07:26
-bc065ab8-7ea6-469e-bdea-1507f70c385b,agency.hot,premium,1300,1300,low,low,6,namecheap,,,17/09/2026 16:59
-bb735346-1d89-4137-a494-5d4379e42b9f,cars.living,premium,1107,1107,low,low,4,namesilo,,,17/09/2026 14:10
-00ddc8f3-5d5b-47b5-9d9a-9d2461e9acf7,extras.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
-7f4d580b-c36a-4639-866d-9fe2c01ebfb9,wheels.website,premium,1107,1107,medium,low,6,namesilo,,,17/09/2026 12:21
-9fe56c93-f54b-40b0-8fa5-41afec03598f,transportation.eco,premium,9735.05,74.75,low,low,14,namecheap,,,19/09/2026 03:16
-41b43ece-7ba6-42dc-98ab-3651cf19606b,engines.country,available,2298,2450,low,low,7,namecheap,,,19/09/2026 19:59
-949ecb5a-fa34-4bbb-9eb4-a66525c61175,engines.jewelry,available,67.98,69.98,low,low,7,namecheap,,,19/09/2026 19:59
-9e79b317-3707-4aee-b266-70acabd9a0ae,rental.clinic,available,11.98,82.98,medium,low,6,namecheap,,,09/09/2026 14:17
-e46d5f39-4085-4e16-bed4-79b7a3916f47,sedans.limo,available,54.99,54.99,low,low,6,namesilo,,,19/09/2026 22:27
-580ff896-4a0f-4511-b82f-055d35b2c207,used.ryukyu,available,22.98,,high,low,4,namecheap,,,
-f10338a0-31ff-44b5-ad04-537409388e54,machine.sex,available,69.98,154.98,medium,low,7,namecheap,,,08/09/2026 03:48
-178d05c7-8756-40a0-acde-74783e5e85b0,sport.report,resell,,,high,low,5,Porkbun LLC,18/11/2016 08:05,18/11/2026 08:05,
-584de55b-d02f-47fc-9dc8-1c9dc21de6ab,extras.cab,available,19.99,,medium,low,6,name.com,,,
-0db50531-75c9-43e8-9a4c-8583a1823716,motorist.international,available,12.99,31.49,low,low,8,namesilo,,,21/09/2026 07:26
+17ae0cf9-0fdf-437f-b939-4cbf1da68472,automobile.tires,premium,242,242,high,low,10,namesilo,,,
+65a507a2-74e2-43ec-b607-c196aef4781c,engine.bike,available,14.99,,high,low,6,name.com,,,
+720ea13a-7654-4b2b-b835-1e00379058e6,automobile.parts,available,,,high,low,10,,,,
+85050843-a680-4913-b88a-cff4df501110,engine.repair,premium,520,520,high,low,6,namecheap,,,
+68c7b1a1-e5dd-4115-812e-3e931928cc30,automobile.supply,available,25.99,25.99,high,low,10,namesilo,,,
+30e7d99c-b2d5-4a78-9e3f-3b0e129ed9e6,automobile.equipment,available,19.99,,high,low,10,name.com,,,
+7618a41a-8711-40c1-a860-1d1e4d0c4b91,automobile.supplies,available,24.99,24.99,high,low,10,namesilo,,,
+e5a23f8c-fbec-412f-a36f-fa13ec2ade64,engine.tools,resell,,,high,low,6,Dynadot Inc,18/11/2021 16:54,18/11/2026 16:54,
+7d91ed7e-cd14-4138-84e0-212310e79e74,engine.homes,available,1.99,15.75,high,low,6,namesilo,,,
+5147e794-7270-4b19-8aff-57426169dfdc,engine.property,available,,,high,low,6,,,,
+05e04295-4b54-49ef-a946-8abc402686bc,engine.build,premium,1950,1950,high,low,6,namecheap,,,
+b4fccd08-e992-45bd-b23d-eb63297e4d87,automobile.limo,available,,,high,low,10,,,,
+71f6b150-08e1-4c7d-afde-1058dbc12ab3,engine.engineering,available,11.99,,high,low,6,name.com,,,
+3030c35c-615b-4312-ba1f-262e6a3ba9ba,engine.app,available,,,high,low,6,,,,
+93c62b7f-d9bf-48c5-af2e-5f45ffb79082,automobile.repair,premium,500,,high,low,10,name.com,,,
+4798e74a-1363-4040-b697-aee1d0f021af,engine.im,available,,,high,low,6,,,,
+dfbbed31-5e10-4523-a747-83e143448032,engine.promo,available,19.99,,high,low,6,name.com,,,
+e5ee94a8-33d0-462d-8a4a-d53ad063dab3,engine.men,available,,,high,low,6,,,,
+c1706bcb-102f-463a-91fc-843ab444421d,engine.horse,available,41.98,,high,low,6,namecheap,,,
+f8a5d6a5-79bc-43f0-a580-bc482a8d5484,engine.nexus,premium,323.7,323.7,high,low,6,namecheap,,,
+1351c30d-3529-4d1b-986b-2a2d4dc8bcce,engine.bet,resell,,,high,low,6,"Sav.com, LLC - 49",14/10/2024 17:00,14/10/2026 17:00,
+2c138a6f-b9db-4e2d-acea-59d508089f68,automobile.racing,premium,116,116,high,low,10,namesilo,,,
+9200dfca-a1d6-45c5-845d-7cd1515de595,engine.black,available,29.99,,high,low,6,name.com,,,
+f0800f6c-6c55-4c19-8441-be31dc706c7a,automobile.lease,premium,854,854,high,low,10,namesilo,,,
+e46ee795-78bc-47bd-ae55-f3941f9a3e3f,engine.observer,premium,26,26,high,low,6,namecheap,,,
+d53e0879-2cef-459f-9f47-57000e5259df,engine.yachts,available,19.98,,high,low,6,namecheap,,,
+5eb5e305-f2c3-4974-a342-d5b0faa1b23f,engine.claims,available,19.99,,high,low,6,name.com,,,
+356d69f1-1eb5-4800-9e4a-6f041318f67b,engine.earth,available,27.98,,high,low,6,namecheap,,,
+2e48bb0d-be9c-4435-9372-6a2cd185c912,automobile.rentals,premium,242,242,high,low,10,namesilo,,,
+74bcb199-5b3e-4ec4-a847-6e1bf9f129ae,engine.music,available,,,high,low,6,,,,
+8469a99d-7437-491d-a0b9-3fa31ce8d93d,engine.band,available,,,high,low,6,,,,
+a949698b-2883-4f9f-894c-5cb8ba1ffa49,automobile.rent,premium,625,,high,low,10,name.com,,,
+5964d91b-7f96-4b46-8fa8-a574e5ea9e6c,engine.beauty,premium,1.65,15.75,high,low,6,namesilo,,,
+9e5c0f7d-a305-49b5-8981-20bb3a437f82,engine.market,premium,260,260,high,low,6,namecheap,,,
+c995bff4-7655-441f-bcc4-3aaefb6d3b3d,engine.one,premium,650,650,high,low,6,namecheap,,,
+253e629c-d614-49fe-a28b-2ccb3dd190e8,engine.consulting,available,26.99,,high,low,6,name.com,,,
+d1a99fde-09ee-49f7-82ae-508358b9929a,engine.studio,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2015 06:42,14/11/2026 06:42,
+1cb0a26a-11aa-4808-aa53-472251a685dd,automobile.tools,resell,,,high,low,10,"Global Domains International, Inc. DBA DomainCostClub.com",17/04/2020 03:39,17/04/2027 03:39,
+7440f57a-e2eb-43d8-b597-c5c974518dce,engine.help,available,43.98,,high,low,6,namecheap,,,
+f6702dc5-250a-401f-bf62-d953ca5e137f,engine.graphics,available,23.99,23.99,high,low,6,namesilo,,,
+b69ff3d5-8a75-4c2a-978f-a9e21eaddea1,automobile.plumbing,available,14.99,,high,low,10,name.com,,,
+810e3a03-44fd-464b-8095-cd3c88211d40,engine.actor,available,54.98,,high,low,6,namecheap,,,
+73408ff1-b0d1-4754-9d8d-a9af1483171a,engine.legal,available,9.99,,high,low,6,name.com,,,
+53899439-2085-4e88-887a-497c6aaef770,engine.family,available,9.99,,high,low,6,name.com,,,
+66620364-f3a0-4794-ac68-176e8ca42236,engine.mom,available,1.99,,high,low,6,name.com,,,
+3ca5a9a1-7042-4af1-a330-0f46c39990c7,engine.church,available,11.99,,high,low,6,name.com,,,
+15e0de15-e053-45de-8506-f4cd6751d618,engine.law,available,119.99,,high,low,6,name.com,,,
+911ed8de-af95-4654-ad2f-b596baade6d3,engine.host,available,,,high,low,6,,,,
+0e2cddb4-c017-49a6-a1b2-fc22cc805bb7,engine.party,available,,,high,low,6,,,,
+fb8cdaf7-8026-455b-8f91-78b984a0e4b2,engine.mobi,available,,,high,low,6,,,,
+a5f27072-273c-483c-b7f4-8b2d40cb0211,engine.camp,available,11.99,,high,low,6,name.com,,,
+623f4f08-85da-4c54-b2d9-6b6b66d02cbe,engine.directory,available,7.99,,high,low,6,name.com,,,
+706c6b30-213a-441e-8b95-fe61d6cd16a7,engine.gay,available,38.99,38.99,high,low,6,namesilo,,,
+b0843d3d-b77a-4269-a79a-593cb112638f,engine.vin,available,75.98,,high,low,6,namecheap,,,
+4783e6b8-15ad-4c61-8827-6b6034f85f47,engine.beer,available,1.99,,high,low,6,name.com,,,
+245d30e6-064c-45f2-97f3-70780e9cbcf1,automobile.house,available,27.99,,high,low,10,name.com,,,
+9d9a9894-05f1-4e15-984d-d9fa8ba50bee,automobile.maison,available,19.99,,high,low,10,name.com,,,
+f346e0a7-2850-4765-9a78-6824e7fd7d62,automobile.place,available,22.49,22.49,high,low,10,namesilo,,,
+241524d7-1f45-4fa1-a1ff-8da86f43bf16,automobile.casa,available,2.19,12.99,high,low,10,namesilo,,,
+1f01f6f2-aef5-49f2-baf1-bdedefcbba7a,automobile.properties,available,10.99,,high,low,10,name.com,,,
+a511b5fc-b050-482f-b12a-e3a51f316e6f,automobile.condos,available,58.99,58.99,high,low,10,namesilo,,,
+5ecda5ac-ee60-4df1-87d4-bb927c0871bf,automobile.estate,available,14.99,,high,low,10,name.com,,,
+5ecbbead-1606-46ac-adf8-61661b9dce6c,automobile.land,available,19.99,,high,low,10,name.com,,,
+1a3e2c39-f7ee-4c81-aa27-e13b7399c8aa,automobile.villas,available,19.99,,high,low,10,name.com,,,
+b9cce3a6-806b-4bcc-9c96-ea84408cad3a,automobile.property,available,,,high,low,10,,,,
+735a2799-3e18-43d4-90bd-54d419f726ec,automobile.apartments,available,19.99,,high,low,10,name.com,,,
+dc58fa81-7d6f-42e3-bebc-9080f86fabbc,automobile.realty,available,109.99,299,high,low,10,namesilo,,,
+2d3bb25a-ce0e-46bd-bc80-168fd2e57ca1,automobile.homes,resell,,,high,low,10,"Spaceship, Inc.",22/02/2024 18:10,22/02/2027 23:59,
+cda8fb22-ca1b-478f-9afd-7b3901d1e691,automobile.tech,premium,3125,,high,low,10,name.com,,,
+0b3abf4c-25a2-4858-8c0e-43951a06db7a,automobile.co,resell,,,high,low,10,Hello Internet Corp.,24/02/2010 22:58,23/02/2027 23:59,
+cc32cb9d-1b88-49b5-a13b-bcc9f8b22826,automobile.enterprises,available,5.99,,high,low,10,name.com,,,
+793a5290-c9fc-4c32-8625-54fb9b16936c,automobile.sarl,available,6.99,6.99,high,low,10,namesilo,,,
+9463197e-bc85-413e-90e8-83e5a5b3387e,automobile.llc,premium,625,,high,low,10,name.com,,,
+adc22865-cd12-485f-afb2-416d39c08df2,automobile.srl,available,31.99,31.99,high,low,10,namesilo,,,
+81c3aa10-7fac-48ef-a9ed-5bd84ac5b391,automobile.gmbh,premium,242,242,high,low,10,namesilo,,,
+9a7c54e8-ff66-427f-92ec-d1ef5164da08,automobile.ltda,available,34.99,34.99,high,low,10,namesilo,,,
+ecba4843-7520-4677-8760-093f6f9522a2,automobile.limited,available,14.99,,high,low,10,name.com,,,
+c2803ad5-6813-42fb-b42d-d9c44350e065,automobile.inc,premium,2061.5,2660,high,low,10,namesilo,,,
+4a80c0a3-3079-43bb-951f-f45e9b395b26,automobile.net,resell,,,high,low,10,PDR Ltd. d/b/a PublicDomainRegistry.com,14/02/2001 11:32,14/02/2027 11:32,
+3076f503-36c8-4135-bede-82a08b228b29,automobile.builders,available,7.99,,high,low,10,name.com,,,
+06487946-a593-4308-a6e2-bcde2fed5551,automobile.build,premium,1875,,high,low,10,name.com,,,
+258715d9-80a2-40e0-8e1a-e863b06b5317,automobile.contractors,available,9.99,,high,low,10,name.com,,,
+b0f952a7-65d2-4798-abd3-3ecf9fa43938,automobile.holdings,available,64.99,64.99,high,low,10,namesilo,,,
+e1b02ad3-29fa-4cc3-857d-879abc0e66d0,automobile.business,premium,500,,high,low,10,name.com,,,
+8631e720-1a77-4ff1-8b80-6ba298df6eb6,automobile.delivery,available,8.99,,high,low,10,name.com,,,
+005a1252-56dc-4f7d-b8f5-fa7eb373ea78,automobile.fast,premium,53.92,53.92,high,low,10,namesilo,,,
+d9398692-c189-44b0-b87b-193329b5dfcd,automobile.express,premium,242,242,high,low,10,namesilo,,,
+7621f945-5e8f-46d9-9449-a168ec3090db,automobile.engineer,premium,118.8,118.8,high,low,10,namesilo,,,
+b2acda49-847a-456c-8937-71e7c14aab8e,automobile.engineering,premium,242,242,high,low,10,namesilo,,,
+28c90567-6334-487f-b34c-5f25ff32794f,automobile.dev,premium,106.8,106.8,high,low,10,namesilo,,,
+81060198-b660-4fcc-9326-170ea17fddba,automobile.watch,available,4.99,,high,low,10,name.com,,,
+04814bd7-8b91-43ff-bb60-71c3197a8993,automobile.diy,premium,437.5,,high,low,10,name.com,,,
+975a9104-f13e-417b-acf7-8f721adb29d4,automobile.store,premium,781.25,,high,low,10,name.com,,,
+1ce67e37-a7a2-4f5e-b305-edd0f4494434,automobile.glass,available,72.99,72.99,high,low,10,namesilo,,,
+f691e376-2d8a-4a35-88aa-f6944d83b874,automobile.services,premium,46.2,92.4,high,low,10,namecheap,,,
+c1d89402-28a9-4ddb-abd1-d3fd23d30b34,automobile.cleaning,available,75.49,75.49,high,low,10,namesilo,,,
+fefe361b-9b44-4c23-bf06-12de20fd4348,automobile.space,premium,175,700,high,low,10,namecheap,,,
+ab746c9c-415c-4dad-be91-4fbfa0411916,automobile.biz,resell,,,high,low,10,"GoDaddy.com, LLC",27/03/2002 11:13,26/03/2027 23:59,
+03aa2b04-b72e-43ce-9aab-63d5501fdc1d,automobile.tienda,available,9.99,,high,low,10,name.com,,,
+559afac0-9711-4328-8bb2-a29abf95ff1a,automobile.boutique,premium,78.54,78.54,high,low,10,namesilo,,,
+40cf420c-377e-4c9c-9d89-4a85968f024d,automobile.shopping,available,,,high,low,10,,,,
+28b763c5-b75f-4f88-9706-d1dcad33fb1b,automobile.solar,available,9.99,,high,low,10,name.com,,,
+dbcd2580-5ce2-4be2-acf1-bb205c5fe7ca,automobile.ninja,available,9.99,,high,low,10,name.com,,,
+a7886b9b-0a49-4c5f-bca7-11a2950cb987,automobile.direct,available,19.99,,high,low,10,name.com,,,
+6468fada-4d96-41ed-a95e-e624a8a9c767,automobile.locker,premium,1511.35,8.05,high,low,10,namesilo,,,
+79846df3-83fa-48c6-a1d8-7fb0e3c8d538,automobile.mba,available,19.99,,high,low,10,name.com,,,
+e460c27d-29fc-4ed0-891a-ad6571dd6bce,automobile.so,resell,,,high,low,10,Dynadot LLC,19/11/2023 04:58,19/11/2025 04:58,
+04b273e2-42ae-403a-8147-6bfff55b80fc,automobile.ski,available,39.99,,high,low,10,name.com,,,
+2a625450-9976-4542-8421-0656c4ca6000,automobile.surf,resell,,,high,low,10,"Spaceship, Inc.",21/11/2025 13:00,21/11/2026 13:00,
+9b5a27c4-adf5-458e-a3b7-36f31f140bc2,automobile.deal,premium,625,,high,low,10,name.com,,,
+bafc9c80-df65-45fd-8089-7a6959319b78,automobile.deals,premium,78.54,78.54,high,low,10,namesilo,,,
+334bd941-33b9-41f6-868f-5946b18a3e77,automobile.bargains,available,21.99,,high,low,10,name.com,,,
+1728879d-4faf-45a6-b454-861777a4a83c,automobile.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
+c6ebc673-fdb2-4c42-b1b2-2b051caf934f,automobile.ing,premium,187.5,,high,low,10,name.com,,,
+475b957b-4443-4e61-8230-3aad2989619f,automobile.navy,available,41.99,41.99,high,low,10,namesilo,,,
+1ae4e07c-cf93-4b61-915c-30207d82297b,automobile.fm,premium,243.75,,high,low,10,name.com,,,
+07cc2953-e241-4a17-8db0-b317e3685c0b,automobile.voyage,premium,118.8,118.8,high,low,10,namesilo,,,
+14d6d243-5f20-4044-8477-dca20c4ba8cd,automobile.travel,available,39.99,,high,low,10,name.com,,,
+6dc245c2-4b3d-4300-8b86-9bf941c755f2,automobile.site,premium,1562.5,,high,low,10,name.com,,,
+ad6c5e09-cef3-4768-9193-4f49aa8f2268,automobile.reise,available,27.89,97.99,high,low,10,namesilo,,,
+0ea5ebae-e927-459d-8a72-a8b22268732d,automobile.airforce,available,103.99,103.99,high,low,10,namesilo,,,
+afee31a2-f055-4599-98ab-c87dd275afdc,automobile.domains,available,19.99,,high,low,10,name.com,,,
+a11a38a4-47fb-40d6-904d-3d03ec881727,automobile.foo,premium,73.75,,high,low,10,name.com,,,
+8ee4e673-884b-4585-b4b5-e73085b9c620,automobile.viajes,available,37.99,37.99,high,low,10,namesilo,,,
+ac69a4a7-24d0-4577-ab80-4571750018bd,automobile.vacations,available,9.99,,high,low,10,name.com,,,
+4c1686bf-213b-44f8-a0d6-e3e77d30e164,automobile.tours,available,9.99,,high,low,10,name.com,,,
+8d4a42c4-05cb-470a-bfde-6ef8ca2cb08a,automobile.flights,available,58.99,58.99,high,low,10,namesilo,,,
+6560e9b2-1611-4b6d-82c7-bc81b01c204b,automobile.holiday,available,9.99,,high,low,10,name.com,,,
+c9d8b874-8860-4689-bfa2-8ff02e1e3b13,automobile.reisen,available,3.99,20.99,high,low,10,namesilo,,,
+48620ad4-308c-4275-974b-14a4b91f1860,automobile.click,premium,87.5,,high,low,10,name.com,,,
+95928efe-ebbf-4fe8-bba7-d70a2af4cd6a,automobile.furniture,available,39.99,,high,low,10,name.com,,,
+69e743ae-21df-4952-99e2-247bab107075,automobile.onl,premium,53.92,116,high,low,10,namesilo,,,
+4c876ae4-4347-4c35-baaf-fcc6cab78377,automobile.page,premium,161.25,,high,low,10,name.com,,,
+0a70a4c0-c1d2-4dcd-beea-ab857a4dc504,automobile.website,premium,625,,high,low,10,name.com,,,
+169705e5-99d0-48db-9ffc-df52b8bb42a2,automobile.my,premium,486.97,,high,low,10,name.com,,,
+bc182132-f7da-4c06-a40d-cb9ac19a420a,automobile.la,resell,,,high,low,10,LA Domain Names,10/04/2020 12:05,10/04/2027 23:59,
+ba76f2d7-dca7-4607-b7c5-219cd230c2b1,automobile.cv,premium,1339.98,8.85,high,low,10,namesilo,,,
+d4c1db94-4cc4-4752-a270-8289cfb72394,automobile.pw,premium,749.17,,high,low,10,name.com,,,
+2e73eaf5-4b37-47cf-b6c9-3b0cec61b842,automobile.bz,available,25,,high,low,10,name.com,,,
+e9e38880-f4ec-4603-9ca9-8786d00f2123,automobile.mx,resell,,,high,low,10,GoDaddy.com,01/07/2013 00:00,01/07/2027 00:00,17/09/2026 07:33
+663cafab-1f73-40e7-93f6-5e2038d4e392,automobile.im,available,,,high,low,10,,,,
+f353c64c-3473-47d6-9356-30ab81ac4cd5,automobile.cx,available,18.99,18.99,high,low,10,namesilo,,,
+7056837f-7b38-4057-85f1-1b8d3b34fc1c,automobile.sale,available,,,high,low,10,,,,
+579dbf10-13d0-47f9-8f45-717f3bae37af,automobile.online,premium,3125,,high,low,10,name.com,,,
+45bf5c33-a06a-4dec-842c-b6cc6ce4b6f3,automobile.melbourne,available,53.98,,high,low,10,namecheap,,,
+ca8ee539-7af5-436b-93d6-414cabb76999,automobile.vegas,available,12.99,43.99,high,low,10,namesilo,,,
+792fae81-e2af-4679-b38f-89042eb60211,automobile.miami,available,,,high,low,10,,,,
+93e9be60-bf09-4deb-bdea-74002a01e27d,automobile.osaka,available,39.99,,high,low,10,name.com,,,
+db23750e-2593-4420-bbb7-1e5c9efc32d1,automobile.bayern,premium,293.22,,high,low,10,name.com,,,
+96b985ba-4911-4354-8da0-946cba89a365,automobile.boston,premium,96,21.24,high,low,10,namesilo,,,
+7860b767-78fe-4a10-85e4-d6d43c409a45,automobile.nyc,premium,1107,29.5,high,low,10,namesilo,,,
+e269d655-8c5d-45db-ba66-b85ec2087122,automobile.berlin,available,89.98,,high,low,10,namecheap,,,
+0441784f-50df-48ad-bff6-938d9d1ae6d1,automobile.sydney,available,54.98,,high,low,10,namecheap,,,
+d8cfeb48-368f-4361-b4d9-981d97d9411b,automobile.london,premium,679.48,,high,low,10,name.com,,,
+118373c0-eabe-4431-bccd-4d7b5bf04c5a,automobile.army,available,19.99,,high,low,10,name.com,,,
+832cb9b9-c147-4e1a-8cf4-932c8ead3700,automobile.coupons,available,3.99,,high,low,10,name.com,,,
+e001eed0-eba9-4194-9a13-a4d9cd251269,automobile.free,premium,116,116,high,low,10,namesilo,,,
+80c2ac41-7f79-4ac6-881b-42eeca421c85,automobile.forsale,available,,,high,low,10,,,,
+73d12f21-faa9-4791-96be-228412f569b2,automobile.qpon,premium,53.92,23.54,high,low,10,namesilo,,,
+40357c25-d301-4019-86e7-d352179c92cf,automobile.promo,premium,1107,1107,high,low,10,namesilo,,,
+e5e99102-3891-40a7-98e5-208e95beb7d1,automobile.cheap,premium,118.8,118.8,high,low,10,namesilo,,,
+e406b5ea-1727-4d61-b08a-adcf50b3a279,automobile.discount,premium,38.94,38.94,high,low,10,namesilo,,,
+47b9eb2f-9b1c-425c-a8d2-d9fed5747ed3,automobile.agency,resell,,,high,low,10,"GoDaddy.com, LLC",12/09/2018 04:00,12/09/2026 04:00,
+02dbc2da-e77e-4018-bdbe-f7f8f18e0fdc,automobile.men,premium,437.5,,high,low,10,name.com,,,
+69eca6e1-4695-4d0f-8722-ecc505de6279,automobile.horse,available,32.49,32.49,high,low,10,namesilo,,,
+695291e0-916b-4838-b32f-6ed4730a8193,automobile.dog,available,5.99,,high,low,10,name.com,,,
+ff5a1917-c005-4ab5-a5b1-65b14d8427a0,automobile.vet,available,41.99,41.99,high,low,10,namesilo,,,
+069e9d45-9d23-40e8-9d45-ece6fd4fe77e,automobile.pet,available,19.99,,high,low,10,name.com,,,
+aebfe3e9-0699-42c9-9b76-cc898ccc8fbd,automobile.auction,premium,500,,high,low,10,name.com,,,
+c4a4a32e-a9a4-4a3e-b848-8c1ff2f09c5d,automobile.sbs,premium,32.45,65.45,high,low,10,namesilo,,,
+3a1739bb-5500-422b-9643-edab6b542232,automobile.golf,available,7.99,,high,low,10,name.com,,,
+18474c02-5416-45a9-bd9f-60fd5b7bee0b,automobile.ceo,available,10.19,109.99,high,low,10,namesilo,,,
+f1002da1-2cb6-4fcf-98b5-403e55bed76a,automobile.codes,available,11.99,,high,low,10,name.com,,,
+c634d567-562f-4087-a479-ca98462aeb3e,automobile.nexus,premium,73.75,,high,low,10,name.com,,,
+383857fd-e3e6-4024-9975-b1d0878ae5ad,automobile.live,resell,,,high,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/06/2020 17:12,06/06/2026 17:12,
+26b7f806-9725-4b68-9b3d-7653bdf9c9bc,automobile.media,resell,,,high,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),26/07/2023 15:15,26/07/2027 15:15,20/09/2026 00:28
+7dbe3435-0f5a-4539-acf7-a41f9aac79ff,automobile.casino,available,12.79,159.99,high,low,10,namesilo,,,
+fdb005ed-2b09-4a6a-a8ef-177fddc44fc6,automobile.bingo,available,14.99,,high,low,10,name.com,,,
+f8bb1f5d-36e1-4a87-903d-09a865d881d0,automobile.bet,resell,,,high,low,10,"Sav.com, LLC",14/11/2025 20:38,14/11/2026 20:38,
+f3b139db-ed2c-48ed-88dd-155c7638d53b,automobile.poker,available,14.99,,high,low,10,name.com,,,
+3aad2ec5-69f8-4993-bea9-0d027569cc84,automobile.productions,available,14.99,,high,low,10,name.com,,,
+0fbb1905-cd65-4fb8-971c-55f273c1e9f6,automobile.cfd,premium,37.76,76.16,high,low,10,namesilo,,,
+648ecb4d-b15d-4088-ad4b-b598b0fe0f6e,automobile.haus,available,19.99,,high,low,10,name.com,,,
+7a912c08-796b-4378-b8e3-a755a4f8e9bf,automobile.news,premium,700,1400,high,low,10,namecheap,,,
+11c94bce-acbc-4815-abce-fc1ea7874ab9,automobile.fashion,available,32.49,32.49,high,low,10,namesilo,,,
+fab86789-968a-4ef2-9a80-a410374d4760,automobile.style,available,12.99,,high,low,10,name.com,,,
+033e663d-f3cd-4ecf-9f5b-0f57359c20db,automobile.shoes,available,39.99,,high,low,10,name.com,,,
+2cdae9a2-4341-455b-acfb-d97d292a6a7a,automobile.moda,available,19.99,,high,low,10,name.com,,,
+a42f7d96-3f07-4b81-b77d-b11915314bc8,automobile.soccer,available,19.99,,high,low,10,name.com,,,
+348fafd3-446c-4798-a02c-1ee34abee29a,automobile.futbol,available,17.99,17.99,high,low,10,namesilo,,,
+76575fd8-7aa1-4620-a81c-ed56404e069a,automobile.football,available,19.99,,high,low,10,name.com,,,
+166564ea-1ac6-407d-837e-5cb81c8702b5,automobile.pink,premium,78.54,78.54,high,low,10,namesilo,,,
+8f341b08-b2eb-4abe-8661-0e459db39fa3,automobile.blue,available,23.99,,high,low,10,name.com,,,
+fd6a7ac2-9ffa-4a9f-88a2-d64d6be252d0,automobile.red,premium,750,,high,low,10,name.com,,,
+834069d6-0974-4812-aff7-25531de38147,automobile.black,premium,625,,high,low,10,name.com,,,
+ff9371eb-0ad0-4223-ae13-9e55077e1750,automobile.international,available,14.99,,high,low,10,name.com,,,
+79d6adca-2f59-491f-95e3-067fa5491176,automobile.expert,premium,500,,high,low,10,name.com,,,
+8ef32db7-c4ac-499e-8f7c-a4c1d9389ce2,automobile.press,premium,937.5,,high,low,10,name.com,,,
+284dda58-3c56-468b-bf21-481d04cdbe6f,automobile.observer,premium,11.8,11.8,high,low,10,namesilo,,,
+a4d1edee-7041-4d50-bbbd-097996324633,automobile.blog,premium,640,0.99,high,low,10,namesilo,,,
+c2ec4977-1b06-4ec4-8a52-c9eb915b5552,automobile.clothing,available,19.99,,high,low,10,name.com,,,
+93985e84-17c6-40e8-a97a-54a60d8f43b1,automobile.boats,available,1.99,15.75,high,low,10,namesilo,,,
+76d572ab-b4be-4dcd-94e3-95a0962a221c,automobile.tennis,available,65.99,65.99,high,low,10,namesilo,,,
+db8f6d69-2b6f-4ea5-9b4c-4f7f5300e2fd,automobile.cricket,premium,437.5,,high,low,10,name.com,,,
+7071f993-8199-4446-8daa-c71e02f5b3cb,automobile.rodeo,available,12.99,12.99,high,low,10,namesilo,,,
+8c7f55ec-b452-4453-8f11-fae03f089a12,automobile.hockey,available,14.99,,high,low,10,name.com,,,
+c8797e7b-6ac0-4c3f-836f-039960b3de6b,automobile.food,premium,490,700,high,low,10,namecheap,,,
+9fc54acb-ce35-4b5b-ab05-9ac986895bc5,automobile.yachts,available,1.99,15.75,high,low,10,namesilo,,,
+8ba04669-7822-4dff-a6fa-0fed651c3edf,automobile.work,premium,625,,high,low,10,name.com,,,
+f0c8af96-daec-4aed-976c-1a1c52a22a1d,automobile.stream,available,5.25,6.25,high,low,10,namesilo,,,
+a680c7bb-d123-4b15-a7db-5e8c9db78535,automobile.tv,resell,,,high,low,10,1API GmbH,12/06/2013 08:05,12/06/2027 08:05,
+88f6905c-dcfb-4243-849b-ad809b7dd39c,automobile.webcam,premium,625,,high,low,10,name.com,,,
+084ef9b1-81e2-42e2-a910-f23fc32af6fc,automobile.cam,resell,,,high,low,10,Realtime Register B.V.,09/04/2023 21:21,09/04/2027 23:59,
+2e3d6462-20c7-4aa7-903c-bcf4a22cd0aa,automobile.tube,premium,468.75,,high,low,10,name.com,,,
+abdeb971-9296-4572-a9f2-c42b0d1f38be,automobile.dental,available,59.98,,high,low,10,namecheap,,,
+044e1b7c-2239-43c6-a865-c26616ea327f,automobile.dentist,available,65.99,65.99,high,low,10,namesilo,,,
+bdf61d50-1e65-43d1-a23e-9f4a07e6750c,automobile.me,resell,,,high,low,10,"GoDaddy.com, LLC",21/08/2008 20:43,21/08/2027 20:43,21/09/2026 05:47
+40f3d40d-41eb-43f2-9ee7-1791dd922928,automobile.claims,resell,,,high,low,10,"GoDaddy.com, LLC",03/09/2014 12:30,03/09/2026 12:30,
+36a990b0-f564-429e-8465-c99225f76f08,automobile.video,premium,69.3,138.6,high,low,10,namecheap,,,
+fb0d5da6-7b5c-4a63-bf11-31412e0b30b5,automobile.gold,available,9.99,,high,low,10,name.com,,,
+1062b306-93d0-4d82-9fbc-a80829718ad8,automobile.jewelry,available,19.99,,high,low,10,name.com,,,
+785a2f9d-5522-4d13-a985-bfabec7ae9d0,automobile.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
+61944550-463c-4e72-b909-571ed8549c1a,automobile.luxury,premium,2800,2800,high,low,10,namecheap,,,
+3c3e3fcb-67a9-4ba8-9c2b-b2d8e83a1689,automobile.luxe,premium,2500,,high,low,10,name.com,,,
+79f840b6-2ec0-4178-a53b-23e86aa6b286,automobile.associates,available,21.99,,high,low,10,name.com,,,
+b67a936c-057e-4d34-9ac1-acec5100e5a7,automobile.gg,available,82.98,,high,low,10,namecheap,,,
+c9d2bf37-0bd4-4781-840c-59c8ddb361b0,automobile.bar,premium,84.99,,high,low,10,name.com,,,
+4314954b-7fd3-4404-a337-769799335ab4,automobile.pub,available,39.99,39.99,high,low,10,namesilo,,,
+3d7a0414-bbe7-42d1-aa16-ce4fe2428fa0,automobile.contact,available,14.99,14.99,high,low,10,namesilo,,,
+87c52c02-4030-4631-86f7-2b7556cd1d65,automobile.partners,available,13.99,,high,low,10,name.com,,,
+1045784d-9d23-4083-97cc-54c0925c992c,automobile.organic,available,19.99,,high,low,10,name.com,,,
+94eeb056-2924-4dcc-8386-ff295047e544,automobile.green,premium,625,,high,low,10,name.com,,,
+af0cd1d8-4373-4b3b-a348-eff82f374be3,automobile.guitars,available,104.99,114.99,high,low,10,namesilo,,,
+14c50daa-7d4e-4c4e-a7b1-3b016e58035c,automobile.bot,premium,625,,high,low,10,name.com,,,
+9688a139-31bd-4b7a-87b8-e91caf64bee2,automobile.tel,resell,,,high,low,10,"Global Domains International, Inc. DBA DomainCostClub.com",06/06/2013 18:30,05/06/2026 23:59,
+393cff24-3d01-48c7-80b7-8849b83604d2,automobile.rehab,premium,242,242,high,low,10,namesilo,,,
+0707f261-38ce-4858-a2c9-89da7d66b3e0,automobile.quest,available,1.99,15.75,high,low,10,namesilo,,,
+448cfa4a-6d62-4c7e-a601-1c88e8797811,automobile.cards,available,3.99,,high,low,10,name.com,,,
+61fda91a-6477-4f71-b2a1-66fe0e68ce9e,automobile.camera,available,21.99,,high,low,10,name.com,,,
+57873b6f-3726-4362-aafb-177359e3fb50,automobile.ooo,available,,,high,low,10,,,,
+3f7c23dd-5ee4-4c30-8dfd-4c2bdc2b9c47,automobile.band,available,29.99,,high,low,10,name.com,,,
+e683c645-b71d-45c1-ab04-ff7702dd0d91,automobile.audio,available,104.99,114.99,high,low,10,namesilo,,,
+dd6a5fe4-b7a1-4123-9c72-982f89db5d7e,automobile.hiphop,available,23.99,23.99,high,low,10,namesilo,,,
+37b1cebb-8eb2-4945-a214-19665dcf96c8,automobile.music,available,52.48,,high,low,10,namecheap,,,
+cdb4eb77-741b-4e2c-9153-1af8014254b9,automobile.kitchen,available,14.99,,high,low,10,name.com,,,
+da0f8606-6303-4128-b142-221dc8c1e5d6,automobile.bio,available,9.99,,high,low,10,name.com,,,
+690b38d6-1bd5-446e-b32f-32bbaeb0b713,automobile.cash,available,17.99,,high,low,10,name.com,,,
+1c05b751-9881-4b39-b560-277d2a2b84e0,automobile.finance,premium,854,854,high,low,10,namesilo,,,
+254854cf-273e-4045-b0d9-2acba8e7b4a7,automobile.investments,available,14.99,,high,low,10,name.com,,,
+08955c26-fee8-48ba-a087-6f13a018afc1,automobile.money,available,19.99,,high,low,10,name.com,,,
+d6993cae-1e88-4ef6-a037-4e3f86e27654,automobile.loans,available,,,high,low,10,,,,
+6e78f7db-1cdc-4f1c-b55c-930da6c97f5e,automobile.loan,resell,,,high,low,10,"NameCheap, Inc.",28/02/2018 19:19,28/02/2027 19:19,
+90567689-9e19-47f8-acd5-9e2ea667230e,automobile.science,premium,6250,,high,low,10,name.com,,,
+3408d7ac-5bb3-4785-b927-9854d75d8b75,automobile.christmas,available,34.99,34.99,high,low,10,namesilo,,,
+ebabd3d5-a5fa-4d69-bde7-d74c74b7a148,automobile.market,premium,242,242,high,low,10,namesilo,,,
+fb1cbc93-542e-4cf3-9723-d9ff23822cbd,automobile.beauty,available,1.65,15.75,high,low,10,namesilo,,,
+7313f215-20e1-4a91-9351-6ea76730f11a,automobile.makeup,available,1.65,15.75,high,low,10,namesilo,,,
+e44c7725-87de-457a-8562-fa6a9b22ff36,automobile.courses,available,2.19,38.99,high,low,10,namesilo,,,
+75b15655-4811-486f-b8a8-0c4aee12029e,automobile.art,premium,3450,83.3,high,low,10,namesilo,,,
+b10b9fa1-1d50-4a63-b7d2-42e27b33860f,automobile.center,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",29/11/2021 13:15,29/11/2026 13:15,
+b0bf0c67-de57-4363-8ac6-50d0d62b58ef,automobile.toys,available,19.99,,high,low,10,name.com,,,
+dddafa56-f4f0-4580-88af-2e9d2356dff4,automobile.school,premium,23.1,46.2,high,low,10,namecheap,,,
+7d052f10-3482-4d8c-a0d8-ccc208ebde01,automobile.schule,available,19.99,,high,low,10,name.com,,,
+02f3c1c0-9079-4c68-a739-a3e9128096e8,automobile.degree,available,14.99,,high,low,10,name.com,,,
+6e47ebc1-cce7-418b-a040-91642adffc8e,automobile.study,premium,53.92,53.92,high,low,10,namesilo,,,
+b35e65fe-2e67-4b87-9fca-0b9fe84560a7,automobile.shiksha,premium,1107,1107,high,low,10,namesilo,,,
+cbc17bba-f6d4-46ef-9fb8-afe8fa6c7e7a,automobile.institute,available,9.99,,high,low,10,name.com,,,
+c99d4ce0-69c7-4fd1-9298-1a3edb231786,automobile.management,available,14.99,,high,low,10,name.com,,,
+5a2735f7-997a-4342-b62c-22d1d89dce84,automobile.uno,premium,1562.5,,high,low,10,name.com,,,
+3cea2420-c7d6-48aa-bcf6-3d9caac3305a,automobile.catering,available,38.99,38.99,high,low,10,namesilo,,,
+58767179-3383-4433-9cde-91721e78f46c,automobile.social,available,11.99,,high,low,10,name.com,,,
+d19e371e-5e13-413b-8887-53f433e40120,automobile.events,premium,118.8,118.8,high,low,10,namesilo,,,
+78eb02dc-6091-4a31-b19b-3a7ea11d3993,automobile.rsvp,premium,161.25,,high,low,10,name.com,,,
+55249810-76e3-4318-9a7e-a2dba934ddec,automobile.tickets,available,359.99,389.99,high,low,10,namesilo,,,
+2f38d1ca-bdda-46b1-9a88-16a0e4e41c26,automobile.charity,available,5.99,,high,low,10,name.com,,,
+2a8bbaea-57b8-450f-b975-7f37a99971c8,automobile.foundation,available,5.99,,high,low,10,name.com,,,
+1d9986c1-4af7-4a9a-8549-6f1ad59c75bd,automobile.one,premium,625,,high,low,10,name.com,,,
+d5ae6e72-aec1-414d-88a8-7d5271230337,automobile.soy,premium,98.75,,high,low,10,name.com,,,
+0a27963f-cbc1-41c5-9cd4-e5da4a63248b,automobile.you,premium,53.92,53.92,high,low,10,namesilo,,,
+b016ee29-cd0f-4e13-9b6c-173149b688cc,automobile.name,available,9.98,,high,low,10,namecheap,,,
+bacded08-165b-4d64-b557-ae8158dd2114,automobile.cyou,premium,32.45,65.45,high,low,10,namesilo,,,
+4d0ece9c-1d8e-4489-923b-117539cb96d4,automobile.icu,premium,34.22,69.02,high,low,10,namesilo,,,
+f68a4eb0-d275-493c-8df8-332f1ed018a6,automobile.consulting,premium,140,280,high,low,10,namecheap,,,
+4b371dd1-5b0a-4df6-a9f5-a709d1d2feba,automobile.ventures,available,19.99,,high,low,10,name.com,,,
+2a53c6a7-e48b-44ca-a2c0-0b07b3e703dd,automobile.vana,available,2498,,high,low,10,namecheap,,,
+09a3220d-bffd-48b5-84a8-7b816b3ea5af,automobile.trade,premium,12500,,high,low,10,name.com,,,
+b56fd160-3486-45a1-87f6-2904de699c17,automobile.city,resell,,,high,low,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/07/2021 12:22,21/07/2027 12:22,19/09/2026 16:14
+b02598ab-882e-4ed5-8b86-74a0009e63a6,automobile.town,available,9.99,,high,low,10,name.com,,,
+6f331954-7a25-4800-8d66-b82e4f0962eb,automobile.country,available,2450,,high,low,10,namecheap,,,
+1bfe35b0-d1ce-4112-8e0b-9b4251a54997,automobile.talk,premium,71.4,71.4,high,low,10,namesilo,,,
+8c3d7485-8f97-49bf-91e2-fa6914b345e5,automobile.link,premium,787.5,1050,high,low,10,namecheap,,,
+8f6605de-4b61-451a-a488-8a2fb6f4ae68,automobile.fit,available,,,high,low,10,,,,
+ee339989-7b37-40ee-a8f9-137f9aa43607,automobile.diet,available,104.99,114.99,high,low,10,namesilo,,,
+451cb165-c6b4-4c5b-a27e-c2eb22b5692f,automobile.fitness,available,9.99,,high,low,10,name.com,,,
+2a4af997-ef36-4e36-bd43-76bf0511bcdb,automobile.training,available,21.99,,high,low,10,name.com,,,
+7fca2df1-8e55-4053-8856-5d0645116f19,automobile.spot,premium,116,116,high,low,10,namesilo,,,
+ac68771d-6c69-43a9-976f-ff1f9627193c,automobile.pizza,available,19.99,,high,low,10,name.com,,,
+48d1ed86-f4b4-46f4-a08e-e13ee09134f8,automobile.coach,available,19.99,,high,low,10,name.com,,,
+1bf1ee3e-d5f4-454c-89f4-3ff6cf999a48,automobile.download,premium,437.5,,high,low,10,name.com,,,
+19f3535b-a1f2-4702-93c2-ad39d0718ef1,automobile.florist,available,14.99,,high,low,10,name.com,,,
+0456f4e1-a771-4691-9142-25299e897204,automobile.flowers,available,64.99,114.99,high,low,10,namesilo,,,
+37f0066d-dce5-49a6-a4f2-7e7dc50f5581,automobile.zip,premium,73.75,,high,low,10,name.com,,,
+a7feab13-731b-4605-a0c1-bf219d0978b3,automobile.living,premium,490,700,high,low,10,namecheap,,,
+6d2c6e73-dca9-45ab-b9bc-48e712dc6f3a,automobile.lifestyle,premium,490,700,high,low,10,namecheap,,,
+29894e30-5d5a-4dfb-b09d-379c68b42ab7,automobile.movie,available,69.99,,high,low,10,name.com,,,
+5696f8e8-2269-48a6-86e8-b161321235c7,automobile.film,available,65.99,65.99,high,low,10,namesilo,,,
+3f9f12c9-71d9-4aae-8ed9-a5ed337f5f7b,automobile.mov,premium,73.75,,high,low,10,name.com,,,
