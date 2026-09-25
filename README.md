@@ -1,10 +1,10 @@
-# One-Word Automotive Domains Across 506 TLDs (52,527)
+# One-Word Automotive Domains Across 506 TLDs (46,108)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C527%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-46%2C108%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word automotive domain names spanning 506 different TLDs, with a median asking price near $610. It includes short, brandable words tied to cars, transport, and mobility themes, refreshed and updated daily for pricing accuracy.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **52,527 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **46,108 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 52,527 domains · **Median ask:** $476.24 · **High-demand under $2,500:** 93
+**Public extract:** 1,000 rows · **Live catalog:** 46,108 domains · **Median ask:** $421.46 · **High-demand under $2,500:** 51
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/automotive`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| vehicle.singles    | available | $12.99    | —             | high           | low    | 7      | name.com        |
-| car.archi          | available | $24.99    | —             | high           | medium | 3      | name.com        |
-| car.bingo          | resell    | $68.98    | —             | high           | medium | 3      | OVH SAS         |
-| car.accountant     | premium   | $650      | $84.50        | high           | medium | 3      | namecheap       |
-| car.cars           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo        |
-| car.co             | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc     |
-| car.apartments     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| car.democrat       | available | $9.99     | —             | high           | medium | 3      | name.com        |
-| car.diamonds       | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS         |
-| car.associates     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| car.dental         | available | $59.98    | —             | high           | medium | 3      | namecheap       |
-| engine.domains     | resell    | $19.99    | —             | high           | low    | 6      | Sav.com, LLC    |
-| car.autos          | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
-| car.desi           | available | $22.98    | —             | high           | medium | 3      | namecheap       |
-| engine.motorcycles | resell    | $1.99     | $15.75        | high           | low    | 6      | Spaceship, Inc. |
-| car.baby           | premium   | $650      | $65           | high           | medium | 3      | namecheap       |
-| car.florist        | available | $14.99    | —             | high           | medium | 3      | name.com        |
-| vehicle.casa       | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC     |
-| car.band           | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| car.futbol         | available | $17.99    | $17.99        | high           | medium | 3      | namesilo        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| vehicle.singles | available | $9.49     | $33.99        | high           | low    | 7      | namesilo         |
+| car.actor       | available | $9.48     | $54.98        | high           | medium | 3      | namecheap        |
+| car.bingo       | resell    | $68.98    | —             | high           | medium | 3      | OVH SAS          |
+| car.accountant  | premium   | $650      | $84.50        | high           | medium | 3      | namecheap        |
+| car.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo         |
+| car.co          | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc      |
+| car.apartments  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| car.archi       | available | $24.99    | —             | high           | medium | 3      | name.com         |
+| car.diamonds    | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS          |
+| car.associates  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| car.cars        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| auto.car        | resell    | $2,400    | —             | high           | medium | 4      | Namecheap        |
+| car.autos       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap        |
+| car.democrat    | available | $9.99     | —             | high           | medium | 3      | name.com         |
+| vehicle.casa    | resell    | $17.98    | —             | high           | low    | 7      | Sav.com LLC      |
+| car.baby        | premium   | $650      | $65           | high           | medium | 3      | namecheap        |
+| car.dental      | available | $59.98    | —             | high           | medium | 3      | namecheap        |
+| vehicle.co      | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| car.band        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| car.desi        | available | $22.98    | —             | high           | medium | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 52,527 live domains                        |
+| 1,000-row public sample | 46,108 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 93 high-demand names under $2,500          |
+| Basic exported fields   | 51 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
