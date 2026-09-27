@@ -1,13 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 bd06196c-061e-4f11-94ef-28923e3cf639,car.motorcycles,premium,2660,2660,high,medium,3,namesilo,,,27/09/2026 05:00
-c1719c53-a8a0-4d9c-9ede-0e612a2336d5,car.cars,available,1999.99,2199,high,medium,3,namesilo,,,
+c1719c53-a8a0-4d9c-9ede-0e612a2336d5,car.cars,available,1999.99,2199,high,medium,3,namesilo,,,27/09/2026 05:40
 e7895076-75a8-40c9-aa76-8ef6828ef17d,car.llc,premium,2600,2600,high,medium,3,namecheap,,,
 f97dd25f-0198-4267-a8ea-d46f89cf699c,car.supplies,premium,1040,1040,high,medium,3,namecheap,,,
 0acad491-6e7e-4dc2-bbfc-c1b37ffac4bc,car.flights,premium,242,242,high,medium,3,namesilo,,,
 8d47c30a-18b3-46e3-b763-b2938b64a4d8,car.rsvp,premium,648.7,648.7,high,medium,3,namecheap,,,
 044fab47-8375-4411-903a-ebd651169901,car.makeup,premium,2600,15.73,high,medium,3,namecheap,,,
 e91eafcf-3024-439d-8da2-e49f19c1614d,car.loans,resell,,,high,medium,3,"GoDaddy.com, LLC",26/08/2015 16:00,26/08/2028 16:00,26/09/2026 04:47
-bf0c08a1-cb9f-4ec2-a2a6-3f935f789e43,car.haus,resell,,,high,medium,3,Dynadot Inc,22/01/2019 16:33,22/01/2027 16:33,26/09/2026 04:46
+bf0c08a1-cb9f-4ec2-a2a6-3f935f789e43,car.haus,resell,,,high,medium,3,Dynadot Inc,22/01/2019 16:33,22/01/2027 16:33,27/09/2026 06:33
 ae6029a6-a298-47c5-b2c5-ef716ea1b0ae,car.jetzt,resell,,,high,medium,3,united-domains GmbH,21/06/2016 10:00,21/06/2027 10:00,26/09/2026 04:46
 83d71f32-bc14-41fa-b45a-70e7aa59bf84,car.guide,available,,,high,medium,3,,,,
 c09202ae-d1fd-46f6-a9ec-aefcf4b628bf,car.red,premium,2600,2600,high,medium,3,namecheap,,,
@@ -88,7 +88,6 @@ c29aaf8b-315c-4cf6-ba2f-b74359b7b04c,car.software,premium,3250,3250,high,medium,
 e17eddae-2ea1-420b-b150-45b106c18aac,car.courses,premium,650,650,high,medium,3,namecheap,,,
 9e383cb1-ad63-4c92-9002-884f13fc2b36,car.observer,premium,1040,1040,high,medium,3,namecheap,,,
 2f2b462a-0302-48ac-a9d8-94f027bf0abe,car.luxe,available,,,high,medium,3,,,,
-eaf19ca0-6010-494a-92ae-6c579ce2df0f,car.la,resell,,,high,medium,3,TLD Registrar Solutions Ltd,20/11/2000 01:00,20/11/2026 23:59,26/09/2026 04:47
 be8a4b09-35e5-4ea5-80fa-cfb82fcfe4de,car.soy,premium,698.1,698.1,high,medium,3,namecheap,,,
 68593213-ccbd-4eca-b60f-acdf4c57002c,car.place,premium,1040,1040,high,medium,3,namecheap,,,
 368bb058-704f-41c8-8e0e-d5e9aec460cd,car.cv,premium,1301.53,87.75,high,medium,3,namecheap,,,
@@ -112,6 +111,7 @@ a7991c3f-477b-4964-ae31-6ca51a611e0a,car.discount,premium,1040,1040,high,medium,
 07700fb3-dfae-4817-8e3d-5f149f5490bd,car.lawyer,available,,,high,medium,3,,,,
 1b5c698d-bbdc-4f21-b5b6-96a71ea0bbba,car.locker,premium,13000,58.5,high,medium,3,namecheap,,,
 bf8792b1-adf2-4864-a0a0-aba416e37e84,car.london,premium,1387.74,34.7,high,medium,3,namecheap,,,
+eaf19ca0-6010-494a-92ae-6c579ce2df0f,car.la,resell,,,high,low,3,TLD Registrar Solutions Ltd,20/11/2000 01:00,20/11/2026 23:59,27/09/2026 07:21
 cac88a13-0324-4667-9111-a5efc643aeac,car.forex,resell,,,high,medium,3,OVH SAS,31/01/2026 14:16,31/01/2027 14:16,26/09/2026 04:46
 8cf8ea2a-c35b-42e9-b9c4-2d430b277c28,car.kaufen,resell,,,high,medium,3,Mesh Digital Limited,02/12/2014 21:39,02/12/2026 21:39,26/09/2026 04:47
 e809d0e3-1744-421e-9b7a-e68029f4de4c,car.villas,premium,260,260,high,medium,3,namecheap,,,
@@ -885,7 +885,7 @@ e8836041-b0c5-4dd9-a5bf-b702d5571d87,cars.ltd,resell,,,high,medium,4,"Spaceship,
 2e5003f0-59ca-4430-aa5a-949278f0d8a6,automobile.memorial,available,52.99,52.99,high,low,10,namesilo,,,
 d4c1db94-4cc4-4752-a270-8289cfb72394,automobile.pw,premium,749.17,,high,low,10,name.com,,,
 812c42f1-730d-4d2d-beed-a25b391fc556,engine.broker,available,11.98,47.98,high,low,6,namecheap,,,25/09/2026 03:39
-a97d0a63-f4f4-4c0f-896c-21da7d9886af,vehicle.shop,premium,1250,,high,low,7,name.com,,,
+a97d0a63-f4f4-4c0f-896c-21da7d9886af,vehicle.shop,premium,1107,1107,high,low,7,namesilo,,,27/09/2026 06:57
 cc7978fb-191a-4ccb-bad5-8c0201f710fc,automobile.cooking,available,32.49,32.49,high,low,10,namesilo,,,
 e3c2fd65-0bcf-4fa6-bf50-35d82d96225a,engine.florist,available,32.99,32.99,high,low,6,namesilo,,,25/09/2026 03:39
 380de9bf-07a0-4fe4-b5de-2e44c18fb734,vehicle.srl,available,31.99,31.99,high,low,7,namesilo,,,
