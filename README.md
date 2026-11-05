@@ -16,7 +16,7 @@ This is a curated set of one-word automotive domain names spanning 506 different
 
 **Public extract:** 1,000 rows · **Live catalog:** 146,251 domains · **Median ask:** $277.54 · **High-demand under $2,500:** 2,509
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/automotive`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | car.diamonds   | resell    | $72.98    | —             | high           | medium | 3      | OVH SAS         |
 | car.apartments | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
 | car.cars       | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo        |
-| car.berlin     | resell    | —         | —             | high           | medium | 3      | —               |
+| auto.car       | resell    | $2,400    | —             | high           | medium | 4      | NameCheap, Inc. |
 | car.associates | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot         |
 | car.dental     | available | $62.30    | $62.30        | high           | medium | 3      | spaceship       |
-| car.bet        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| car.berlin     | resell    | —         | —             | high           | medium | 3      | —               |
 | car.autos      | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship       |
 | car.desi       | available | $19.98    | $22.98        | high           | medium | 3      | namecheap       |
-| car.boutique   | resell    | —         | —             | high           | medium | 3      | —               |
+| car.bet        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
 | car.band       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
 | car.florist    | available | $25.20    | $25.20        | high           | medium | 3      | cloudflare      |
-| car.cab        | resell    | —         | —             | high           | medium | 3      | —               |
+| car.boutique   | resell    | —         | —             | high           | medium | 3      | —               |
 | car.black      | premium   | $4,140.20 | $4,140.20     | high           | medium | 3      | spaceship       |
 | car.guitars    | available | $107.22   | $107.22       | high           | medium | 3      | dynadot         |
-| car.cafe       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| car.cab        | resell    | —         | —             | high           | medium | 3      | —               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Automotive Domains Across 506 TLDs*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
